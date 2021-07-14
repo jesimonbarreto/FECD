@@ -1,0 +1,5565 @@
+ESTADO,MUNICIPIO,POP2006
+RO,Alta Floresta D'Oeste,29005
+RO,Alto Alegre dos Parecis,15454
+RO,Alto Para�so,16510
+RO,Alvorada D'Oeste,19542
+RO,Ariquemes,86924
+RO,Buritis,42717
+RO,Cabixi,7421
+RO,Cacaul�ndia,5464
+RO,Cacoal,76422
+RO,Campo Novo de Rond�nia,18619
+RO,Candeias do Jamari,17346
+RO,Castanheiras,4092
+RO,Cerejeiras,17215
+RO,Chupinguaia,6649
+RO,Colorado do Oeste,18342
+RO,Corumbiara,9409
+RO,Costa Marques,11735
+RO,Cujubim,9238
+RO,Espig�o D'Oeste,27559
+RO,Governador Jorge Teixeira,18786
+RO,Guajar�-Mirim,42082
+RO,Itapu� do Oeste,8699
+RO,Jaru,56242
+RO,Ji-Paran�,113453
+RO,Machadinho D'Oeste,29711
+RO,Ministro Andreazza,11223
+RO,Mirante da Serra,14152
+RO,Monte Negro,16881
+RO,Nova Brasil�ndia D'Oeste,18005
+RO,Nova Mamor�,20343
+RO,Nova Uni�o,9526
+RO,Novo Horizonte do Oeste,12916
+RO,Ouro Preto do Oeste,40735
+RO,Parecis,3204
+RO,Pimenta Bueno,31415
+RO,Pimenteiras do Oeste,2633
+RO,Porto Velho,380974
+RO,Presidente M�dici,25313
+RO,Primavera de Rond�nia,4393
+RO,Rio Crespo,3603
+RO,Rolim de Moura,49907
+RO,Santa Luzia D'Oeste,11067
+RO,S�o Felipe D'Oeste,7266
+RO,S�o Francisco do Guapor�,17610
+RO,S�o Miguel do Guapor�,31198
+RO,Seringueiras,16225
+RO,Teixeir�polis,5894
+RO,Theobroma,14326
+RO,Urup�,17761
+RO,Vale do Anari,10962
+RO,Vale do Para�so,10442
+RO,Vilhena,65807
+AC,Acrel�ndia,11786
+AC,Assis Brasil,5153
+AC,Brasil�ia,18056
+AC,Bujari,8751
+AC,Capixaba,7403
+AC,Cruzeiro do Sul,86725
+AC,Epitaciol�ndia,14193
+AC,Feij�,39365
+AC,Jord�o,4662
+AC,M�ncio Lima,13116
+AC,Manoel Urbano,7843
+AC,Marechal Thaumaturgo,8482
+AC,Pl�cido de Castro,17014
+AC,Porto Acre,12335
+AC,Porto Walter,4851
+AC,Rio Branco,314127
+AC,Rodrigues Alves,9989
+AC,Santa Rosa do Purus,3583
+AC,Sena Madureira,33614
+AC,Senador Guiomard,21000
+AC,Tarauac�,30711
+AC,Xapuri,13893
+AM,Alvar�es,14776
+AM,Amatur�,9150
+AM,Anam�,6949
+AM,Anori,12990
+AM,Apu�,19694
+AM,Atalaia do Norte,11523
+AM,Autazes,29534
+AM,Barcelos,33633
+AM,Barreirinha,27069
+AM,Benjamin Constant,26737
+AM,Beruri,13620
+AM,Boa Vista do Ramos,12617
+AM,Boca do Acre,28480
+AM,Borba,36793
+AM,Caapiranga,10215
+AM,Canutama,9723
+AM,Carauari,26377
+AM,Careiro,24499
+AM,Careiro da V�rzea,16626
+AM,Coari,87468
+AM,Codaj�s,20407
+AM,Eirunep�,30125
+AM,Envira,13746
+AM,Fonte Boa,39144
+AM,Guajar�,12228
+AM,Humait�,28498
+AM,Ipixuna,17806
+AM,Iranduba,42812
+AM,Itacoatiara,81674
+AM,Itamarati,7919
+AM,Itapiranga,8866
+AM,Japur�,13096
+AM,Juru�,7687
+AM,Juta�,27955
+AM,L�brea,26020
+AM,Manacapuru,84656
+AM,Manaquiri,14140
+AM,Manaus,1688524
+AM,Manicor�,38168
+AM,Mara�,20836
+AM,Mau�s,46873
+AM,Nhamund�,16864
+AM,Nova Olinda do Norte,31450
+AM,Novo Air�o,6516
+AM,Novo Aripuan�,21051
+AM,Parintins,112636
+AM,Pauini,17131
+AM,Presidente Figueiredo,24781
+AM,Rio Preto da Eva,25513
+AM,Santa Isabel do Rio Negro,7077
+AM,Santo Ant�nio do I��,36098
+AM,S�o Gabriel da Cachoeira,34827
+AM,S�o Paulo de Oliven�a,29916
+AM,S�o Sebasti�o do Uatum�,9039
+AM,Silves,9278
+AM,Tabatinga,45085
+AM,Tapau�,17160
+AM,Tef�,71975
+AM,Tonantins,19439
+AM,Uarini,13729
+AM,Urucar�,23422
+AM,Urucurituba,8386
+RR,Alto Alegre,22856
+RR,Amajari,6229
+RR,Boa Vista,249655
+RR,Bonfim,13220
+RR,Cant�,10826
+RR,Caracara�,18367
+RR,Caroebe,5901
+RR,Iracema,6290
+RR,Mucaja�,11722
+RR,Normandia,5191
+RR,Pacaraima,8435
+RR,Rorain�polis,25913
+RR,S�o Jo�o da Baliza,5494
+RR,S�o Luiz,6702
+RR,Uiramut�,6543
+PA,Abaetetuba,133316
+PA,Abel Figueiredo,7131
+PA,Acar�,63170
+PA,Afu�,36524
+PA,�gua Azul do Norte,33350
+PA,Alenquer,39697
+PA,Almeirim,34338
+PA,Altamira,85649
+PA,Anaj�s,21307
+PA,Ananindeua,498095
+PA,Anapu,6425
+PA,Augusto Corr�a,34998
+PA,Aurora do Par�,25174
+PA,Aveiro,18949
+PA,Bagre,13607
+PA,Bai�o,21893
+PA,Bannach,3345
+PA,Barcarena,76071
+PA,Bel�m,1428368
+PA,Belterra,17659
+PA,Benevides,45774
+PA,Bom Jesus do Tocantins,14232
+PA,Bonito,10762
+PA,Bragan�a,103751
+PA,Brasil Novo,21386
+PA,Brejo Grande do Araguaia,8243
+PA,Breu Branco,46250
+PA,Breves,86084
+PA,Bujaru,26143
+PA,Cachoeira do Arari,17658
+PA,Cachoeira do Piri�,20759
+PA,Camet�,106816
+PA,Cana� dos Caraj�s,13870
+PA,Capanema,61519
+PA,Capit�o Po�o,52960
+PA,Castanhal,158462
+PA,Chaves,17313
+PA,Colares,12328
+PA,Concei��o do Araguaia,44375
+PA,Conc�rdia do Par�,25176
+PA,Cumaru do Norte,6207
+PA,Curion�polis,13785
+PA,Curralinho,23573
+PA,Curu�,9945
+PA,Curu��,30343
+PA,Dom Eliseu,50739
+PA,Eldorado dos Caraj�s,43013
+PA,Faro,15043
+PA,Floresta do Araguaia,15342
+PA,Garraf�o do Norte,26991
+PA,Goian�sia do Par�,31293
+PA,Gurup�,26150
+PA,Igarap�-A�u,36164
+PA,Igarap�-Miri,60558
+PA,Inhangapi,8430
+PA,Ipixuna do Par�,36851
+PA,Irituia,30080
+PA,Itaituba,96515
+PA,Itupiranga,65229
+PA,Jacareacanga,34683
+PA,Jacund�,48368
+PA,Juruti,37064
+PA,Limoeiro do Ajuru,21847
+PA,M�e do Rio,22580
+PA,Magalh�es Barata,7961
+PA,Marab�,200801
+PA,Maracan�,29046
+PA,Marapanim,28141
+PA,Marituba,101356
+PA,Medicil�ndia,22631
+PA,Melga�o,25887
+PA,Mocajuba,22054
+PA,Moju,62223
+PA,Monte Alegre,69372
+PA,Muan�,27758
+PA,Nova Esperan�a do Piri�,27943
+PA,Nova Ipixuna,14348
+PA,Nova Timboteua,12869
+PA,Novo Progresso,39245
+PA,Novo Repartimento,51627
+PA,�bidos,49582
+PA,Oeiras do Par�,26554
+PA,Oriximin�,53999
+PA,Our�m,15605
+PA,Ouril�ndia do Norte,20054
+PA,Pacaj�,31179
+PA,Palestina do Par�,9033
+PA,Paragominas,88877
+PA,Parauapebas,95225
+PA,Pau D'Arco,8939
+PA,Peixe-Boi,9086
+PA,Pi�arra,14389
+PA,Placas,15614
+PA,Ponta de Pedras,20316
+PA,Portel,44393
+PA,Porto de Moz,29890
+PA,Prainha,30278
+PA,Primavera,11014
+PA,Quatipuru,12189
+PA,Reden��o,72085
+PA,Rio Maria,10818
+PA,Rondon do Par�,46311
+PA,Rur�polis,28497
+PA,Salin�polis,41416
+PA,Salvaterra,17505
+PA,Santa B�rbara do Par�,13313
+PA,Santa Cruz do Arari,5611
+PA,Santa Isabel do Par�,50543
+PA,Santa Luzia do Par�,19818
+PA,Santa Maria das Barreiras,13710
+PA,Santa Maria do Par�,22996
+PA,Santana do Araguaia,42523
+PA,Santar�m,276074
+PA,Santar�m Novo,6135
+PA,Santo Ant�nio do Tau�,21836
+PA,S�o Caetano de Odivelas,14608
+PA,S�o Domingos do Araguaia,24230
+PA,S�o Domingos do Capim,32231
+PA,S�o F�lix do Xingu,41813
+PA,S�o Francisco do Par�,16186
+PA,S�o Geraldo do Araguaia,27242
+PA,S�o Jo�o da Ponta,3916
+PA,S�o Jo�o de Pirabas,18389
+PA,S�o Jo�o do Araguaia,17207
+PA,S�o Miguel do Guam�,47599
+PA,S�o Sebasti�o da Boa Vista,19688
+PA,Sapucaia,2752
+PA,Senador Jos� Porf�rio,10285
+PA,Soure,21789
+PA,Tail�ndia,53755
+PA,Terra Alta,10468
+PA,Terra Santa,17395
+PA,Tom�-A�u,51612
+PA,Tracuateua,27090
+PA,Trair�o,17892
+PA,Tucum�,20826
+PA,Tucuru�,87602
+PA,Ulian�polis,27987
+PA,Uruar�,59881
+PA,Vigia,42214
+PA,Viseu,53607
+PA,Vit�ria do Xingu,10206
+PA,Xinguara,29606
+AP,Amap�,7465
+AP,Cal�oene,7878
+AP,Cutias,4466
+AP,Ferreira Gomes,4458
+AP,Itaubal,4062
+AP,Laranjal do Jari,37194
+AP,Macap�,368367
+AP,Mazag�o,14259
+AP,Oiapoque,16826
+AP,Pedra Branca do Amapari,5893
+AP,Porto Grande,15328
+AP,Pracu�ba,2926
+AP,Santana,101864
+AP,Serra do Navio,4326
+AP,Tartarugalzinho,8916
+AP,Vit�ria do Jari,11487
+TO,Abreul�ndia,2392
+TO,Aguiarn�polis,3650
+TO,Alian�a do Tocantins,6491
+TO,Almas,9082
+TO,Alvorada,8280
+TO,Anan�s,12156
+TO,Angico,2898
+TO,Aparecida do Rio Negro,3703
+TO,Aragominas,8614
+TO,Araguacema,6105
+TO,Aragua�u,8951
+TO,Aragua�na,130105
+TO,Araguan�,5691
+TO,Araguatins,29936
+TO,Arapoema,6641
+TO,Arraias,10960
+TO,Augustin�polis,14923
+TO,Aurora do Tocantins,2827
+TO,Axix� do Tocantins,7974
+TO,Baba�ul�ndia,11257
+TO,Bandeirantes do Tocantins,2641
+TO,Barra do Ouro,3776
+TO,Barrol�ndia,4500
+TO,Bernardo Say�o,4725
+TO,Bom Jesus do Tocantins,2204
+TO,Brasil�ndia do Tocantins,2082
+TO,Brejinho de Nazar�,4096
+TO,Buriti do Tocantins,8008
+TO,Cachoeirinha,2430
+TO,Campos Lindos,7307
+TO,Cariri do Tocantins,3173
+TO,Carmol�ndia,2170
+TO,Carrasco Bonito,4472
+TO,Caseara,4314
+TO,Centen�rio,2332
+TO,Chapada da Natividade,3716
+TO,Chapada de Areia,1184
+TO,Colinas do Tocantins,28467
+TO,Colm�ia,9810
+TO,Combinado,4268
+TO,Concei��o do Tocantins,4574
+TO,Couto de Magalh�es,3892
+TO,Cristal�ndia,6862
+TO,Crix�s do Tocantins,1571
+TO,Darcin�polis,5000
+TO,Dian�polis,17270
+TO,Divin�polis do Tocantins,6137
+TO,Dois Irm�os do Tocantins,6766
+TO,Duer�,4705
+TO,Esperantina,9578
+TO,F�tima,3807
+TO,Figueir�polis,5165
+TO,Filad�lfia,8754
+TO,Formoso do Araguaia,20301
+TO,Fortaleza do Taboc�o,2887
+TO,Goianorte,4608
+TO,Goiatins,10777
+TO,Guara�,21175
+TO,Gurupi,72831
+TO,Ipueiras,1184
+TO,Itacaj�,6569
+TO,Itaguatins,6706
+TO,Itapiratins,3613
+TO,Itapor� do Tocantins,1687
+TO,Ja� do Tocantins,3298
+TO,Juarina,2668
+TO,Lagoa da Confus�o,9102
+TO,Lagoa do Tocantins,2927
+TO,Lajeado,3513
+TO,Lavandeira,1222
+TO,Lizarda,3507
+TO,Luzin�polis,2488
+TO,Marian�polis do Tocantins,4070
+TO,Mateiros,1953
+TO,Mauril�ndia do Tocantins,3524
+TO,Miracema do Tocantins,28239
+TO,Miranorte,12463
+TO,Monte do Carmo,4196
+TO,Monte Santo do Tocantins,1948
+TO,Muricil�ndia,2628
+TO,Natividade,9764
+TO,Nazar�,5888
+TO,Nova Olinda,10653
+TO,Nova Rosal�ndia,3273
+TO,Novo Acordo,3498
+TO,Novo Alegre,2574
+TO,Novo Jardim,2617
+TO,Oliveira de F�tima,1039
+TO,Palmas,220889
+TO,Palmeirante,3665
+TO,Palmeiras do Tocantins,5930
+TO,Palmeir�polis,5407
+TO,Para�so do Tocantins,42319
+TO,Paran�,10009
+TO,Pau D'Arco,4689
+TO,Pedro Afonso,9017
+TO,Peixe,8677
+TO,Pequizeiro,5553
+TO,Pindorama do Tocantins,4490
+TO,Piraqu�,3724
+TO,Pium,4106
+TO,Ponte Alta do Bom Jesus,4247
+TO,Ponte Alta do Tocantins,6111
+TO,Porto Alegre do Tocantins,2607
+TO,Porto Nacional,47141
+TO,Praia Norte,8528
+TO,Presidente Kennedy,3899
+TO,Pugmil,2669
+TO,Recursol�ndia,3896
+TO,Riachinho,3749
+TO,Rio da Concei��o,1531
+TO,Rio dos Bois,2833
+TO,Rio Sono,5420
+TO,Sampaio,2448
+TO,Sandol�ndia,3702
+TO,Santa F� do Araguaia,6970
+TO,Santa Maria do Tocantins,2463
+TO,Santa Rita do Tocantins,1939
+TO,Santa Rosa do Tocantins,4681
+TO,Santa Tereza do Tocantins,2424
+TO,Santa Terezinha do Tocantins,2847
+TO,S�o Bento do Tocantins,2889
+TO,S�o F�lix do Tocantins,1595
+TO,S�o Miguel do Tocantins,9613
+TO,S�o Salvador do Tocantins,2843
+TO,S�o Sebasti�o do Tocantins,4534
+TO,S�o Val�rio da Natividade,6092
+TO,Silvan�polis,3873
+TO,S�tio Novo do Tocantins,11225
+TO,Sucupira,1236
+TO,Taguatinga,14477
+TO,Taipas do Tocantins,1369
+TO,Talism�,2809
+TO,Tocant�nia,5927
+TO,Tocantin�polis,26994
+TO,Tupirama,1311
+TO,Tupiratins,1471
+TO,Wanderl�ndia,11022
+TO,Xambio�,12799
+MA,A�ail�ndia,106357
+MA,Afonso Cunha,4754
+MA,�gua Doce do Maranh�o,9826
+MA,Alc�ntara,22550
+MA,Aldeias Altas,18315
+MA,Altamira do Maranh�o,6730
+MA,Alto Alegre do Maranh�o,24121
+MA,Alto Alegre do Pindar�,35695
+MA,Alto Parna�ba,10054
+MA,Amap� do Maranh�o,6627
+MA,Amarante do Maranh�o,37345
+MA,Anajatuba,23214
+MA,Anapurus,10303
+MA,Apicum-A�u,13076
+MA,Araguan�,8664
+MA,Araioses,35212
+MA,Arame,26827
+MA,Arari,27504
+MA,Axix�,10721
+MA,Bacabal,96883
+MA,Bacabeira,11395
+MA,Bacuri,16824
+MA,Bacurituba,5096
+MA,Balsas,73848
+MA,Bar�o de Graja�,16716
+MA,Barra do Corda,78497
+MA,Barreirinhas,45804
+MA,Bela Vista do Maranh�o,10829
+MA,Bel�gua,5409
+MA,Benedito Leite,5590
+MA,Bequim�o,18461
+MA,Bernardo do Mearim,6047
+MA,Boa Vista do Gurupi,6331
+MA,Bom Jardim,38349
+MA,Bom Jesus das Selvas,19578
+MA,Bom Lugar,13413
+MA,Brejo,30073
+MA,Brejo de Areia,8065
+MA,Buriti,25065
+MA,Buriti Bravo,21671
+MA,Buriticupu,66326
+MA,Buritirana,15644
+MA,Cachoeira Grande,8512
+MA,Cajapi�,10864
+MA,Cajari,11474
+MA,Campestre do Maranh�o,13260
+MA,C�ndido Mendes,20656
+MA,Cantanhede,17834
+MA,Capinzal do Norte,10760
+MA,Carolina,23493
+MA,Carutapera,20650
+MA,Caxias,144387
+MA,Cedral,11008
+MA,Central do Maranh�o,8799
+MA,Centro do Guilherme,7052
+MA,Centro Novo do Maranh�o,16464
+MA,Chapadinha,64618
+MA,Cidel�ndia,12371
+MA,Cod�,115098
+MA,Coelho Neto,44095
+MA,Colinas,40836
+MA,Concei��o do Lago-A�u,9459
+MA,Coroat�,60632
+MA,Cururupu,40029
+MA,Davin�polis,11721
+MA,Dom Pedro,23604
+MA,Duque Bacelar,10798
+MA,Esperantin�polis,22498
+MA,Estreito,25520
+MA,Feira Nova do Maranh�o,7505
+MA,Fernando Falc�o,4943
+MA,Formosa da Serra Negra,18100
+MA,Fortaleza dos Nogueiras,12679
+MA,Fortuna,13876
+MA,Godofredo Viana,6715
+MA,Gon�alves Dias,16980
+MA,Governador Archer,8237
+MA,Governador Edison Lob�o,13088
+MA,Governador Eug�nio Barros,15867
+MA,Governador Luiz Rocha,6347
+MA,Governador Newton Bello,13119
+MA,Governador Nunes Freire,33597
+MA,Gra�a Aranha,6220
+MA,Graja�,54392
+MA,Guimar�es,12849
+MA,Humberto de Campos,22149
+MA,Icatu,22088
+MA,Igarap� do Meio,11489
+MA,Igarap� Grande,9090
+MA,Imperatriz,232560
+MA,Itaipava do Graja�,13081
+MA,Itapecuru Mirim,51338
+MA,Itinga do Maranh�o,29114
+MA,Jatob�,4230
+MA,Jenipapo dos Vieiras,14719
+MA,Jo�o Lisboa,21866
+MA,Josel�ndia,14123
+MA,Junco do Maranh�o,6484
+MA,Lago da Pedra,42362
+MA,Lago do Junco,9612
+MA,Lago dos Rodrigues,7925
+MA,Lago Verde,14071
+MA,Lagoa do Mato,10155
+MA,Lagoa Grande do Maranh�o,7988
+MA,Lajeado Novo,6602
+MA,Lima Campos,10967
+MA,Loreto,10437
+MA,Lu�s Domingues,5700
+MA,Magalh�es de Almeida,14149
+MA,Maraca�um�,16971
+MA,Maraj� do Sena,6968
+MA,Maranh�ozinho,10491
+MA,Mata Roma,12680
+MA,Matinha,22078
+MA,Mat�es,27257
+MA,Mat�es do Norte,8040
+MA,Milagres do Maranh�o,7510
+MA,Mirador,21953
+MA,Miranda do Norte,17487
+MA,Mirinzal,13857
+MA,Mon��o,26546
+MA,Montes Altos,11020
+MA,Morros,15865
+MA,Nina Rodrigues,8874
+MA,Nova Colinas,4579
+MA,Nova Iorque,4254
+MA,Nova Olinda do Maranh�o,14086
+MA,Olho d'�gua das Cunh�s,17011
+MA,Olinda Nova do Maranh�o,10075
+MA,Pa�o do Lumiar,101554
+MA,Palmeir�ndia,18520
+MA,Paraibano,19390
+MA,Parnarama,33309
+MA,Passagem Franca,15301
+MA,Pastos Bons,16599
+MA,Paulino Neves,12201
+MA,Paulo Ramos,19093
+MA,Pedreiras,43519
+MA,Pedro do Ros�rio,24220
+MA,Penalva,31047
+MA,Peri Mirim,12846
+MA,Peritor�,20258
+MA,Pindar�-Mirim,29272
+MA,Pinheiro,73502
+MA,Pio XII,28850
+MA,Pirapemas,14088
+MA,Po��o de Pedras,20824
+MA,Porto Franco,18300
+MA,Porto Rico do Maranh�o,5955
+MA,Presidente Dutra,42420
+MA,Presidente Juscelino,11891
+MA,Presidente M�dici,5143
+MA,Presidente Sarney,14745
+MA,Presidente Vargas,10767
+MA,Primeira Cruz,12545
+MA,Raposa,21347
+MA,Riach�o,21367
+MA,Ribamar Fiquene,7170
+MA,Ros�rio,35199
+MA,Samba�ba,4905
+MA,Santa Filomena do Maranh�o,5637
+MA,Santa Helena,34131
+MA,Santa In�s,76173
+MA,Santa Luzia,82854
+MA,Santa Luzia do Paru�,19271
+MA,Santa Quit�ria do Maranh�o,32633
+MA,Santa Rita,25026
+MA,Santana do Maranh�o,11508
+MA,Santo Amaro do Maranh�o,9721
+MA,Santo Ant�nio dos Lopes,14126
+MA,S�o Benedito do Rio Preto,17466
+MA,S�o Bento,34615
+MA,S�o Bernardo,26053
+MA,S�o Domingos do Azeit�o,7709
+MA,S�o Domingos do Maranh�o,37028
+MA,S�o F�lix de Balsas,4331
+MA,S�o Francisco do Brej�o,8413
+MA,S�o Francisco do Maranh�o,12807
+MA,S�o Jo�o do Car�,15087
+MA,S�o Jo�o do Para�so,11839
+MA,S�o Jo�o do Soter,16755
+MA,S�o Jo�o dos Patos,24064
+MA,S�o Jo�o Batista,21365
+MA,S�o Jos� de Ribamar,134593
+MA,S�o Jos� dos Bas�lios,7696
+MA,S�o Lu�s,998385
+MA,S�o Lu�s Gonzaga do Maranh�o,20987
+MA,S�o Mateus do Maranh�o,38235
+MA,S�o Pedro da �gua Branca,11198
+MA,S�o Pedro dos Crentes,4334
+MA,S�o Raimundo das Mangabeiras,15404
+MA,S�o Raimundo do Doca Bezerra,6511
+MA,S�o Roberto,4563
+MA,S�o Vicente Ferrer,19907
+MA,Satubinha,10268
+MA,Senador Alexandre Costa,7671
+MA,Senador La Rocque,18196
+MA,Serrano do Maranh�o,3972
+MA,S�tio Novo,16204
+MA,Sucupira do Norte,10472
+MA,Sucupira do Riach�o,4822
+MA,Tasso Fragoso,6538
+MA,Timbiras,28944
+MA,Timon,146139
+MA,Trizidela do Vale,16870
+MA,Tufil�ndia,5497
+MA,Tuntum,37451
+MA,Turia�u,35597
+MA,Turil�ndia,17747
+MA,Tut�ia,45474
+MA,Urbano Santos,17054
+MA,Vargem Grande,36045
+MA,Viana,45925
+MA,Vila Nova dos Mart�rios,7443
+MA,Vit�ria do Mearim,34750
+MA,Vitorino Freire,28205
+MA,Z� Doca,51966
+PI,Acau�,5792
+PI,Agricol�ndia,5221
+PI,�gua Branca,16176
+PI,Alagoinha do Piau�,5977
+PI,Alegrete do Piau�,4878
+PI,Alto Long�,12205
+PI,Altos,38949
+PI,Alvorada do Gurgu�ia,4238
+PI,Amarante,17147
+PI,Angical do Piau�,7275
+PI,An�sio de Abreu,7757
+PI,Ant�nio Almeida,2537
+PI,Aroazes,6165
+PI,Aroeiras do Itaim,2620
+PI,Arraial,4695
+PI,Assun��o do Piau�,7467
+PI,Avelino Lopes,10620
+PI,Baixa Grande do Ribeiro,8968
+PI,Barra D'Alc�ntara,3621
+PI,Barras,42903
+PI,Barreiras do Piau�,3259
+PI,Barro Duro,7327
+PI,Batalha,26536
+PI,Bela Vista do Piau�,2866
+PI,Bel�m do Piau�,2492
+PI,Beneditinos,9463
+PI,Bertol�nia,4719
+PI,Bet�nia do Piau�,9914
+PI,Boa Hora,6035
+PI,Bocaina,4443
+PI,Bom Jesus,17153
+PI,Bom Princ�pio do Piau�,4167
+PI,Bonfim do Piau�,4811
+PI,Boqueir�o do Piau�,5079
+PI,Brasileira,6814
+PI,Brejo do Piau�,4599
+PI,Buriti dos Lopes,18378
+PI,Buriti dos Montes,8104
+PI,Cabeceiras do Piau�,9141
+PI,Cajazeiras do Piau�,3033
+PI,Cajueiro da Praia,6152
+PI,Caldeir�o Grande do Piau�,5508
+PI,Campinas do Piau�,4584
+PI,Campo Alegre do Fidalgo,4107
+PI,Campo Grande do Piau�,5495
+PI,Campo Largo do Piau�,6433
+PI,Campo Maior,41404
+PI,Canavieira,4152
+PI,Canto do Buriti,18656
+PI,Capit�o de Campos,9944
+PI,Capit�o Gerv�sio Oliveira,2503
+PI,Caracol,9395
+PI,Cara�bas do Piau�,5538
+PI,Caridade do Piau�,4136
+PI,Castelo do Piau�,18644
+PI,Caxing�,5100
+PI,Cocal,25181
+PI,Cocal de Telha,4167
+PI,Cocal dos Alves,5836
+PI,Coivaras,3153
+PI,Col�nia do Gurgu�ia,5627
+PI,Col�nia do Piau�,7485
+PI,Concei��o do Canind�,5506
+PI,Coronel Jos� Dias,4547
+PI,Corrente,24876
+PI,Cristal�ndia do Piau�,6885
+PI,Cristino Castro,9984
+PI,Curimat�,10615
+PI,Currais,4503
+PI,Curral Novo do Piau�,3871
+PI,Curralinhos,4209
+PI,Demerval Lob�o,13966
+PI,Dirceu Arcoverde,6036
+PI,Dom Expedito Lopes,6616
+PI,Dom Inoc�ncio,9933
+PI,Domingos Mour�o,4292
+PI,Elesb�o Veloso,15244
+PI,Eliseu Martins,3909
+PI,Esperantina,35908
+PI,Fartura do Piau�,4569
+PI,Flores do Piau�,4019
+PI,Floresta do Piau�,2485
+PI,Floriano,56880
+PI,Francin�polis,5212
+PI,Francisco Ayres,5390
+PI,Francisco Macedo,2500
+PI,Francisco Santos,7039
+PI,Fronteiras,10511
+PI,Geminiano,5184
+PI,Gilbu�s,11175
+PI,Guadalupe,10911
+PI,Guaribas,4576
+PI,Hugo Napole�o,3755
+PI,Ilha Grande,8656
+PI,Inhuma,15351
+PI,Ipiranga do Piau�,9095
+PI,Isa�as Coelho,7674
+PI,Itain�polis,10132
+PI,Itaueira,9858
+PI,Jacobina do Piau�,5707
+PI,Jaic�s,17268
+PI,Jardim do Mulato,3916
+PI,Jatob� do Piau�,4575
+PI,Jerumenha,4835
+PI,Jo�o Costa,3182
+PI,Joaquim Pires,13298
+PI,Joca Marques,4554
+PI,Jos� de Freitas,35376
+PI,Juazeiro do Piau�,4435
+PI,J�lio Borges,5431
+PI,Jurema,4153
+PI,Lagoa de S�o Francisco,6225
+PI,Lagoa do Barro do Piau�,5088
+PI,Lagoa do Piau�,4005
+PI,Lagoa do S�tio,4596
+PI,Lagoa Alegre,7904
+PI,Lagoinha do Piau�,2304
+PI,Landri Sales,5589
+PI,Lu�s Correia,25679
+PI,Luzil�ndia,22888
+PI,Madeiro,7504
+PI,Manoel Em�dio,4994
+PI,Marcol�ndia,7200
+PI,Marcos Parente,4713
+PI,Massap� do Piau�,6474
+PI,Matias Ol�mpio,10629
+PI,Miguel Alves,31453
+PI,Miguel Le�o,1456
+PI,Milton Brand�o,8083
+PI,Monsenhor Gil,10867
+PI,Monsenhor Hip�lito,7125
+PI,Monte Alegre do Piau�,10809
+PI,Morro do Chap�u do Piau�,7066
+PI,Morro Cabe�a no Tempo,4442
+PI,Murici dos Portelas,6462
+PI,Nazar� do Piau�,7786
+PI,Nossa Senhora de Nazar�,4002
+PI,Nossa Senhora dos Rem�dios,8054
+PI,Nova Santa Rita,4517
+PI,Novo Oriente do Piau�,6792
+PI,Novo Santo Ant�nio,2774
+PI,Oeiras,35218
+PI,Olho D'�gua do Piau�,2038
+PI,Padre Marcos,7574
+PI,Paes Landim,4088
+PI,Paje� do Piau�,2571
+PI,Palmeira do Piau�,5756
+PI,Palmeirais,12828
+PI,Paquet�,4430
+PI,Parnagu�,9883
+PI,Parna�ba,143675
+PI,Passagem Franca do Piau�,4151
+PI,Patos do Piau�,5809
+PI,Pau D'Arco do Piau�,3226
+PI,Paulistana,17859
+PI,Pavussu,3961
+PI,Pedro II,37580
+PI,Pedro Laurentino,2373
+PI,Picos,71825
+PI,Pimenteiras,12504
+PI,Pio IX,16785
+PI,Piracuruca,27621
+PI,Piripiri,62291
+PI,Porto,11356
+PI,Porto Alegre do Piau�,2383
+PI,Prata do Piau�,3418
+PI,Queimada Nova,8969
+PI,Reden��o do Gurgu�ia,8445
+PI,Regenera��o,18228
+PI,Riacho Frio,4522
+PI,Ribeira do Piau�,4041
+PI,Ribeiro Gon�alves,5706
+PI,Rio Grande do Piau�,6376
+PI,Santa Cruz do Piau�,5640
+PI,Santa Cruz dos Milagres,3520
+PI,Santa Filomena,6338
+PI,Santa Luz,5018
+PI,Santa Rosa do Piau�,5464
+PI,Santana do Piau�,4982
+PI,Santo Ant�nio de Lisboa,5214
+PI,Santo Ant�nio dos Milagres,2060
+PI,Santo In�cio do Piau�,3557
+PI,S�o Braz do Piau�,4470
+PI,S�o F�lix do Piau�,3092
+PI,S�o Francisco de Assis do Piau�,4725
+PI,S�o Francisco do Piau�,6120
+PI,S�o Gon�alo do Gurgu�ia,2416
+PI,S�o Gon�alo do Piau�,4749
+PI,S�o Jo�o da Canabrava,4102
+PI,S�o Jo�o da Fronteira,5219
+PI,S�o Jo�o da Serra,6222
+PI,S�o Jo�o da Varjota,4484
+PI,S�o Jo�o do Arraial,7022
+PI,S�o Jo�o do Piau�,18968
+PI,S�o Jos� do Divino,5528
+PI,S�o Jos� do Peixe,3777
+PI,S�o Jos� do Piau�,6840
+PI,S�o Juli�o,6041
+PI,S�o Louren�o do Piau�,4452
+PI,S�o Luis do Piau�,2544
+PI,S�o Miguel da Baixa Grande,2064
+PI,S�o Miguel do Fidalgo,2869
+PI,S�o Miguel do Tapuio,18948
+PI,S�o Pedro do Piau�,13242
+PI,S�o Raimundo Nonato,29370
+PI,Sebasti�o Barros,4933
+PI,Sebasti�o Leal,3903
+PI,Sigefredo Pacheco,9352
+PI,Sim�es,13716
+PI,Simpl�cio Mendes,11416
+PI,Socorro do Piau�,4406
+PI,Sussuapara,5677
+PI,Tamboril do Piau�,2231
+PI,Tanque do Piau�,2692
+PI,Teresina,801971
+PI,Uni�o,42417
+PI,Uru�u�,18297
+PI,Valen�a do Piau�,21293
+PI,V�rzea Branca,5957
+PI,V�rzea Grande,4511
+PI,Vera Mendes,2995
+PI,Vila Nova do Piau�,2962
+PI,Wall Ferraz,4188
+CE,Abaiara,8752
+CE,Acarape,14949
+CE,Acara�,51528
+CE,Acopiara,45569
+CE,Aiuaba,15363
+CE,Alc�ntaras,10244
+CE,Altaneira,6338
+CE,Alto Santo,16713
+CE,Amontada,37634
+CE,Antonina do Norte,7561
+CE,Apuiar�s,14775
+CE,Aquiraz,70938
+CE,Aracati,68673
+CE,Aracoiaba,25214
+CE,Ararend�,10517
+CE,Araripe,21230
+CE,Aratuba,13675
+CE,Arneiroz,7650
+CE,Assar�,21822
+CE,Aurora,25736
+CE,Baixio,5955
+CE,Banabui�,17510
+CE,Barbalha,53388
+CE,Barreira,18698
+CE,Barro,20474
+CE,Barroquinha,14654
+CE,Baturit�,31736
+CE,Beberibe,46439
+CE,Bela Cruz,30126
+CE,Boa Viagem,52071
+CE,Brejo Santo,42004
+CE,Camocim,58710
+CE,Campos Sales,27254
+CE,Canind�,75347
+CE,Capistrano,16373
+CE,Caridade,17948
+CE,Carir�,19260
+CE,Cariria�u,28996
+CE,Cari�s,19089
+CE,Carnaubal,16416
+CE,Cascavel,64256
+CE,Catarina,18217
+CE,Catunda,9593
+CE,Caucaia,313584
+CE,Cedro,24899
+CE,Chaval,13348
+CE,Chor�,12909
+CE,Chorozinho,21083
+CE,Corea�,21767
+CE,Crate�s,74036
+CE,Crato,115087
+CE,Croat�,16936
+CE,Cruz,23908
+CE,Deputado Irapuan Pinheiro,8670
+CE,Erer�,6202
+CE,Eus�bio,39697
+CE,Farias Brito,22303
+CE,Forquilha,19146
+CE,Fortaleza,2416920
+CE,Fortim,13867
+CE,Frecheirinha,13405
+CE,General Sampaio,4349
+CE,Gra�a,15144
+CE,Granja,53645
+CE,Granjeiro,5703
+CE,Groa�ras,9230
+CE,Guai�ba,21600
+CE,Guaraciaba do Norte,38529
+CE,Guaramiranga,6025
+CE,Hidrol�ndia,17530
+CE,Horizonte,45251
+CE,Ibaretama,13528
+CE,Ibiapina,23728
+CE,Ibicuitinga,10054
+CE,Icapu�,17819
+CE,Ic�,64040
+CE,Iguatu,92981
+CE,Independ�ncia,26172
+CE,Ipaporanga,11541
+CE,Ipaumirim,11727
+CE,Ipu,40891
+CE,Ipueiras,40525
+CE,Iracema,12519
+CE,Irau�uba,21338
+CE,Itai�aba,7228
+CE,Itaitinga,33941
+CE,Itapag�,46598
+CE,Itapipoca,107012
+CE,Itapi�na,18593
+CE,Itarema,33894
+CE,Itatira,16789
+CE,Jaguaretama,18352
+CE,Jaguaribara,9478
+CE,Jaguaribe,37032
+CE,Jaguaruana,32557
+CE,Jardim,28225
+CE,Jati,7562
+CE,Jijoca de Jericoacoara,16659
+CE,Juazeiro do Norte,240638
+CE,Juc�s,23764
+CE,Lavras da Mangabeira,31537
+CE,Limoeiro do Norte,55474
+CE,Madalena,16493
+CE,Maracana�,196422
+CE,Maranguape,100279
+CE,Marco,20222
+CE,Martin�pole,10195
+CE,Massap�,33924
+CE,Mauriti,43978
+CE,Meruoca,11999
+CE,Milagres,31306
+CE,Milh�,13994
+CE,Mira�ma,12426
+CE,Miss�o Velha,35068
+CE,Momba�a,41497
+CE,Monsenhor Tabosa,16948
+CE,Morada Nova,68456
+CE,Mora�jo,7618
+CE,Morrinhos,20442
+CE,Mucambo,15185
+CE,Mulungu,9677
+CE,Nova Olinda,12611
+CE,Nova Russas,29964
+CE,Novo Oriente,25505
+CE,Ocara,22882
+CE,Or�s,22030
+CE,Pacajus,53139
+CE,Pacatuba,62320
+CE,Pacoti,11542
+CE,Pacuj�,6131
+CE,Palhano,8329
+CE,Palm�cia,9580
+CE,Paracuru,32418
+CE,Paraipaba,29653
+CE,Parambu,33945
+CE,Paramoti,11357
+CE,Pedra Branca,42177
+CE,Penaforte,7447
+CE,Pentecoste,32857
+CE,Pereiro,15545
+CE,Pindoretama,17530
+CE,Piquet Carneiro,13156
+CE,Pires Ferreira,8722
+CE,Poranga,12240
+CE,Porteiras,16124
+CE,Potengi,9870
+CE,Potiretama,5756
+CE,Quiterian�polis,19569
+CE,Quixad�,75717
+CE,Quixel�,15535
+CE,Quixeramobim,59244
+CE,Quixer�,19124
+CE,Reden��o,26646
+CE,Reriutaba,24121
+CE,Russas,65268
+CE,Saboeiro,16791
+CE,Salitre,14871
+CE,Santa Quit�ria,43781
+CE,Santana do Acara�,28970
+CE,Santana do Cariri,17914
+CE,S�o Benedito,42255
+CE,S�o Gon�alo do Amarante,40281
+CE,S�o Jo�o do Jaguaribe,9117
+CE,S�o Lu�s do Curu,12153
+CE,Senador Pompeu,27512
+CE,Senador S�,5923
+CE,Sobral,175814
+CE,Solon�pole,17457
+CE,Tabuleiro do Norte,28570
+CE,Tamboril,25761
+CE,Tarrafas,8548
+CE,Tau�,52398
+CE,Teju�uoca,14786
+CE,Tiangu�,68464
+CE,Trairi,50575
+CE,Tururu,12667
+CE,Ubajara,29845
+CE,Umari,7094
+CE,Umirim,18830
+CE,Uruburetama,18607
+CE,Uruoca,12410
+CE,Varjota,18905
+CE,V�rzea Alegre,37440
+CE,Vi�osa do Cear�,48799
+RN,Acari,11324
+RN,A�u,51092
+RN,Afonso Bezerra,10966
+RN,�gua Nova,2951
+RN,Alexandria,13175
+RN,Almino Afonso,4823
+RN,Alto do Rodrigues,10424
+RN,Angicos,11583
+RN,Ant�nio Martins,6161
+RN,Apodi,36391
+RN,Areia Branca,23501
+RN,Ar�s,11458
+RN,Augusto Severo,9108
+RN,Ba�a Formosa,8263
+RN,Bara�na,21473
+RN,Barcelona,4238
+RN,Bento Fernandes,4891
+RN,Bod�,2775
+RN,Bom Jesus,9651
+RN,Brejinho,12005
+RN,Cai�ara do Norte,5898
+RN,Cai�ara do Rio do Vento,3053
+RN,Caic�,61704
+RN,Campo Redondo,9092
+RN,Canguaretama,30035
+RN,Cara�bas,17747
+RN,Carna�ba dos Dantas,7294
+RN,Carnaubais,8674
+RN,Cear�-Mirim,70012
+RN,Cerro Cor�,11070
+RN,Coronel Ezequiel,5039
+RN,Coronel Jo�o Pessoa,4687
+RN,Cruzeta,8333
+RN,Currais Novos,41208
+RN,Doutor Severiano,6629
+RN,Encanto,4856
+RN,Equador,5791
+RN,Esp�rito Santo,11154
+RN,Extremoz,22995
+RN,Felipe Guerra,5159
+RN,Fernando Pedroza,2545
+RN,Flor�nia,8930
+RN,Francisco Dantas,2839
+RN,Frutuoso Gomes,4534
+RN,Galinhos,2138
+RN,Goianinha,17783
+RN,Governador Dix-Sept Rosado,12751
+RN,Grossos,8961
+RN,Guamar�,9677
+RN,Ielmo Marinho,11094
+RN,Ipangua�u,12414
+RN,Ipueira,2051
+RN,Itaj�,7350
+RN,Ita�,5544
+RN,Ja�an�,8282
+RN,Janda�ra,6627
+RN,Jandu�s,5312
+RN,Janu�rio Cicco,8447
+RN,Japi,6517
+RN,Jardim de Angicos,2841
+RN,Jardim de Piranhas,13500
+RN,Jardim do Serid�,12190
+RN,Jo�o C�mara,31757
+RN,Jo�o Dias,2553
+RN,Jos� da Penha,6187
+RN,Jucurutu,19267
+RN,Jundi�,3148
+RN,Lagoa d'Anta,6041
+RN,Lagoa de Pedras,7390
+RN,Lagoa de Velhos,3156
+RN,Lagoa Nova,12998
+RN,Lagoa Salgada,7309
+RN,Lajes,9925
+RN,Lajes Pintadas,4582
+RN,Lucr�cia,3404
+RN,Lu�s Gomes,9573
+RN,Maca�ba,63333
+RN,Macau,25489
+RN,Major Sales,3095
+RN,Marcelino Vieira,8048
+RN,Martins,7551
+RN,Maxaranguape,9506
+RN,Messias Targino,3943
+RN,Montanhas,13666
+RN,Monte das Gameleiras,2378
+RN,Monte Alegre,21094
+RN,Mossor�,229787
+RN,Natal,789896
+RN,N�sia Floresta,22814
+RN,Nova Cruz,36629
+RN,Olho-d'�gua do Borges,4376
+RN,Ouro Branco,4757
+RN,Paran�,3724
+RN,Para�,4154
+RN,Parazinho,4580
+RN,Parelhas,20608
+RN,Parnamirim,170055
+RN,Passa e Fica,9664
+RN,Passagem,2870
+RN,Patu,10750
+RN,Pau dos Ferros,27663
+RN,Pedra Grande,4407
+RN,Pedra Preta,2948
+RN,Pedro Avelino,5463
+RN,Pedro Velho,14081
+RN,Pend�ncias,11657
+RN,Pil�es,3624
+RN,Po�o Branco,13596
+RN,Portalegre,7034
+RN,Porto do Mangue,4909
+RN,Presidente Juscelino,7752
+RN,Pureza,7079
+RN,Rafael Fernandes,4923
+RN,Rafael Godeiro,2934
+RN,Riacho da Cruz,2748
+RN,Riacho de Santana,4363
+RN,Riachuelo,5719
+RN,Rio do Fogo,10447
+RN,Rodolfo Fernandes,3883
+RN,Ruy Barbosa,3968
+RN,Santa Cruz,33245
+RN,Santa Maria,4479
+RN,Santana do Matos,17150
+RN,Santana do Serid�,2279
+RN,Santo Ant�nio,20765
+RN,S�o Bento do Norte,3527
+RN,S�o Bento do Trair�,3248
+RN,S�o Fernando,3034
+RN,S�o Francisco do Oeste,3986
+RN,S�o Gon�alo do Amarante,87493
+RN,S�o Jo�o do Sabugi,5857
+RN,S�o Jos� de Mipibu,39909
+RN,S�o Jos� do Campestre,12097
+RN,S�o Jos� do Serid�,4220
+RN,S�o Miguel,21406
+RN,S�o Miguel do Gostoso,8878
+RN,S�o Paulo do Potengi,15368
+RN,S�o Pedro,6596
+RN,S�o Rafael,8466
+RN,S�o Tom�,10305
+RN,S�o Vicente,6116
+RN,Senador El�i de Souza,5559
+RN,Senador Georgino Avelino,3774
+RN,Serra de S�o Bento,5557
+RN,Serra do Mel,8400
+RN,Serra Negra do Norte,7571
+RN,Serrinha,7621
+RN,Serrinha dos Pintos,4263
+RN,Severiano Melo,10714
+RN,S�tio Novo,4336
+RN,Taboleiro Grande,1998
+RN,Taipu,12330
+RN,Tangar�,13526
+RN,Tenente Ananias,8392
+RN,Tenente Laurentino Cruz,5174
+RN,Tibau,4067
+RN,Tibau do Sul,9068
+RN,Timba�ba dos Batistas,2377
+RN,Touros,32801
+RN,Triunfo Potiguar,3728
+RN,Umarizal,11098
+RN,Upanema,12727
+RN,V�rzea,4873
+RN,Venha-Ver,3810
+RN,Vera Cruz,8930
+RN,Vi�osa,1678
+RN,Vila Flor,2699
+PB,�gua Branca,8506
+PB,Aguiar,4440
+PB,Alagoa Grande,28460
+PB,Alagoa Nova,19146
+PB,Alagoinha,12967
+PB,Alcantil,5475
+PB,Algod�o de Janda�ra,2385
+PB,Alhandra,17868
+PB,Amparo,2078
+PB,Aparecida,7254
+PB,Ara�agi,17892
+PB,Arara,12740
+PB,Araruna,17456
+PB,Areia,24654
+PB,Areia de Bara�nas,2340
+PB,Areial,6012
+PB,Aroeiras,19118
+PB,Assun��o,3307
+PB,Ba�a da Trai��o,7314
+PB,Bananeiras,20814
+PB,Bara�na,3682
+PB,Barra de Santa Rosa,12140
+PB,Barra de Santana,8463
+PB,Barra de S�o Miguel,5248
+PB,Bayeux,95004
+PB,Bel�m,17315
+PB,Bel�m do Brejo do Cruz,6176
+PB,Bernardino Batista,2818
+PB,Boa Ventura,7045
+PB,Boa Vista,5578
+PB,Bom Jesus,2532
+PB,Bom Sucesso,4552
+PB,Bonito de Santa F�,9368
+PB,Boqueir�o,15868
+PB,Borborema,5134
+PB,Brejo do Cruz,11492
+PB,Brejo dos Santos,5737
+PB,Caapor�,20979
+PB,Cabaceiras,4253
+PB,Cabedelo,53017
+PB,Cachoeira dos �ndios,8218
+PB,Cacimba de Areia,3804
+PB,Cacimba de Dentro,16185
+PB,Cacimbas,4224
+PB,Cai�ara,7322
+PB,Cajazeiras,57259
+PB,Cajazeirinhas,2671
+PB,Caldas Brand�o,5338
+PB,Camala�,5492
+PB,Campina Grande,379871
+PB,Campo de Santana,8635
+PB,Capim,4304
+PB,Cara�bas,3808
+PB,Carrapateira,2373
+PB,Casserengue,7323
+PB,Catingueira,4415
+PB,Catol� do Rocha,27691
+PB,Caturit�,4473
+PB,Concei��o,17017
+PB,Condado,5827
+PB,Conde,20864
+PB,Congo,4776
+PB,Coremas,15607
+PB,Coxixola,1719
+PB,Cruz do Esp�rito Santo,15138
+PB,Cubati,6469
+PB,Cuit�,19343
+PB,Cuit� de Mamanguape,6388
+PB,Cuitegi,7450
+PB,Curral de Cima,5662
+PB,Curral Velho,2574
+PB,Dami�o,4449
+PB,Desterro,11229
+PB,Diamante,6598
+PB,Dona In�s,11400
+PB,Duas Estradas,2890
+PB,Emas,3011
+PB,Esperan�a,28589
+PB,Fagundes,10929
+PB,Frei Martinho,3100
+PB,Gado Bravo,8363
+PB,Guarabira,53090
+PB,Gurinh�m,13357
+PB,Gurj�o,2568
+PB,Ibiara,6235
+PB,Igaracy,6716
+PB,Imaculada,11823
+PB,Ing�,17129
+PB,Itabaiana,24278
+PB,Itaporanga,22090
+PB,Itapororoca,15518
+PB,Itatuba,9546
+PB,Jacara�,14542
+PB,Jeric�,7539
+PB,Jo�o Pessoa,672081
+PB,Juarez T�vora,6979
+PB,Juazeirinho,15727
+PB,Junco do Serid�,6116
+PB,Juripiranga,9826
+PB,Juru,9692
+PB,Lagoa,4170
+PB,Lagoa de Dentro,6912
+PB,Lagoa Seca,25997
+PB,Lastro,3000
+PB,Livramento,7395
+PB,Logradouro,3529
+PB,Lucena,11275
+PB,M�e d'�gua,3283
+PB,Malta,5447
+PB,Mamanguape,40996
+PB,Mana�ra,9806
+PB,Marca��o,6799
+PB,Mari,20634
+PB,Mariz�polis,5415
+PB,Massaranduba,11451
+PB,Mataraca,6261
+PB,Matinhas,3755
+PB,Mato Grosso,2589
+PB,Matur�ia,5226
+PB,Mogeiro,13184
+PB,Montadas,4067
+PB,Monte Horebe,4156
+PB,Monteiro,28156
+PB,Mulungu,7816
+PB,Natuba,9777
+PB,Nazarezinho,7163
+PB,Nova Floresta,11020
+PB,Nova Olinda,6648
+PB,Nova Palmeira,3760
+PB,Olho d'�gua,6886
+PB,Olivedos,3048
+PB,Ouro Velho,2821
+PB,Parari,1467
+PB,Passagem,2216
+PB,Patos,99494
+PB,Paulista,11460
+PB,Pedra Branca,3785
+PB,Pedra Lavrada,6573
+PB,Pedras de Fogo,26111
+PB,Pedro R�gis,4943
+PB,Pianc�,14068
+PB,Picu�,18987
+PB,Pilar,10825
+PB,Pil�es,7731
+PB,Pil�ezinhos,5459
+PB,Pirpirituba,10092
+PB,Pitimbu,17226
+PB,Pocinhos,15159
+PB,Po�o de Jos� de Moura,3086
+PB,Po�o Dantas,4159
+PB,Pombal,33212
+PB,Prata,3509
+PB,Princesa Isabel,19148
+PB,Puxinan�,12283
+PB,Queimadas,38602
+PB,Quixab�,1050
+PB,Rem�gio,14706
+PB,Riach�o,3052
+PB,Riach�o do Bacamarte,4071
+PB,Riach�o do Po�o,4460
+PB,Riacho de Santo Ant�nio,1406
+PB,Riacho dos Cavalos,7031
+PB,Rio Tinto,22740
+PB,Salgadinho,2907
+PB,Salgado de S�o F�lix,11685
+PB,Santa Cec�lia,6694
+PB,Santa Cruz,5777
+PB,Santa Helena,6202
+PB,Santa In�s,3178
+PB,Santa Luzia,14730
+PB,Santa Rita,131684
+PB,Santa Teresinha,4586
+PB,Santana de Mangueira,5235
+PB,Santana dos Garrotes,7747
+PB,Santar�m,2606
+PB,Santo Andr�,2664
+PB,S�o Bentinho,3887
+PB,S�o Bento,29659
+PB,S�o Domingos de Pombal,2138
+PB,S�o Domingos do Cariri,2447
+PB,S�o Francisco,3607
+PB,S�o Jo�o do Cariri,4715
+PB,S�o Jo�o do Rio do Peixe,17838
+PB,S�o Jo�o do Tigre,4729
+PB,S�o Jos� da Lagoa Tapada,6840
+PB,S�o Jos� de Caiana,6039
+PB,S�o Jos� de Espinharas,4452
+PB,S�o Jos� de Piranhas,18062
+PB,S�o Jos� de Princesa,4767
+PB,S�o Jos� do Bonfim,2793
+PB,S�o Jos� do Brejo do Cruz,1550
+PB,S�o Jos� do Sabugi,3831
+PB,S�o Jos� dos Cordeiros,3658
+PB,S�o Jos� dos Ramos,5006
+PB,S�o Mamede,7646
+PB,S�o Miguel de Taipu,6664
+PB,S�o Sebasti�o de Lagoa de Ro�a,10937
+PB,S�o Sebasti�o do Umbuzeiro,3000
+PB,Sap�,47220
+PB,Serid�,10020
+PB,Serra da Raiz,3239
+PB,Serra Branca,12054
+PB,Serra Grande,3045
+PB,Serra Redonda,7308
+PB,Serraria,4724
+PB,Sert�ozinho,4114
+PB,Sobrado,6342
+PB,Sol�nea,32337
+PB,Soledade,12716
+PB,Soss�go,2751
+PB,Sousa,63622
+PB,Sum�,14614
+PB,Tapero�,13421
+PB,Tavares,13024
+PB,Teixeira,12314
+PB,Ten�rio,2574
+PB,Triunfo,9537
+PB,Uira�na,13271
+PB,Umbuzeiro,8393
+PB,V�rzea,1933
+PB,Vieir�polis,4712
+PB,Vista Serrana,3172
+PB,Zabel�,1968
+PE,Abreu e Lima,97911
+PE,Afogados da Ingazeira,35365
+PE,Afr�nio,16277
+PE,Agrestina,21546
+PE,�gua Preta,30455
+PE,�guas Belas,35374
+PE,Alagoinha,13619
+PE,Alian�a,36992
+PE,Altinho,21382
+PE,Amaraji,22279
+PE,Angelim,9339
+PE,Ara�oiaba,17900
+PE,Araripina,78520
+PE,Arcoverde,65905
+PE,Barra de Guabiraba,11249
+PE,Barreiros,38082
+PE,Bel�m de Maria,9460
+PE,Bel�m de S�o Francisco,18143
+PE,Belo Jardim,74640
+PE,Bet�nia,11363
+PE,Bezerros,61242
+PE,Bodoc�,34114
+PE,Bom Conselho,42756
+PE,Bom Jardim,37172
+PE,Bonito,39805
+PE,Brej�o,9070
+PE,Brejinho,7186
+PE,Brejo da Madre de Deus,43211
+PE,Buenos Aires,11671
+PE,Bu�que,48638
+PE,Cabo de Santo Agostinho,172150
+PE,Cabrob�,28793
+PE,Cachoeirinha,17922
+PE,Caet�s,26732
+PE,Cal�ado,13398
+PE,Calumbi,7228
+PE,Camaragibe,150354
+PE,Camocim de S�o F�lix,16067
+PE,Camutanga,8107
+PE,Canhotinho,25174
+PE,Capoeiras,19540
+PE,Carna�ba,17114
+PE,Carnaubeira da Penha,9833
+PE,Carpina,70337
+PE,Caruaru,283152
+PE,Casinhas,13924
+PE,Catende,31063
+PE,Cedro,9955
+PE,Ch� de Alegria,11252
+PE,Ch� Grande,20556
+PE,Condado,24271
+PE,Correntes,17655
+PE,Cort�s,12823
+PE,Cumaru,34499
+PE,Cupira,22644
+PE,Cust�dia,30797
+PE,Dormentes,15476
+PE,Escada,58450
+PE,Exu,32779
+PE,Feira Nova,19102
+PE,Fernando de Noronha,2321
+PE,Ferreiros,10579
+PE,Flores,20093
+PE,Floresta,27368
+PE,Frei Miguelinho,12149
+PE,Gameleira,27227
+PE,Garanhuns,128398
+PE,Gl�ria do Goit�,28105
+PE,Goiana,76371
+PE,Granito,6230
+PE,Gravat�,71551
+PE,Iati,17029
+PE,Ibimirim,21560
+PE,Ibirajuba,7357
+PE,Igarassu,92455
+PE,Iguaraci,11669
+PE,Ilha de Itamarac�,19001
+PE,Inaj�,14942
+PE,Ingazeira,4668
+PE,Ipojuca,69523
+PE,Ipubi,24381
+PE,Itacuruba,3980
+PE,Ita�ba,26545
+PE,Itamb�,35523
+PE,Itapetim,14107
+PE,Itapissuma,22857
+PE,Itaquitinga,15632
+PE,Jaboat�o dos Guararapes,651355
+PE,Jaqueira,12635
+PE,Jata�ba,14803
+PE,Jatob�,14603
+PE,Jo�o Alfredo,26730
+PE,Joaquim Nabuco,16090
+PE,Jucati,10892
+PE,Jupi,12727
+PE,Jurema,14519
+PE,Lagoa do Carro,14599
+PE,Lagoa do Itaenga,22880
+PE,Lagoa do Ouro,10683
+PE,Lagoa dos Gatos,15611
+PE,Lagoa Grande,22379
+PE,Lajedo,34050
+PE,Limoeiro,57403
+PE,Macaparana,23706
+PE,Machados,10816
+PE,Manari,13665
+PE,Maraial,16124
+PE,Mirandiba,13310
+PE,Moreil�ndia,10552
+PE,Moreno,56650
+PE,Nazar� da Mata,31261
+PE,Olinda,387494
+PE,Orob�,23261
+PE,Oroc�,10894
+PE,Ouricuri,59499
+PE,Palmares,54355
+PE,Palmeirina,10441
+PE,Panelas,24793
+PE,Paranatama,9559
+PE,Parnamirim,19690
+PE,Passira,29130
+PE,Paudalho,49225
+PE,Paulista,299744
+PE,Pedra,20710
+PE,Pesqueira,57794
+PE,Petrol�ndia,31412
+PE,Petrolina,260004
+PE,Po��o,12356
+PE,Pombos,24904
+PE,Primavera,11937
+PE,Quipap�,22894
+PE,Quixaba,6417
+PE,Recife,1515052
+PE,Riacho das Almas,18291
+PE,Ribeir�o,41765
+PE,Rio Formoso,22049
+PE,Sair�,15523
+PE,Salgadinho,8038
+PE,Salgueiro,54794
+PE,Salo�,15131
+PE,Sanhar�,16511
+PE,Santa Cruz,11914
+PE,Santa Cruz da Baixa Verde,10018
+PE,Santa Cruz do Capibaribe,74359
+PE,Santa Filomena,13567
+PE,Santa Maria da Boa Vista,44053
+PE,Santa Maria do Cambuc�,11978
+PE,Santa Terezinha,10623
+PE,S�o Benedito do Sul,10915
+PE,S�o Bento do Una,47669
+PE,S�o Caitano,36255
+PE,S�o Jo�o,20359
+PE,S�o Joaquim do Monte,21727
+PE,S�o Jos� da Coroa Grande,15773
+PE,S�o Jos� do Belmonte,32123
+PE,S�o Jos� do Egito,30053
+PE,S�o Louren�o da Mata,93758
+PE,S�o Vicente Ferrer,17358
+PE,Serra Talhada,69856
+PE,Serrita,16990
+PE,Sert�nia,31766
+PE,Sirinha�m,32889
+PE,Solid�o,5349
+PE,Surubim,53210
+PE,Tabira,25055
+PE,Tacaimb�,13856
+PE,Tacaratu,16907
+PE,Tamandar�,19110
+PE,Taquaritinga do Norte,21726
+PE,Terezinha,5939
+PE,Terra Nova,8140
+PE,Timba�ba,56647
+PE,Toritama,26895
+PE,Tracunha�m,12734
+PE,Trindade,24244
+PE,Triunfo,14794
+PE,Tupanatinga,22023
+PE,Tuparetama,8251
+PE,Venturosa,14491
+PE,Verdejante,9374
+PE,Vertente do L�rio,8508
+PE,Vertentes,15475
+PE,Vic�ncia,29413
+PE,Vit�ria de Santo Ant�o,125563
+PE,Xex�u,15752
+AL,�gua Branca,19032
+AL,Anadia,18967
+AL,Arapiraca,202390
+AL,Atalaia,42022
+AL,Barra de Santo Ant�nio,14254
+AL,Barra de S�o Miguel,7435
+AL,Batalha,16104
+AL,Bel�m,5919
+AL,Belo Monte,6641
+AL,Boca da Mata,25734
+AL,Branquinha,13557
+AL,Cacimbinhas,8180
+AL,Cajueiro,19254
+AL,Campestre,4168
+AL,Campo Alegre,44175
+AL,Campo Grande,8464
+AL,Canapi,16376
+AL,Capela,18631
+AL,Carneiros,7249
+AL,Ch� Preta,7438
+AL,Coit� do N�ia,13615
+AL,Col�nia Leopoldina,18050
+AL,Coqueiro Seco,5393
+AL,Coruripe,44232
+AL,Cra�bas,22986
+AL,Delmiro Gouveia,44311
+AL,Dois Riachos,11846
+AL,Estrela de Alagoas,16900
+AL,Feira Grande,22909
+AL,Feliz Deserto,4130
+AL,Flexeiras,11892
+AL,Girau do Ponciano,30884
+AL,Ibateguara,14724
+AL,Igaci,25183
+AL,Igreja Nova,22635
+AL,Inhapi,19968
+AL,Jacar� dos Homens,6440
+AL,Jacu�pe,7189
+AL,Japaratinga,6702
+AL,Jaramataia,6835
+AL,Jequi� da Praia,12937
+AL,Joaquim Gomes,19483
+AL,Jundi�,3652
+AL,Junqueiro,25023
+AL,Lagoa da Canoa,23009
+AL,Limoeiro de Anadia,27823
+AL,Macei�,922458
+AL,Major Isidoro,17921
+AL,Mar Vermelho,4162
+AL,Maragogi,25845
+AL,Maravilha,15392
+AL,Marechal Deodoro,44038
+AL,Maribondo,15277
+AL,Mata Grande,23965
+AL,Matriz de Camaragibe,26139
+AL,Messias,13044
+AL,Minador do Negr�o,3868
+AL,Monteir�polis,8053
+AL,Murici,21675
+AL,Novo Lino,7287
+AL,Olho d'�gua das Flores,22199
+AL,Olho d'�gua do Casado,7536
+AL,Olho d'�gua Grande,5168
+AL,Oliven�a,10546
+AL,Ouro Branco,10617
+AL,Palestina,5185
+AL,Palmeira dos �ndios,69719
+AL,P�o de A��car,26454
+AL,Pariconha,11330
+AL,Paripueira,8890
+AL,Passo de Camaragibe,13507
+AL,Paulo Jacinto,7757
+AL,Penedo,60502
+AL,Pia�abu�u,16672
+AL,Pilar,32640
+AL,Pindoba,2318
+AL,Piranhas,24108
+AL,Po�o das Trincheiras,14503
+AL,Porto de Pedras,10698
+AL,Porto Calvo,24907
+AL,Porto Real do Col�gio,18945
+AL,Quebrangulo,12272
+AL,Rio Largo,68856
+AL,Roteiro,6645
+AL,Santa Luzia do Norte,6826
+AL,Santana do Ipanema,45474
+AL,Santana do Munda�,11181
+AL,S�o Br�s,6727
+AL,S�o Jos� da Laje,20387
+AL,S�o Jos� da Tapera,27672
+AL,S�o Lu�s do Quitunde,28290
+AL,S�o Miguel dos Campos,43409
+AL,S�o Miguel dos Milagres,6572
+AL,S�o Sebasti�o,32397
+AL,Satuba,15045
+AL,Senador Rui Palmeira,13876
+AL,Tanque d'Arca,5765
+AL,Taquarana,17221
+AL,Teot�nio Vilela,42215
+AL,Traipu,24000
+AL,Uni�o dos Palmares,59503
+AL,Vi�osa,28253
+SE,Amparo de S�o Francisco,2397
+SE,Aquidab�,19873
+SE,Aracaju,505286
+SE,Arau�,11061
+SE,Areia Branca,17989
+SE,Barra dos Coqueiros,21562
+SE,Boquim,25055
+SE,Brejo Grande,7398
+SE,Campo do Brito,16472
+SE,Canhoba,4040
+SE,Canind� de S�o Francisco,22396
+SE,Capela,27562
+SE,Carira,19508
+SE,Carm�polis,11252
+SE,Cedro de S�o Jo�o,5567
+SE,Cristin�polis,16734
+SE,Cumbe,3883
+SE,Divina Pastora,3725
+SE,Est�ncia,62796
+SE,Feira Nova,5549
+SE,Frei Paulo,13226
+SE,Gararu,12027
+SE,General Maynard,2586
+SE,Gracho Cardoso,5773
+SE,Ilha das Flores,9135
+SE,Indiaroba,14294
+SE,Itabaiana,85664
+SE,Itabaianinha,38831
+SE,Itabi,5425
+SE,Itaporanga d'Ajuda,29294
+SE,Japaratuba,15703
+SE,Japoat�,14846
+SE,Lagarto,91605
+SE,Laranjeiras,26972
+SE,Macambira,6418
+SE,Malhada dos Bois,3694
+SE,Malhador,12589
+SE,Maruim,16024
+SE,Moita Bonita,11886
+SE,Monte Alegre de Sergipe,13064
+SE,Muribeca,7411
+SE,Ne�polis,20823
+SE,Nossa Senhora da Gl�ria,29447
+SE,Nossa Senhora das Dores,24109
+SE,Nossa Senhora de Lourdes,7024
+SE,Nossa Senhora do Socorro,179060
+SE,Nossa Senhora Aparecida,8054
+SE,Pacatuba,11563
+SE,Pedra Mole,2989
+SE,Pedrinhas,8389
+SE,Pinh�o,5846
+SE,Pirambu,9041
+SE,Po�o Redondo,30358
+SE,Po�o Verde,21678
+SE,Porto da Folha,27281
+SE,Propri�,29081
+SE,Riach�o do Dantas,20835
+SE,Riachuelo,8918
+SE,Ribeir�polis,16479
+SE,Ros�rio do Catete,8183
+SE,Salgado,20472
+SE,Santa Luzia do Itanhy,15336
+SE,Santa Rosa de Lima,3766
+SE,Santana do S�o Francisco,6357
+SE,Santo Amaro das Brotas,10704
+SE,S�o Crist�v�o,77278
+SE,S�o Domingos,10375
+SE,S�o Francisco,2761
+SE,S�o Miguel do Aleixo,3680
+SE,Sim�o Dias,40225
+SE,Siriri,7370
+SE,Telha,2958
+SE,Tobias Barreto,47307
+SE,Tomar do Geru,13994
+SE,Umba�ba,22425
+BA,Aba�ra,9298
+BA,Abar�,15268
+BA,Acajutiba,15374
+BA,Adustina,14735
+BA,�gua Fria,15140
+BA,Aiquara,4360
+BA,Alagoinhas,139818
+BA,Alcoba�a,24378
+BA,Almadina,6284
+BA,Amargosa,33378
+BA,Am�lia Rodrigues,25132
+BA,Am�rica Dourada,15955
+BA,Anag�,23338
+BA,Andara�,13589
+BA,Andorinha,14746
+BA,Angical,13706
+BA,Anguera,9552
+BA,Antas,11816
+BA,Ant�nio Cardoso,11835
+BA,Ant�nio Gon�alves,6500
+BA,Apor�,17525
+BA,Apuarema,6829
+BA,Ara�as,12549
+BA,Aracatu,15511
+BA,Araci,49236
+BA,Aramari,10453
+BA,Arataca,9468
+BA,Aratu�pe,8801
+BA,Aurelino Leal,18189
+BA,Baian�polis,10968
+BA,Baixa Grande,19562
+BA,Banza�,10911
+BA,Barra,47441
+BA,Barra da Estiva,29738
+BA,Barra do Cho�a,52583
+BA,Barra do Mendes,13634
+BA,Barra do Rocha,6884
+BA,Barreiras,138037
+BA,Barro Alto,12127
+BA,Barro Preto,7130
+BA,Barrocas,12960
+BA,Belmonte,18531
+BA,Belo Campo,20125
+BA,Biritinga,14656
+BA,Boa Nova,25728
+BA,Boa Vista do Tupim,19327
+BA,Bom Jesus da Lapa,58480
+BA,Bom Jesus da Serra,10705
+BA,Boninal,11590
+BA,Bonito,14240
+BA,Boquira,24093
+BA,Botupor�,13516
+BA,Brej�es,17040
+BA,Brejol�ndia,6916
+BA,Brotas de Maca�bas,11418
+BA,Brumado,64980
+BA,Buerarema,17850
+BA,Buritirama,21670
+BA,Caatiba,19780
+BA,Cabaceiras do Paragua�u,16301
+BA,Cachoeira,31982
+BA,Cacul�,22200
+BA,Ca�m,9210
+BA,Caetanos,14859
+BA,Caetit�,48559
+BA,Cafarnaum,17065
+BA,Cairu,8606
+BA,Caldeir�o Grande,8140
+BA,Camacan,26660
+BA,Cama�ari,197144
+BA,Camamu,34258
+BA,Campo Alegre de Lourdes,28699
+BA,Campo Formoso,61823
+BA,Can�polis,9940
+BA,Canarana,21713
+BA,Canavieiras,37018
+BA,Candeal,9674
+BA,Candeias,83295
+BA,Candiba,11766
+BA,C�ndido Sales,32160
+BA,Cansan��o,32716
+BA,Canudos,13760
+BA,Capela do Alto Alegre,8036
+BA,Capim Grosso,27037
+BA,Cara�bas,9165
+BA,Caravelas,21007
+BA,Cardeal da Silva,9237
+BA,Carinhanha,28529
+BA,Casa Nova,62279
+BA,Castro Alves,24668
+BA,Catol�ndia,2958
+BA,Catu,49162
+BA,Caturama,8482
+BA,Central,15829
+BA,Chorroch�,10589
+BA,C�cero Dantas,33683
+BA,Cip�,15767
+BA,Coaraci,25486
+BA,Cocos,18810
+BA,Concei��o da Feira,18580
+BA,Concei��o do Almeida,19185
+BA,Concei��o do Coit�,59248
+BA,Concei��o do Jacu�pe,28616
+BA,Conde,23576
+BA,Conde�ba,18157
+BA,Contendas do Sincor�,3896
+BA,Cora��o de Maria,25203
+BA,Cordeiros,6373
+BA,Coribe,15871
+BA,Coronel Jo�o S�,21530
+BA,Correntina,32482
+BA,Cotegipe,14032
+BA,Cravol�ndia,5208
+BA,Cris�polis,20701
+BA,Crist�polis,12670
+BA,Cruz das Almas,58345
+BA,Cura��,31747
+BA,D�rio Meira,16485
+BA,Dias d'�vila,55698
+BA,Dom Bas�lio,10940
+BA,Dom Macedo Costa,3633
+BA,El�sio Medrado,7875
+BA,Encruzilhada,41439
+BA,Entre Rios,44727
+BA,�rico Cardoso,12504
+BA,Esplanada,30194
+BA,Euclides da Cunha,55412
+BA,Eun�polis,94118
+BA,F�tima,18751
+BA,Feira da Mata,6155
+BA,Feira de Santana,535820
+BA,Filad�lfia,17341
+BA,Firmino Alves,4910
+BA,Floresta Azul,9901
+BA,Formosa do Rio Preto,20402
+BA,Gandu,27675
+BA,Gavi�o,3079
+BA,Gentio do Ouro,9495
+BA,Gl�ria,15843
+BA,Gongogi,11679
+BA,Governador Mangabeira,18883
+BA,Guajeru,16004
+BA,Guanambi,76247
+BA,Guaratinga,23493
+BA,Heli�polis,14384
+BA,Ia�u,30295
+BA,Ibiassuc�,13513
+BA,Ibicara�,27610
+BA,Ibicoara,17578
+BA,Ibicu�,14756
+BA,Ibipeba,13825
+BA,Ibipitanga,13547
+BA,Ibiquera,3506
+BA,Ibirapitanga,18784
+BA,Ibirapu�,6217
+BA,Ibirataia,26249
+BA,Ibitiara,12554
+BA,Ibitit�,18362
+BA,Ibotirama,24796
+BA,Ichu,3381
+BA,Igapor�,14920
+BA,Igrapi�na,16628
+BA,Igua�,26717
+BA,Ilh�us,220932
+BA,Inhambupe,32397
+BA,Ipecaet�,19861
+BA,Ipia�,42425
+BA,Ipir�,61064
+BA,Ipupiara,8914
+BA,Irajuba,6368
+BA,Iramaia,17814
+BA,Iraquara,19312
+BA,Irar�,26116
+BA,Irec�,62244
+BA,Itabela,29353
+BA,Itaberaba,62774
+BA,Itabuna,205070
+BA,Itacar�,17891
+BA,Itaet�,13792
+BA,Itagi,14684
+BA,Itagib�,15184
+BA,Itagimirim,7611
+BA,Itagua�u da Bahia,8713
+BA,Itaju do Col�nia,7701
+BA,Itaju�pe,20729
+BA,Itamaraju,64023
+BA,Itamari,7991
+BA,Itamb�,35968
+BA,Itanagra,6972
+BA,Itanh�m,19941
+BA,Itaparica,21810
+BA,Itap�,13899
+BA,Itapebi,11161
+BA,Itapetinga,61212
+BA,Itapicuru,29130
+BA,Itapitanga,10314
+BA,Itaquara,8363
+BA,Itarantim,16707
+BA,Itatim,14660
+BA,Itiru�u,14294
+BA,Iti�ba,36383
+BA,Itoror�,19275
+BA,Itua�u,17842
+BA,Ituber�,26770
+BA,Iui�,10230
+BA,Jaborandi,9254
+BA,Jacaraci,13211
+BA,Jacobina,76473
+BA,Jaguaquara,51960
+BA,Jaguarari,24666
+BA,Jaguaripe,13370
+BA,Janda�ra,11354
+BA,Jequi�,148992
+BA,Jeremoabo,32314
+BA,Jiquiri��,15019
+BA,Jita�na,21222
+BA,Jo�o Dourado,18787
+BA,Juazeiro,208299
+BA,Jucuru�u,9700
+BA,Jussara,16324
+BA,Jussari,6883
+BA,Jussiape,11460
+BA,Lafaiete Coutinho,3349
+BA,Lagoa Real,14081
+BA,Laje,20545
+BA,Lajed�o,3108
+BA,Lajedinho,2973
+BA,Lajedo do Tabocal,9296
+BA,Lamar�o,8969
+BA,Lap�o,27536
+BA,Lauro de Freitas,146150
+BA,Len��is,9887
+BA,Lic�nio de Almeida,11067
+BA,Livramento de Nossa Senhora,40735
+BA,Lu�s Eduardo Magalh�es,22690
+BA,Macajuba,12207
+BA,Macarani,14990
+BA,Maca�bas,46606
+BA,Macurur�,9969
+BA,Madre de Deus,14137
+BA,Maetinga,16107
+BA,Maiquinique,6953
+BA,Mairi,19581
+BA,Malhada,15912
+BA,Malhada de Pedras,9271
+BA,Manoel Vitorino,16468
+BA,Mansid�o,11603
+BA,Marac�s,35019
+BA,Maragogipe,41421
+BA,Mara�,19007
+BA,Marcion�lio Souza,8649
+BA,Mascote,13084
+BA,Mata de S�o Jo�o,34065
+BA,Matina,11240
+BA,Medeiros Neto,19892
+BA,Miguel Calmon,30931
+BA,Milagres,14106
+BA,Mirangaba,13974
+BA,Mirante,17700
+BA,Monte Santo,56962
+BA,Morpar�,9470
+BA,Morro do Chap�u,36503
+BA,Mortugaba,12370
+BA,Mucug�,16148
+BA,Mucuri,35763
+BA,Mulungu do Morro,16134
+BA,Mundo Novo,14217
+BA,Muniz Ferreira,7428
+BA,Muqu�m de S�o Francisco,9638
+BA,Muritiba,32915
+BA,Mutu�pe,20441
+BA,Nazar�,26668
+BA,Nilo Pe�anha,10420
+BA,Nordestina,13630
+BA,Nova Cana�,16508
+BA,Nova F�tima,5394
+BA,Nova Ibi�,4709
+BA,Nova Itarana,6560
+BA,Nova Reden��o,7397
+BA,Nova Soure,24207
+BA,Nova Vi�osa,36868
+BA,Novo Horizonte,7263
+BA,Novo Triunfo,15454
+BA,Olindina,25711
+BA,Oliveira dos Brejinhos,22086
+BA,Ouri�angas,7880
+BA,Ourol�ndia,17655
+BA,Palmas de Monte Alto,19821
+BA,Palmeiras,7795
+BA,Paramirim,19243
+BA,Paratinga,30255
+BA,Paripiranga,27006
+BA,Pau Brasil,10742
+BA,Paulo Afonso,103776
+BA,P� de Serra,10941
+BA,Pedr�o,6728
+BA,Pedro Alexandre,18538
+BA,Piat�,19470
+BA,Pil�o Arcado,29803
+BA,Pinda�,14698
+BA,Pindoba�u,18528
+BA,Pintadas,11311
+BA,Pira� do Norte,7969
+BA,Pirip�,20335
+BA,Piritiba,15252
+BA,Planaltino,6218
+BA,Planalto,20367
+BA,Po��es,48911
+BA,Pojuca,28914
+BA,Ponto Novo,17199
+BA,Porto Seguro,140692
+BA,Potiragu�,17665
+BA,Prado,29345
+BA,Presidente Dutra,14116
+BA,Presidente J�nio Quadros,19196
+BA,Presidente Tancredo Neves,20044
+BA,Queimadas,25682
+BA,Quijingue,28157
+BA,Quixabeira,9298
+BA,Rafael Jambeiro,22621
+BA,Remanso,37639
+BA,Retirol�ndia,10590
+BA,Riach�o das Neves,23121
+BA,Riach�o do Jacu�pe,27231
+BA,Riacho de Santana,29662
+BA,Ribeira do Amparo,13874
+BA,Ribeira do Pombal,49040
+BA,Ribeir�o do Largo,18524
+BA,Rio de Contas,13680
+BA,Rio do Ant�nio,15606
+BA,Rio do Pires,11943
+BA,Rio Real,37294
+BA,Rodelas,7705
+BA,Ruy Barbosa,28270
+BA,Salinas da Margarida,11215
+BA,Salvador,2714018
+BA,Santa B�rbara,18791
+BA,Santa Br�gida,19564
+BA,Santa Cruz da Vit�ria,7299
+BA,Santa Cruz Cabr�lia,36669
+BA,Santa In�s,11748
+BA,Santa Luzia,14902
+BA,Santa Maria da Vit�ria,41064
+BA,Santa Rita de C�ssia,24605
+BA,Santa Teresinha,8575
+BA,Santaluz,31191
+BA,Santana,23749
+BA,Santan�polis,8139
+BA,Santo Amaro,61547
+BA,Santo Ant�nio de Jesus,86970
+BA,Santo Est�v�o,44193
+BA,S�o Desid�rio,19027
+BA,S�o Domingos,7237
+BA,S�o Felipe,20317
+BA,S�o F�lix,14816
+BA,S�o F�lix do Coribe,11642
+BA,S�o Francisco do Conde,30733
+BA,S�o Gabriel,18801
+BA,S�o Gon�alo dos Campos,28997
+BA,S�o Jos� da Vit�ria,4326
+BA,S�o Jos� do Jacu�pe,5648
+BA,S�o Miguel das Matas,10542
+BA,S�o Sebasti�o do Pass�,42269
+BA,Sapea�u,17377
+BA,S�tiro Dias,19882
+BA,Saubara,11796
+BA,Sa�de,11561
+BA,Seabra,40573
+BA,Sebasti�o Laranjeiras,9425
+BA,Senhor do Bonfim,56161
+BA,Sento S�,35462
+BA,Serra do Ramalho,32185
+BA,Serra Dourada,18414
+BA,Serra Preta,17778
+BA,Serrinha,75544
+BA,Serrol�ndia,12090
+BA,Sim�es Filho,109930
+BA,S�tio do Mato,14001
+BA,S�tio do Quinto,20700
+BA,Sobradinho,21411
+BA,Souto Soares,12172
+BA,Tabocas do Brejo Velho,13604
+BA,Tanha�u,21321
+BA,Tanque Novo,17122
+BA,Tanquinho,5383
+BA,Tapero�,15113
+BA,Tapiramut�,19543
+BA,Teixeira de Freitas,123557
+BA,Teodoro Sampaio,8356
+BA,Teofil�ndia,19594
+BA,Teol�ndia,12674
+BA,Terra Nova,13344
+BA,Tremedal,20807
+BA,Tucano,54137
+BA,Uau�,27208
+BA,Uba�ra,20437
+BA,Ubaitaba,25910
+BA,Ubat�,18786
+BA,Uiba�,13811
+BA,Umburanas,16055
+BA,Una,36788
+BA,Urandi,16151
+BA,Uru�uca,12634
+BA,Utinga,16772
+BA,Valen�a,85300
+BA,Valente,20114
+BA,V�rzea da Ro�a,13769
+BA,V�rzea do Po�o,6624
+BA,V�rzea Nova,11952
+BA,Varzedo,8681
+BA,Vera Cruz,35358
+BA,Vereda,6372
+BA,Vit�ria da Conquista,290042
+BA,Wagner,9817
+BA,Wanderley,13658
+BA,Wenceslau Guimar�es,29304
+BA,Xique-Xique,47918
+MG,Abadia dos Dourados,6412
+MG,Abaet�,23595
+MG,Abre Campo,13313
+MG,Acaiaca,4111
+MG,A�ucena,11227
+MG,�gua Boa,19292
+MG,�gua Comprida,2302
+MG,Aguanil,3832
+MG,�guas Formosas,18435
+MG,�guas Vermelhas,13070
+MG,Aimor�s,24118
+MG,Aiuruoca,6360
+MG,Alagoa,2833
+MG,Albertina,3103
+MG,Al�m Para�ba,35589
+MG,Alfenas,77494
+MG,Alfredo Vasconcelos,5306
+MG,Almenara,36637
+MG,Alpercata,7124
+MG,Alpin�polis,18690
+MG,Alterosa,13982
+MG,Alto Capara�,5428
+MG,Alto Jequitib�,9214
+MG,Alto Rio Doce,13635
+MG,Alvarenga,4627
+MG,Alvin�polis,15783
+MG,Alvorada de Minas,3256
+MG,Amparo do Serra,4919
+MG,Andradas,36361
+MG,Andrel�ndia,12172
+MG,Angel�ndia,9457
+MG,Ant�nio Carlos,11652
+MG,Ant�nio Dias,10245
+MG,Ant�nio Prado de Minas,1453
+MG,Ara�a�,2268
+MG,Aracitaba,1854
+MG,Ara�ua�,37108
+MG,Araguari,109876
+MG,Arantina,3104
+MG,Araponga,7947
+MG,Arapor�,6002
+MG,Arapu�,2471
+MG,Ara�jos,6742
+MG,Arax�,85713
+MG,Arceburgo,8609
+MG,Arcos,36581
+MG,Areado,13271
+MG,Argirita,3234
+MG,Aricanduva,4528
+MG,Arinos,18141
+MG,Astolfo Dutra,12095
+MG,Atal�ia,15902
+MG,Augusto de Lima,4740
+MG,Baependi,18173
+MG,Baldim,7986
+MG,Bambu�,22528
+MG,Bandeira,4952
+MG,Bandeira do Sul,5490
+MG,Bar�o de Cocais,25682
+MG,Bar�o de Monte Alto,6247
+MG,Barbacena,124601
+MG,Barra Longa,6558
+MG,Barroso,19353
+MG,Bela Vista de Minas,10032
+MG,Belmiro Braga,3022
+MG,Belo Horizonte,2399920
+MG,Belo Oriente,21584
+MG,Belo Vale,7717
+MG,Berilo,12790
+MG,Berizal,4387
+MG,Bert�polis,4157
+MG,Betim,407003
+MG,Bias Fortes,4052
+MG,Bicas,13942
+MG,Biquinhas,2648
+MG,Boa Esperan�a,40074
+MG,Bocaina de Minas,5012
+MG,Bocai�va,45349
+MG,Bom Despacho,43353
+MG,Bom Jardim de Minas,6944
+MG,Bom Jesus da Penha,3967
+MG,Bom Jesus do Amparo,4718
+MG,Bom Jesus do Galho,15178
+MG,Bom Repouso,11706
+MG,Bom Sucesso,17502
+MG,Bonfim,6632
+MG,Bonfin�polis de Minas,6036
+MG,Bonito de Minas,8145
+MG,Borda da Mata,16322
+MG,Botelhos,15732
+MG,Botumirim,6542
+MG,Br�s Pires,4568
+MG,Brasil�ndia de Minas,12163
+MG,Bras�lia de Minas,30706
+MG,Bras�polis,16240
+MG,Bra�nas,4590
+MG,Brumadinho,32014
+MG,Bueno Brand�o,11039
+MG,Buen�polis,10687
+MG,Bugre,3690
+MG,Buritis,21859
+MG,Buritizeiro,26959
+MG,Cabeceira Grande,6519
+MG,Cabo Verde,14839
+MG,Cachoeira da Prata,3872
+MG,Cachoeira de Minas,11466
+MG,Cachoeira de Paje�,8337
+MG,Cachoeira Dourada,2321
+MG,Caetan�polis,9434
+MG,Caet�,38552
+MG,Caiana,4207
+MG,Cajuri,4537
+MG,Caldas,13057
+MG,Camacho,3325
+MG,Camanducaia,23205
+MG,Cambu�,26484
+MG,Cambuquira,13299
+MG,Campan�rio,3590
+MG,Campanha,15456
+MG,Campestre,22854
+MG,Campina Verde,18376
+MG,Campo do Meio,11845
+MG,Campo Azul,3763
+MG,Campo Belo,52631
+MG,Campo Florido,5926
+MG,Campos Altos,14081
+MG,Campos Gerais,28459
+MG,Cana Verde,5710
+MG,Cana�,4329
+MG,Can�polis,6674
+MG,Candeias,15091
+MG,Cantagalo,4041
+MG,Capara�,5539
+MG,Capela Nova,4834
+MG,Capelinha,35422
+MG,Capetinga,7516
+MG,Capim Branco,9050
+MG,Capin�polis,13917
+MG,Capit�o Andrade,4169
+MG,Capit�o En�as,14134
+MG,Capit�lio,8413
+MG,Caputira,9579
+MG,Cara�,20392
+MG,Carana�ba,3491
+MG,Caranda�,22701
+MG,Carangola,32586
+MG,Caratinga,82632
+MG,Carbonita,9538
+MG,Carea�u,6034
+MG,Carlos Chagas,21038
+MG,Carm�sia,2249
+MG,Carmo da Cachoeira,12576
+MG,Carmo da Mata,10525
+MG,Carmo de Minas,13472
+MG,Carmo do Cajuru,19184
+MG,Carmo do Parana�ba,31014
+MG,Carmo do Rio Claro,21404
+MG,Carm�polis de Minas,14875
+MG,Carneirinho,8248
+MG,Carrancas,3413
+MG,Carvalh�polis,3469
+MG,Carvalhos,4772
+MG,Casa Grande,2390
+MG,Cascalho Rico,2617
+MG,C�ssia,18357
+MG,Cataguases,68298
+MG,Catas Altas,4555
+MG,Catas Altas da Noruega,3221
+MG,Catuji,7547
+MG,Catuti,5020
+MG,Caxambu,24079
+MG,Cedro do Abaet�,1205
+MG,Central de Minas,6626
+MG,Centralina,7614
+MG,Ch�cara,1714
+MG,Chal�,5762
+MG,Chapada do Norte,14807
+MG,Chapada Ga�cha,9402
+MG,Chiador,3001
+MG,Cipot�nea,6423
+MG,Claraval,4858
+MG,Claro dos Po��es,8160
+MG,Cl�udio,25509
+MG,Coimbra,7296
+MG,Coluna,8650
+MG,Comendador Gomes,2752
+MG,Comercinho,10177
+MG,Concei��o da Aparecida,9530
+MG,Concei��o da Barra de Minas,4112
+MG,Concei��o das Alagoas,19449
+MG,Concei��o das Pedras,2877
+MG,Concei��o de Ipanema,3796
+MG,Concei��o do Mato Dentro,18575
+MG,Concei��o do Par�,5454
+MG,Concei��o do Rio Verde,13604
+MG,Concei��o dos Ouros,9841
+MG,C�nego Marinho,6374
+MG,Confins,5802
+MG,Congonhal,9932
+MG,Congonhas,45611
+MG,Congonhas do Norte,5166
+MG,Conquista,5401
+MG,Conselheiro Lafaiete,113019
+MG,Conselheiro Pena,20492
+MG,Consola��o,1692
+MG,Contagem,603376
+MG,Coqueiral,9906
+MG,Cora��o de Jesus,26187
+MG,Cordisburgo,8574
+MG,Cordisl�ndia,3602
+MG,Corinto,24139
+MG,Coroaci,10803
+MG,Coromandel,29298
+MG,Coronel Fabriciano,104851
+MG,Coronel Murta,9092
+MG,Coronel Pacheco,2640
+MG,Coronel Xavier Chaves,3331
+MG,C�rrego do Bom Jesus,3752
+MG,C�rrego Danta,3161
+MG,C�rrego Fundo,5591
+MG,C�rrego Novo,3457
+MG,Couto de Magalh�es de Minas,4003
+MG,Cris�lita,5438
+MG,Cristais,10018
+MG,Crist�lia,6012
+MG,Cristiano Otoni,5416
+MG,Cristina,10592
+MG,Crucil�ndia,4402
+MG,Cruzeiro da Fortaleza,4202
+MG,Cruz�lia,15310
+MG,Cuparaque,4317
+MG,Curral de Dentro,6794
+MG,Curvelo,73792
+MG,Datas,5290
+MG,Delfim Moreira,8159
+MG,Delfin�polis,6488
+MG,Delta,5498
+MG,Descoberto,4862
+MG,Desterro de Entre Rios,6794
+MG,Desterro do Melo,2979
+MG,Diamantina,44229
+MG,Diogo de Vasconcelos,3832
+MG,Dion�sio,10221
+MG,Divin�sia,3320
+MG,Divino,19922
+MG,Divino das Laranjeiras,4731
+MG,Divinol�ndia de Minas,6910
+MG,Divin�polis,207983
+MG,Divisa Alegre,5375
+MG,Divisa Nova,5999
+MG,Divis�polis,6932
+MG,Dom Bosco,3864
+MG,Dom Cavati,4961
+MG,Dom Joaquim,4504
+MG,Dom Silv�rio,4599
+MG,Dom Vi�oso,3155
+MG,Dona Eus�bia,5774
+MG,Dores de Campos,9158
+MG,Dores de Guanh�es,5363
+MG,Dores do Indai�,14758
+MG,Dores do Turvo,4619
+MG,Dores�polis,1426
+MG,Douradoquara,1934
+MG,Durand�,7856
+MG,El�i Mendes,23849
+MG,Engenheiro Caldas,9740
+MG,Engenheiro Navarro,6729
+MG,Entre Folhas,5217
+MG,Entre Rios de Minas,13749
+MG,Erv�lia,18102
+MG,Esmeraldas,63936
+MG,Espera Feliz,21256
+MG,Espinosa,31253
+MG,Esp�rito Santo do Dourado,4248
+MG,Estiva,10872
+MG,Estrela do Indai�,3312
+MG,Estrela do Sul,6624
+MG,Estrela Dalva,2716
+MG,Eugen�polis,9722
+MG,Ewbank da C�mara,3846
+MG,Extrema,22844
+MG,Fama,2529
+MG,Faria Lemos,3978
+MG,Fel�cio dos Santos,5675
+MG,Felisburgo,6418
+MG,Felixl�ndia,13418
+MG,Fernandes Tourinho,2035
+MG,Ferros,11003
+MG,Fervedouro,10143
+MG,Florestal,6086
+MG,Formiga,67174
+MG,Formoso,6022
+MG,Fortaleza de Minas,3729
+MG,Fortuna de Minas,2549
+MG,Francisco Badar�,10366
+MG,Francisco Dumont,5096
+MG,Francisco S�,22504
+MG,Francisc�polis,5994
+MG,Frei Gaspar,5212
+MG,Frei Inoc�ncio,8864
+MG,Frei Lagonegro,2963
+MG,Fronteira,9853
+MG,Fronteira dos Vales,4753
+MG,Fruta de Leite,6407
+MG,Frutal,50367
+MG,Funil�ndia,3773
+MG,Galil�ia,6708
+MG,Gameleiras,5314
+MG,Glaucil�ndia,2907
+MG,Goiabeira,2711
+MG,Goian�,3489
+MG,Gon�alves,4305
+MG,Gonzaga,5380
+MG,Gouveia,11860
+MG,Governador Valadares,259405
+MG,Gr�o Mogol,15624
+MG,Grupiara,1458
+MG,Guanh�es,29790
+MG,Guap�,14927
+MG,Guaraciaba,10056
+MG,Guaraciama,4847
+MG,Guaran�sia,20385
+MG,Guarani,8870
+MG,Guarar�,4426
+MG,Guarda-Mor,7201
+MG,Guaxup�,52524
+MG,Guidoval,7721
+MG,Guimar�nia,6861
+MG,Guiricema,8492
+MG,Gurinhat�,6323
+MG,Heliodora,5953
+MG,Iapu,9517
+MG,Ibertioga,5351
+MG,Ibi�,23060
+MG,Ibia�,7365
+MG,Ibiracatu,7037
+MG,Ibiraci,11491
+MG,Ibirit�,173617
+MG,Ibiti�ra de Minas,3752
+MG,Ibituruna,2890
+MG,Icara� de Minas,9280
+MG,Igarap�,31524
+MG,Igaratinga,8367
+MG,Iguatama,8200
+MG,Ijaci,5501
+MG,Ilic�nea,11825
+MG,Imb� de Minas,6873
+MG,Inconfidentes,6670
+MG,Indaiabira,7906
+MG,Indian�polis,5776
+MG,Inga�,2565
+MG,Inhapim,24438
+MG,Inha�ma,5512
+MG,Inimutaba,6178
+MG,Ipaba,16544
+MG,Ipanema,16956
+MG,Ipatinga,236463
+MG,Ipia�u,3955
+MG,Ipui�na,9850
+MG,Ira� de Minas,6958
+MG,Itabira,107721
+MG,Itabirinha,9513
+MG,Itabirito,42195
+MG,Itacambira,2896
+MG,Itacarambi,19159
+MG,Itaguara,11768
+MG,Itaip�,12309
+MG,Itajub�,90812
+MG,Itamarandiba,29977
+MG,Itamarati de Minas,4051
+MG,Itambacuri,23757
+MG,Itamb� do Mato Dentro,2454
+MG,Itamogi,11802
+MG,Itamonte,13801
+MG,Itanhandu,14129
+MG,Itanhomi,10911
+MG,Itaobim,21946
+MG,Itapagipe,12297
+MG,Itapecerica,20406
+MG,Itapeva,8715
+MG,Itatiaiu�u,9368
+MG,Ita� de Minas,15715
+MG,Ita�na,84598
+MG,Itaverava,6423
+MG,Itinga,14051
+MG,Itueta,5042
+MG,Ituiutaba,92427
+MG,Itumirim,6586
+MG,Iturama,31852
+MG,Itutinga,4018
+MG,Jaboticatubas,14132
+MG,Jacinto,12026
+MG,Jacu�,7960
+MG,Jacutinga,20090
+MG,Jaguara�u,2936
+MG,Ja�ba,34233
+MG,Jampruca,4708
+MG,Jana�ba,70093
+MG,Janu�ria,62516
+MG,Japara�ba,3590
+MG,Japonvar,9131
+MG,Jeceaba,5484
+MG,Jenipapo de Minas,6154
+MG,Jequeri,12573
+MG,Jequita�,8309
+MG,Jequitib�,5262
+MG,Jequitinhonha,23023
+MG,Jesu�nia,5176
+MG,Joa�ma,14686
+MG,Joan�sia,6378
+MG,Jo�o Monlevade,72122
+MG,Jo�o Pinheiro,42810
+MG,Joaquim Fel�cio,3451
+MG,Jord�nia,10117
+MG,Jos� Gon�alves de Minas,4833
+MG,Jos� Raydan,3564
+MG,Josen�polis,4739
+MG,Juatuba,21513
+MG,Juiz de Fora,509125
+MG,Juramento,3968
+MG,Juruaia,8494
+MG,Juven�lia,6332
+MG,Ladainha,15264
+MG,Lagamar,7400
+MG,Lagoa da Prata,44628
+MG,Lagoa dos Patos,4701
+MG,Lagoa Dourada,12497
+MG,Lagoa Formosa,16547
+MG,Lagoa Grande,8764
+MG,Lagoa Santa,46506
+MG,Lajinha,21226
+MG,Lambari,19859
+MG,Lamim,3598
+MG,Laranjal,6258
+MG,Lassance,6491
+MG,Lavras,88291
+MG,Leandro Ferreira,3448
+MG,Leme do Prado,4883
+MG,Leopoldina,52798
+MG,Liberdade,5605
+MG,Lima Duarte,16497
+MG,Limeira do Oeste,5491
+MG,Lontra,8663
+MG,Luisburgo,7108
+MG,Luisl�ndia,6775
+MG,Lumin�rias,5696
+MG,Luz,17129
+MG,Machacalis,6952
+MG,Machado,37958
+MG,Madre de Deus de Minas,5298
+MG,Malacacheta,19282
+MG,Mamonas,5510
+MG,Manga,23999
+MG,Manhua�u,73516
+MG,Manhumirim,22047
+MG,Mantena,25105
+MG,Mar de Espanha,11200
+MG,Maravilhas,6843
+MG,Maria da F�,15330
+MG,Mariana,53015
+MG,Marilac,4429
+MG,M�rio Campos,14389
+MG,Marip� de Minas,2821
+MG,Marli�ria,4417
+MG,Marmel�polis,3551
+MG,Martinho Campos,11788
+MG,Martins Soares,6824
+MG,Mata Verde,7993
+MG,Materl�ndia,5010
+MG,Mateus Leme,28998
+MG,Mathias Lobato,3630
+MG,Matias Barbosa,13334
+MG,Matias Cardoso,6786
+MG,Matip�,17725
+MG,Mato Verde,12454
+MG,Matozinhos,35011
+MG,Matutina,3897
+MG,Medeiros,3267
+MG,Medina,21553
+MG,Mendes Pimentel,5552
+MG,Merc�s,10051
+MG,Mesquita,6687
+MG,Minas Novas,31551
+MG,Minduri,3804
+MG,Mirabela,12932
+MG,Miradouro,9432
+MG,Mira�,12418
+MG,Mirav�nia,4815
+MG,Moeda,4901
+MG,Moema,7258
+MG,Monjolos,2311
+MG,Monsenhor Paulo,8032
+MG,Montalv�nia,17145
+MG,Monte Alegre de Minas,18070
+MG,Monte Azul,22820
+MG,Monte Belo,12673
+MG,Monte Carmelo,50694
+MG,Monte Formoso,4769
+MG,Monte Santo de Minas,22632
+MG,Monte Si�o,18836
+MG,Montes Claros,348991
+MG,Montezuma,6635
+MG,Morada Nova de Minas,8306
+MG,Morro da Gar�a,2891
+MG,Morro do Pilar,3633
+MG,Munhoz,7398
+MG,Muria�,100063
+MG,Mutum,26437
+MG,Muzambinho,22586
+MG,Nacip Raydan,2471
+MG,Nanuque,40532
+MG,Naque,5676
+MG,Natal�ndia,3393
+MG,Nat�rcia,4853
+MG,Nazareno,7476
+MG,Nepomuceno,25379
+MG,Ninheira,9783
+MG,Nova Bel�m,4268
+MG,Nova Era,17864
+MG,Nova Lima,73247
+MG,Nova M�dica,3864
+MG,Nova Ponte,9008
+MG,Nova Porteirinha,7624
+MG,Nova Resende,15472
+MG,Nova Serrana,51885
+MG,Nova Uni�o,5842
+MG,Novo Cruzeiro,30235
+MG,Novo Oriente de Minas,10808
+MG,Novorizonte,5008
+MG,Olaria,2320
+MG,Olhos-d'�gua,4699
+MG,Ol�mpio Noronha,2549
+MG,Oliveira,40966
+MG,Oliveira Fortes,2117
+MG,On�a de Pitangui,2958
+MG,Orat�rios,4523
+MG,Oriz�nia,7261
+MG,Ouro Branco,32571
+MG,Ouro Fino,28546
+MG,Ouro Preto,69058
+MG,Ouro Verde de Minas,4967
+MG,Padre Carvalho,5869
+MG,Padre Para�so,17584
+MG,Pai Pedro,6049
+MG,Paineiras,4644
+MG,Pains,7601
+MG,Paiva,1774
+MG,Palma,6197
+MG,Palm�polis,10148
+MG,Papagaios,14211
+MG,Par� de Minas,81739
+MG,Paracatu,84412
+MG,Paragua�u,20748
+MG,Parais�polis,19630
+MG,Paraopeba,22872
+MG,Passa Quatro,15924
+MG,Passa Tempo,8722
+MG,Passa-Vinte,1980
+MG,Passab�m,2140
+MG,Passos,106516
+MG,Patis,5392
+MG,Patos de Minas,139354
+MG,Patroc�nio,82278
+MG,Patroc�nio do Muria�,5166
+MG,Paula C�ndido,9585
+MG,Paulistas,4632
+MG,Pav�o,4432
+MG,Pe�anha,17059
+MG,Pedra do Anta,3751
+MG,Pedra do Indai�,3687
+MG,Pedra Azul,24746
+MG,Pedra Bonita,6733
+MG,Pedra Dourada,1965
+MG,Pedralva,12756
+MG,Pedras de Maria da Cruz,9526
+MG,Pedrin�polis,2600
+MG,Pedro Leopoldo,63095
+MG,Pedro Teixeira,1930
+MG,Pequeri,3238
+MG,Pequi,4109
+MG,Perdig�o,6565
+MG,Perdizes,13568
+MG,Perd�es,20536
+MG,Periquito,7401
+MG,Pescador,3806
+MG,Piau,2998
+MG,Piedade de Caratinga,5756
+MG,Piedade de Ponte Nova,3774
+MG,Piedade do Rio Grande,5084
+MG,Piedade dos Gerais,4309
+MG,Pimenta,8630
+MG,Pingo-d'�gua,3726
+MG,Pint�polis,7959
+MG,Piracema,6841
+MG,Pirajuba,2467
+MG,Piranga,17511
+MG,Pirangu�u,5329
+MG,Piranguinho,8160
+MG,Pirapetinga,10805
+MG,Pirapora,53219
+MG,Pira�ba,12617
+MG,Pitangui,23818
+MG,Piumhi,31625
+MG,Planura,9027
+MG,Po�o Fundo,16132
+MG,Po�os de Caldas,154477
+MG,Pocrane,8854
+MG,Pomp�u,30331
+MG,Ponte Nova,57344
+MG,Ponto dos Volantes,11710
+MG,Ponto Chique,4065
+MG,Porteirinha,38563
+MG,Porto Firme,9500
+MG,Pot�,14857
+MG,Pouso Alegre,125209
+MG,Pouso Alto,7250
+MG,Prados,7948
+MG,Prata,22791
+MG,Prat�polis,9085
+MG,Pratinha,3164
+MG,Presidente Bernardes,5423
+MG,Presidente Juscelino,4339
+MG,Presidente Kubitschek,2965
+MG,Presidente Oleg�rio,18287
+MG,Prudente de Morais,9276
+MG,Quartel Geral,3074
+MG,Queluzito,1838
+MG,Raposos,14324
+MG,Raul Soares,23597
+MG,Recreio,9900
+MG,Reduto,6835
+MG,Resende Costa,10802
+MG,Resplendor,16588
+MG,Ressaquinha,4557
+MG,Riachinho,8501
+MG,Riacho dos Machados,8735
+MG,Ribeir�o das Neves,322969
+MG,Ribeir�o Vermelho,3626
+MG,Rio do Prado,4774
+MG,Rio Acima,8096
+MG,Rio Casca,15181
+MG,Rio Doce,2088
+MG,Rio Espera,6558
+MG,Rio Manso,4783
+MG,Rio Novo,8897
+MG,Rio Parana�ba,13062
+MG,Rio Pardo de Minas,28285
+MG,Rio Piracicaba,14479
+MG,Rio Pomba,17449
+MG,Rio Preto,5477
+MG,Rio Vermelho,14198
+MG,Rit�polis,5179
+MG,Rochedo de Minas,2174
+MG,Rodeiro,6577
+MG,Romaria,3992
+MG,Ros�rio da Limeira,4321
+MG,Rubelita,10342
+MG,Rubim,8849
+MG,Sabar�,134282
+MG,Sabin�polis,16428
+MG,Sacramento,22020
+MG,Salinas,37954
+MG,Salto da Divisa,6033
+MG,Santa B�rbara,25706
+MG,Santa B�rbara do Leste,7989
+MG,Santa B�rbara do Monte Verde,2206
+MG,Santa B�rbara do Tug�rio,4486
+MG,Santa Cruz de Minas,8066
+MG,Santa Cruz de Salinas,5060
+MG,Santa Cruz do Escalvado,4603
+MG,Santa Efig�nia de Minas,4877
+MG,Santa F� de Minas,3910
+MG,Santa Helena de Minas,5749
+MG,Santa Juliana,8269
+MG,Santa Luzia,219699
+MG,Santa Margarida,14384
+MG,Santa Maria de Itabira,10282
+MG,Santa Maria do Salto,5531
+MG,Santa Maria do Sua�u�,14204
+MG,Santa Rita de Caldas,9293
+MG,Santa Rita de Ibitipoca,3687
+MG,Santa Rita de Jacutinga,5289
+MG,Santa Rita de Minas,5162
+MG,Santa Rita do Itueto,6036
+MG,Santa Rita do Sapuca�,34920
+MG,Santa Rosa da Serra,3297
+MG,Santa Vit�ria,16204
+MG,Santana da Vargem,8020
+MG,Santana de Cataguases,3234
+MG,Santana de Pirapama,8175
+MG,Santana do Deserto,4038
+MG,Santana do Garamb�u,2150
+MG,Santana do Jacar�,4831
+MG,Santana do Manhua�u,8201
+MG,Santana do Para�so,21907
+MG,Santana do Riacho,3987
+MG,Santana dos Montes,3796
+MG,Santo Ant�nio do Amparo,17850
+MG,Santo Ant�nio do Aventureiro,3532
+MG,Santo Ant�nio do Grama,4222
+MG,Santo Ant�nio do Itamb�,4692
+MG,Santo Ant�nio do Jacinto,12182
+MG,Santo Ant�nio do Monte,27534
+MG,Santo Ant�nio do Retiro,7180
+MG,Santo Ant�nio do Rio Abaixo,1618
+MG,Santo Hip�lito,3328
+MG,Santos Dumont,48137
+MG,S�o Bento Abade,4610
+MG,S�o Br�s do Sua�u�,3344
+MG,S�o Domingos das Dores,5794
+MG,S�o Domingos do Prata,16829
+MG,S�o F�lix de Minas,3238
+MG,S�o Francisco,55510
+MG,S�o Francisco de Paula,6815
+MG,S�o Francisco de Sales,5520
+MG,S�o Francisco do Gl�ria,5202
+MG,S�o Geraldo,7610
+MG,S�o Geraldo da Piedade,4980
+MG,S�o Geraldo do Baixio,2869
+MG,S�o Gon�alo do Abaet�,5139
+MG,S�o Gon�alo do Par�,8285
+MG,S�o Gon�alo do Rio Abaixo,8565
+MG,S�o Gon�alo do Rio Preto,2939
+MG,S�o Gon�alo do Sapuca�,24301
+MG,S�o Gotardo,33495
+MG,S�o Jo�o da Lagoa,4671
+MG,S�o Jo�o da Mata,2908
+MG,S�o Jo�o da Ponte,25886
+MG,S�o Jo�o das Miss�es,12894
+MG,S�o Jo�o del Rei,82954
+MG,S�o Jo�o do Manhua�u,10060
+MG,S�o Jo�o do Manteninha,4655
+MG,S�o Jo�o do Oriente,8733
+MG,S�o Jo�o do Pacu�,3751
+MG,S�o Jo�o do Para�so,21652
+MG,S�o Jo�o Batista do Gl�ria,6950
+MG,S�o Jo�o Evangelista,15638
+MG,S�o Jo�o Nepomuceno,25526
+MG,S�o Joaquim de Bicas,22989
+MG,S�o Jos� da Barra,6734
+MG,S�o Jos� da Lapa,21004
+MG,S�o Jos� da Safira,4037
+MG,S�o Jos� da Varginha,3620
+MG,S�o Jos� do Alegre,4158
+MG,S�o Jos� do Divino,3581
+MG,S�o Jos� do Goiabal,5890
+MG,S�o Jos� do Jacuri,6281
+MG,S�o Jos� do Mantimento,2494
+MG,S�o Louren�o,42143
+MG,S�o Miguel do Anta,6882
+MG,S�o Pedro da Uni�o,6022
+MG,S�o Pedro do Sua�u�,3712
+MG,S�o Pedro dos Ferros,8475
+MG,S�o Rom�o,8137
+MG,S�o Roque de Minas,6326
+MG,S�o Sebasti�o da Bela Vista,4640
+MG,S�o Sebasti�o da Vargem Alegre,2894
+MG,S�o Sebasti�o do Anta,5432
+MG,S�o Sebasti�o do Maranh�o,10705
+MG,S�o Sebasti�o do Oeste,4346
+MG,S�o Sebasti�o do Para�so,65195
+MG,S�o Sebasti�o do Rio Preto,1530
+MG,S�o Sebasti�o do Rio Verde,2104
+MG,S�o Thom� das Letras,6577
+MG,S�o Tiago,10691
+MG,S�o Tom�s de Aquino,7568
+MG,S�o Vicente de Minas,6722
+MG,Sapuca�-Mirim,6328
+MG,Sardo�,5149
+MG,Sarzedo,23238
+MG,Sem-Peixe,2594
+MG,Senador Amaral,5896
+MG,Senador Cortes,2113
+MG,Senador Firmino,6862
+MG,Senador Jos� Bento,2636
+MG,Senador Modestino Gon�alves,5102
+MG,Senhora de Oliveira,6052
+MG,Senhora do Porto,3385
+MG,Senhora dos Rem�dios,10245
+MG,Sericita,7439
+MG,Seritinga,1749
+MG,Serra da Saudade,889
+MG,Serra do Salitre,10429
+MG,Serra dos Aimor�s,6673
+MG,Serra Azul de Minas,4436
+MG,Serrania,7895
+MG,Serran�polis de Minas,3832
+MG,Serranos,2097
+MG,Serro,22247
+MG,Sete Lagoas,215069
+MG,Setubinha,9554
+MG,Silveir�nia,2205
+MG,Silvian�polis,5877
+MG,Sim�o Pereira,2527
+MG,Simon�sia,17299
+MG,Sobr�lia,5875
+MG,Soledade de Minas,5322
+MG,Tabuleiro,4728
+MG,Taiobeiras,30363
+MG,Taparuba,3504
+MG,Tapira,3589
+MG,Tapira�,1649
+MG,Taquara�u de Minas,3571
+MG,Tarumirim,11851
+MG,Teixeiras,11980
+MG,Te�filo Otoni,127530
+MG,Tim�teo,81219
+MG,Tiradentes,6630
+MG,Tiros,6776
+MG,Tocantins,16608
+MG,Tocos do Moji,4044
+MG,Toledo,5634
+MG,Tombos,13045
+MG,Tr�s Cora��es,71386
+MG,Tr�s Marias,25171
+MG,Tr�s Pontas,54861
+MG,Tumiritinga,6141
+MG,Tupaciguara,23827
+MG,Turmalina,16672
+MG,Turvol�ndia,4674
+MG,Ub�,98778
+MG,Uba�,10690
+MG,Ubaporanga,12818
+MG,Uberaba,285094
+MG,Uberl�ndia,600368
+MG,Umburatiba,2818
+MG,Una�,76245
+MG,Uni�o de Minas,5034
+MG,Uruana de Minas,3551
+MG,Uruc�nia,10273
+MG,Urucuia,11486
+MG,Vargem Alegre,7347
+MG,Vargem Bonita,2134
+MG,Vargem Grande do Rio Pardo,4957
+MG,Varginha,124502
+MG,Varj�o de Minas,5281
+MG,V�rzea da Palma,33206
+MG,Varzel�ndia,20264
+MG,Vazante,19023
+MG,Verdel�ndia,7744
+MG,Veredinha,5593
+MG,Ver�ssimo,2739
+MG,Vermelho Novo,4791
+MG,Vespasiano,97436
+MG,Vi�osa,74607
+MG,Vieiras,4067
+MG,Virgem da Lapa,13485
+MG,Virg�nia,8817
+MG,Virgin�polis,9894
+MG,Virgol�ndia,5587
+MG,Visconde do Rio Branco,35663
+MG,Volta Grande,5206
+MG,Wenceslau Braz,2677
+ES,Afonso Cl�udio,33797
+ES,�gua Doce do Norte,12788
+ES,�guia Branca,9436
+ES,Alegre,32669
+ES,Alfredo Chaves,14332
+ES,Alto Rio Novo,6577
+ES,Anchieta,22311
+ES,Apiac�,8073
+ES,Aracruz,73657
+ES,Atilio Vivacqua,9555
+ES,Baixo Guandu,28335
+ES,Barra de S�o Francisco,38971
+ES,Boa Esperan�a,14253
+ES,Bom Jesus do Norte,10159
+ES,Brejetuba,13018
+ES,Cachoeiro de Itapemirim,198150
+ES,Cariacica,361058
+ES,Castelo,35054
+ES,Colatina,111789
+ES,Concei��o da Barra,29607
+ES,Concei��o do Castelo,11189
+ES,Divino de S�o Louren�o,5354
+ES,Domingos Martins,33873
+ES,Dores do Rio Preto,6870
+ES,Ecoporanga,23644
+ES,Fund�o,15082
+ES,Governador Lindenberg,10057
+ES,Gua�u�,28100
+ES,Guarapari,108120
+ES,Ibatiba,21909
+ES,Ibira�u,10688
+ES,Ibitirama,10361
+ES,Iconha,12448
+ES,Irupi,10959
+ES,Itagua�u,15310
+ES,Itapemirim,32749
+ES,Itarana,12187
+ES,I�na,28433
+ES,Jaguar�,21379
+ES,Jer�nimo Monteiro,11143
+ES,Jo�o Neiva,16653
+ES,Laranja da Terra,11155
+ES,Linhares,123000
+ES,Manten�polis,10919
+ES,Marata�zes,36494
+ES,Marechal Floriano,14158
+ES,Maril�ndia,10604
+ES,Mimoso do Sul,27794
+ES,Montanha,16620
+ES,Mucurici,6264
+ES,Muniz Freire,19344
+ES,Muqui,13708
+ES,Nova Ven�cia,45607
+ES,Pancas,19957
+ES,Pedro Can�rio,22414
+ES,Pinheiros,21330
+ES,Pi�ma,19094
+ES,Ponto Belo,6514
+ES,Presidente Kennedy,9645
+ES,Rio Bananal,16986
+ES,Rio Novo do Sul,12207
+ES,Santa Leopoldina,13454
+ES,Santa Maria de Jetib�,32844
+ES,Santa Teresa,21196
+ES,S�o Domingos do Norte,8325
+ES,S�o Gabriel da Palha,28576
+ES,S�o Jos� do Cal�ado,10683
+ES,S�o Mateus,102955
+ES,S�o Roque do Cana�,11048
+ES,Serra,394370
+ES,Sooretama,21288
+ES,Vargem Alta,20550
+ES,Venda Nova do Imigrante,19217
+ES,Viana,60537
+ES,Vila Pav�o,8488
+ES,Vila Val�rio,14384
+ES,Vila Velha,405374
+ES,Vit�ria,317085
+RJ,Angra dos Reis,144137
+RJ,Aperib�,9279
+RJ,Araruama,100378
+RJ,Areal,11147
+RJ,Arma��o dos B�zios,23874
+RJ,Arraial do Cabo,26842
+RJ,Barra do Pira�,95380
+RJ,Barra Mansa,176151
+RJ,Belford Roxo,489002
+RJ,Bom Jardim,24145
+RJ,Bom Jesus do Itabapoana,36450
+RJ,Cabo Frio,165591
+RJ,Cachoeiras de Macacu,54703
+RJ,Cambuci,14398
+RJ,Campos dos Goytacazes,429667
+RJ,Cantagalo,20876
+RJ,Carapebus,10389
+RJ,Cardoso Moreira,12441
+RJ,Carmo,15866
+RJ,Casimiro de Abreu,26978
+RJ,Comendador Levy Gasparian,8551
+RJ,Concei��o de Macabu,19875
+RJ,Cordeiro,19973
+RJ,Duas Barras,10673
+RJ,Duque de Caxias,855010
+RJ,Engenheiro Paulo de Frontin,12240
+RJ,Guapimirim,45251
+RJ,Iguaba Grande,20177
+RJ,Itabora�,220981
+RJ,Itagua�,95757
+RJ,Italva,12515
+RJ,Itaocara,23055
+RJ,Itaperuna,93165
+RJ,Itatiaia,31144
+RJ,Japeri,96209
+RJ,Laje do Muria�,8238
+RJ,Maca�,160725
+RJ,Macuco,4405
+RJ,Mag�,237000
+RJ,Mangaratiba,30057
+RJ,Maric�,99052
+RJ,Mendes,17800
+RJ,Mesquita,185552
+RJ,Miguel Pereira,27195
+RJ,Miracema,28522
+RJ,Natividade,15485
+RJ,Nil�polis,150475
+RJ,Niter�i,476669
+RJ,Nova Friburgo,178102
+RJ,Nova Igua�u,844583
+RJ,Paracambi,43467
+RJ,Para�ba do Sul,39988
+RJ,Parati,33695
+RJ,Paty do Alferes,27766
+RJ,Petr�polis,310216
+RJ,Pinheiral,23014
+RJ,Pira�,24363
+RJ,Porci�ncula,16980
+RJ,Porto Real,15309
+RJ,Quatis,12182
+RJ,Queimados,139118
+RJ,Quissam�,16044
+RJ,Resende,119729
+RJ,Rio das Flores,8493
+RJ,Rio das Ostras,49868
+RJ,Rio de Janeiro,6136652
+RJ,Rio Bonito,53039
+RJ,Rio Claro,18122
+RJ,Santa Maria Madalena,10200
+RJ,Santo Ant�nio de P�dua,42686
+RJ,S�o Fid�lis,38421
+RJ,S�o Francisco de Itabapoana,46900
+RJ,S�o Gon�alo,973372
+RJ,S�o Jo�o da Barra,28775
+RJ,S�o Jo�o de Meriti,466996
+RJ,S�o Jos� de Ub�,6738
+RJ,S�o Jos� do Vale do Rio Preto,21375
+RJ,S�o Pedro da Aldeia,78717
+RJ,S�o Sebasti�o do Alto,8809
+RJ,Sapucaia,18434
+RJ,Saquarema,63232
+RJ,Serop�dica,76788
+RJ,Silva Jardim,23574
+RJ,Sumidouro,15062
+RJ,Tangu�,30097
+RJ,Teres�polis,150921
+RJ,Trajano de Morais,9593
+RJ,Tr�s Rios,76422
+RJ,Valen�a,70375
+RJ,Varre-Sai,8391
+RJ,Vassouras,33522
+RJ,Volta Redonda,258145
+SP,Adamantina,34536
+SP,Adolfo,3989
+SP,Agua�,31766
+SP,�guas da Prata,7455
+SP,�guas de Lind�ia,19240
+SP,�guas de Santa B�rbara,6208
+SP,�guas de S�o Pedro,2020
+SP,Agudos,34185
+SP,Alambari,3908
+SP,Alfredo Marcondes,3848
+SP,Altair,3745
+SP,Altin�polis,16840
+SP,Alto Alegre,3872
+SP,Alum�nio,16357
+SP,�lvares Florence,3773
+SP,�lvares Machado,25467
+SP,�lvaro de Carvalho,4830
+SP,Alvinl�ndia,3056
+SP,Americana,203845
+SP,Am�rico de Campos,5597
+SP,Am�rico Brasiliense,34362
+SP,Amparo,67505
+SP,Anal�ndia,3997
+SP,Andradina,57195
+SP,Angatuba,20833
+SP,Anhembi,5273
+SP,Anhumas,3536
+SP,Aparecida,36129
+SP,Aparecida d'Oeste,4813
+SP,Apia�,27621
+SP,Ara�ariguama,14280
+SP,Ara�atuba,181598
+SP,Ara�oiaba da Serra,23713
+SP,Aramina,5280
+SP,Arandu,6394
+SP,Arape�,2857
+SP,Araraquara,199657
+SP,Araras,116566
+SP,Arco-�ris,2303
+SP,Arealva,7504
+SP,Areias,3834
+SP,Arei�polis,10521
+SP,Ariranha,8683
+SP,Artur Nogueira,43344
+SP,Aruj�,75122
+SP,Asp�sia,1789
+SP,Assis,95703
+SP,Atibaia,129751
+SP,Auriflama,14066
+SP,Ava�,4561
+SP,Avanhandava,9462
+SP,Avar�,87833
+SP,Bady Bassitt,15861
+SP,Balbinos,1381
+SP,B�lsamo,7761
+SP,Bananal,10185
+SP,Bar�o de Antonina,2621
+SP,Barbosa,6176
+SP,Bariri,30945
+SP,Barra do Chap�u,4794
+SP,Barra do Turvo,8835
+SP,Barra Bonita,38921
+SP,Barretos,110195
+SP,Barrinha,28164
+SP,Barueri,265549
+SP,Bastos,21676
+SP,Batatais,56290
+SP,Bauru,356680
+SP,Bebedouro,80027
+SP,Bento de Abreu,2392
+SP,Bernardino de Campos,11216
+SP,Bertioga,43763
+SP,Bilac,6552
+SP,Birigui,108472
+SP,Biritiba-Mirim,29694
+SP,Boa Esperan�a do Sul,14021
+SP,Bocaina,11059
+SP,Bofete,8605
+SP,Boituva,42667
+SP,Bom Jesus dos Perd�es,15870
+SP,Bom Sucesso de Itarar�,3899
+SP,Bor�,828
+SP,Borac�ia,3945
+SP,Borborema,13994
+SP,Borebi,2325
+SP,Botucatu,121274
+SP,Bragan�a Paulista,143621
+SP,Bra�na,4471
+SP,Brejo Alegre,2552
+SP,Brodowski,19616
+SP,Brotas,22200
+SP,Buri,20071
+SP,Buritama,14658
+SP,Buritizal,3583
+SP,Cabr�lia Paulista,5243
+SP,Cabre�va,43659
+SP,Ca�apava,83574
+SP,Cachoeira Paulista,30156
+SP,Caconde,19187
+SP,Cafel�ndia,16189
+SP,Caiabu,4242
+SP,Caieiras,94985
+SP,Caiu�,4821
+SP,Cajamar,63344
+SP,Cajati,33353
+SP,Cajobi,9483
+SP,Cajuru,22419
+SP,Campina do Monte Alegre,6171
+SP,Campinas,1059420
+SP,Campo Limpo Paulista,77277
+SP,Campos do Jord�o,49512
+SP,Campos Novos Paulista,4304
+SP,Canan�ia,14195
+SP,Canas,4127
+SP,C�ndido Mota,32111
+SP,C�ndido Rodrigues,2824
+SP,Canitar,4251
+SP,Cap�o Bonito,46946
+SP,Capela do Alto,16816
+SP,Capivari,46825
+SP,Caraguatatuba,98170
+SP,Carapicu�ba,389634
+SP,Cardoso,11105
+SP,Casa Branca,27903
+SP,C�ssia dos Coqueiros,2983
+SP,Castilho,15199
+SP,Catanduva,116984
+SP,Catigu�,6772
+SP,Cedral,7436
+SP,Cerqueira C�sar,16838
+SP,Cerquilho,36500
+SP,Ces�rio Lange,14162
+SP,Charqueada,14738
+SP,Chavantes,12544
+SP,Clementina,5789
+SP,Colina,17222
+SP,Col�mbia,6451
+SP,Conchal,25192
+SP,Conchas,17132
+SP,Cordeir�polis,20734
+SP,Coroados,4702
+SP,Coronel Macedo,5470
+SP,Corumbata�,4266
+SP,Cosm�polis,50525
+SP,Cosmorama,7033
+SP,Cotia,179685
+SP,Cravinhos,32735
+SP,Cristais Paulista,7266
+SP,Cruz�lia,2566
+SP,Cruzeiro,77076
+SP,Cubat�o,121002
+SP,Cunha,22815
+SP,Descalvado,31265
+SP,Diadema,395333
+SP,Dirce Reis,1416
+SP,Divinol�ndia,12168
+SP,Dobrada,7071
+SP,Dois C�rregos,25245
+SP,Dolcin�polis,2195
+SP,Dourado,9244
+SP,Dracena,41096
+SP,Duartina,12902
+SP,Dumont,7288
+SP,Echapor�,7203
+SP,Eldorado,14883
+SP,Elias Fausto,15555
+SP,Elisi�rio,2606
+SP,Emba�ba,2537
+SP,Embu,245855
+SP,Embu-Gua�u,72170
+SP,Emilian�polis,2886
+SP,Engenheiro Coelho,12644
+SP,Esp�rito Santo do Pinhal,42921
+SP,Esp�rito Santo do Turvo,4195
+SP,Estiva Gerbi,10469
+SP,Estrela d'Oeste,8081
+SP,Estrela do Norte,2513
+SP,Euclides da Cunha Paulista,10694
+SP,Fartura,15510
+SP,Fernando Prestes,5625
+SP,Fernand�polis,65714
+SP,Fern�o,1241
+SP,Ferraz de Vasconcelos,176532
+SP,Flora Rica,2027
+SP,Floreal,2984
+SP,Fl�rida Paulista,10068
+SP,Flor�nia,3212
+SP,Franca,328121
+SP,Francisco Morato,170585
+SP,Franco da Rocha,124816
+SP,Gabriel Monteiro,2914
+SP,G�lia,7149
+SP,Gar�a,44396
+SP,Gast�o Vidigal,3403
+SP,Gavi�o Peixoto,4062
+SP,General Salgado,11154
+SP,Getulina,10554
+SP,Glic�rio,4571
+SP,Guai�ara,11314
+SP,Guaimb�,5258
+SP,Gua�ra,37226
+SP,Guapia�u,16618
+SP,Guapiara,20794
+SP,Guar�,20804
+SP,Guara�a�,9337
+SP,Guaraci,9610
+SP,Guarani d'Oeste,2132
+SP,Guarant�,6903
+SP,Guararapes,30435
+SP,Guararema,24818
+SP,Guaratinguet�,113012
+SP,Guare�,11473
+SP,Guariba,32692
+SP,Guaruj�,305171
+SP,Guarulhos,1283253
+SP,Guatapar�,6791
+SP,Guzol�ndia,3735
+SP,Hercul�ndia,8699
+SP,Holambra,8532
+SP,Hortol�ndia,201795
+SP,Iacanga,8810
+SP,Iacri,6595
+SP,Iaras,3718
+SP,Ibat�,32105
+SP,Ibir�,9990
+SP,Ibirarema,5833
+SP,Ibitinga,52812
+SP,Ibi�na,75616
+SP,Ic�m,7269
+SP,Iep�,6978
+SP,Igara�u do Tiet�,23904
+SP,Igarapava,28587
+SP,Igarat�,9770
+SP,Iguape,28782
+SP,Ilha Comprida,9622
+SP,Ilha Solteira,25684
+SP,Ilhabela,26230
+SP,Indaiatuba,181124
+SP,Indiana,5161
+SP,Indiapor�,3534
+SP,In�bia Paulista,3291
+SP,Ipaussu,13401
+SP,Iper�,24156
+SP,Ipe�na,5554
+SP,Ipigu�,4318
+SP,Iporanga,4524
+SP,Ipu�,12989
+SP,Iracem�polis,18366
+SP,Irapu�,7076
+SP,Irapuru,6866
+SP,Itaber�,19659
+SP,Ita�,23417
+SP,Itajobi,15007
+SP,Itaju,2844
+SP,Itanha�m,91153
+SP,Ita�ca,2856
+SP,Itapecerica da Serra,162239
+SP,Itapetininga,143097
+SP,Itapeva,89743
+SP,Itapevi,202683
+SP,Itapira,68396
+SP,Itapirapu� Paulista,3811
+SP,It�polis,41222
+SP,Itaporanga,14311
+SP,Itapu�,11347
+SP,Itapura,3900
+SP,Itaquaquecetuba,352755
+SP,Itarar�,50038
+SP,Itariri,15095
+SP,Itatiba,95648
+SP,Itatinga,16685
+SP,Itirapina,14967
+SP,Itirapu�,5685
+SP,Itobi,7971
+SP,Itu,156100
+SP,Itupeva,32097
+SP,Ituverava,38681
+SP,Jaborandi,6489
+SP,Jaboticabal,73524
+SP,Jacare�,211559
+SP,Jaci,4767
+SP,Jacupiranga,18970
+SP,Jaguari�na,34779
+SP,Jales,49749
+SP,Jambeiro,4515
+SP,Jandira,113323
+SP,Jardin�polis,35612
+SP,Jarinu,21596
+SP,Ja�,125399
+SP,Jeriquara,3303
+SP,Joan�polis,12052
+SP,Jo�o Ramalho,4423
+SP,Jos� Bonif�cio,32460
+SP,J�lio Mesquita,4405
+SP,Jumirim,2630
+SP,Jundia�,348621
+SP,Junqueir�polis,16485
+SP,Juqui�,23149
+SP,Juquitiba,31256
+SP,Lagoinha,5195
+SP,Laranjal Paulista,24363
+SP,Lav�nia,4905
+SP,Lavrinhas,6994
+SP,Leme,90027
+SP,Len��is Paulista,62580
+SP,Limeira,279554
+SP,Lind�ia,6300
+SP,Lins,71382
+SP,Lorena,83728
+SP,Lourdes,2259
+SP,Louveira,29553
+SP,Luc�lia,18681
+SP,Lucian�polis,2006
+SP,Lu�s Ant�nio,8136
+SP,Luizi�nia,4360
+SP,Lup�rcio,4339
+SP,Lut�cia,3087
+SP,Macatuba,17440
+SP,Macaubal,7389
+SP,Maced�nia,3617
+SP,Magda,3230
+SP,Mairinque,47756
+SP,Mairipor�,75022
+SP,Manduri,9006
+SP,Marab� Paulista,3851
+SP,Maraca�,13401
+SP,Marapoama,2536
+SP,Mari�polis,3486
+SP,Mar�lia,224093
+SP,Marin�polis,2274
+SP,Martin�polis,24322
+SP,Mat�o,77769
+SP,Mau�,413943
+SP,Mendon�a,3950
+SP,Meridiano,4203
+SP,Mes�polis,1871
+SP,Miguel�polis,20210
+SP,Mineiros do Tiet�,12846
+SP,Mira Estrela,2544
+SP,Miracatu,24906
+SP,Mirand�polis,27047
+SP,Mirante do Paranapanema,16977
+SP,Mirassol,55009
+SP,Mirassol�ndia,4274
+SP,Mococa,70896
+SP,Mogi das Cruzes,372419
+SP,Mogi Gua�u,141559
+SP,Moji Mirim,93820
+SP,Mombuca,3484
+SP,Mon��es,2016
+SP,Mongagu�,46977
+SP,Monte Alegre do Sul,6973
+SP,Monte Alto,46474
+SP,Monte Apraz�vel,19085
+SP,Monte Azul Paulista,20924
+SP,Monte Castelo,3624
+SP,Monte Mor,46047
+SP,Monteiro Lobato,3789
+SP,Morro Agudo,28514
+SP,Morungaba,11168
+SP,Motuca,4294
+SP,Murutinga do Sul,4111
+SP,Nantes,2188
+SP,Narandiba,4190
+SP,Natividade da Serra,7317
+SP,Nazar� Paulista,16434
+SP,Neves Paulista,9346
+SP,Nhandeara,10084
+SP,Nipo�,3615
+SP,Nova Alian�a,5192
+SP,Nova Campina,8830
+SP,Nova Cana� Paulista,2292
+SP,Nova Castilho,1032
+SP,Nova Europa,8731
+SP,Nova Granada,18591
+SP,Nova Guataporanga,2053
+SP,Nova Independ�ncia,2114
+SP,Nova Luzit�nia,2825
+SP,Nova Odessa,47990
+SP,Novais,3325
+SP,Novo Horizonte,33900
+SP,Nuporanga,6693
+SP,Ocau�u,4055
+SP,�leo,3137
+SP,Ol�mpia,48309
+SP,Onda Verde,3845
+SP,Oriente,5205
+SP,Orindi�va,4985
+SP,Orl�ndia,39467
+SP,Osasco,714950
+SP,Oscar Bressane,2567
+SP,Osvaldo Cruz,30188
+SP,Ourinhos,106350
+SP,Ouro Verde,7189
+SP,Ouroeste,7286
+SP,Pacaembu,12631
+SP,Palestina,9166
+SP,Palmares Paulista,9262
+SP,Palmeira d'Oeste,9858
+SP,Palmital,22193
+SP,Panorama,14614
+SP,Paragua�u Paulista,43889
+SP,Paraibuna,18574
+SP,Para�so,5943
+SP,Paranapanema,17516
+SP,Paranapu�,3532
+SP,Parapu�,10872
+SP,Pardinho,5684
+SP,Pariquera-A�u,20964
+SP,Parisi,2268
+SP,Patroc�nio Paulista,12673
+SP,Paulic�ia,6148
+SP,Paul�nia,62132
+SP,Paulist�nia,1967
+SP,Paulo de Faria,8585
+SP,Pederneiras,40009
+SP,Pedra Bela,5954
+SP,Pedran�polis,2460
+SP,Pedregulho,15929
+SP,Pedreira,40575
+SP,Pedrinhas Paulista,3067
+SP,Pedro de Toledo,10186
+SP,Pen�polis,59328
+SP,Pereira Barreto,24618
+SP,Pereiras,7541
+SP,Peru�be,65256
+SP,Piacatu,4689
+SP,Piedade,54972
+SP,Pilar do Sul,27244
+SP,Pindamonhangaba,143737
+SP,Pindorama,13652
+SP,Pinhalzinho,12873
+SP,Piquerobi,3633
+SP,Piquete,15533
+SP,Piracaia,26561
+SP,Piracicaba,366442
+SP,Piraju,29243
+SP,Piraju�,21031
+SP,Pirangi,10164
+SP,Pirapora do Bom Jesus,15676
+SP,Pirapozinho,22926
+SP,Pirassununga,70864
+SP,Piratininga,11270
+SP,Pitangueiras,34190
+SP,Planalto,3798
+SP,Platina,2895
+SP,Po�,110213
+SP,Poloni,4957
+SP,Pomp�ia,18862
+SP,Ponga�,3776
+SP,Pontal,34763
+SP,Pontalinda,3830
+SP,Pontes Gestal,2224
+SP,Populina,4285
+SP,Porangaba,7426
+SP,Porto Feliz,51854
+SP,Porto Ferreira,54048
+SP,Potim,16454
+SP,Potirendaba,15471
+SP,Pracinha,1407
+SP,Prad�polis,15160
+SP,Praia Grande,245386
+SP,Prat�nia,4417
+SP,Presidente Alves,4179
+SP,Presidente Bernardes,15589
+SP,Presidente Epit�cio,42585
+SP,Presidente Prudente,206704
+SP,Presidente Venceslau,38254
+SP,Promiss�o,33414
+SP,Quadra,3205
+SP,Quat�,11875
+SP,Queiroz,2345
+SP,Queluz,10148
+SP,Quintana,5631
+SP,Rafard,8191
+SP,Rancharia,30146
+SP,Reden��o da Serra,4076
+SP,Regente Feij�,18502
+SP,Regin�polis,4718
+SP,Registro,57299
+SP,Restinga,6454
+SP,Ribeira,3087
+SP,Ribeir�o do Sul,4740
+SP,Ribeir�o dos �ndios,2331
+SP,Ribeir�o Bonito,11924
+SP,Ribeir�o Branco,22674
+SP,Ribeir�o Corrente,4363
+SP,Ribeir�o Grande,8292
+SP,Ribeir�o Pires,118864
+SP,Ribeir�o Preto,559650
+SP,Rifaina,3641
+SP,Rinc�o,10311
+SP,Rin�polis,9579
+SP,Rio das Pedras,26739
+SP,Rio Claro,190373
+SP,Rio Grande da Serra,42405
+SP,Riol�ndia,9151
+SP,Riversul,5561
+SP,Rosana,26814
+SP,Roseira,10321
+SP,Rubi�cea,2114
+SP,Rubin�ia,2895
+SP,Sabino,5232
+SP,Sagres,2281
+SP,Sales,5158
+SP,Sales Oliveira,10576
+SP,Sales�polis,16573
+SP,Salmour�o,4356
+SP,Saltinho,6333
+SP,Salto,108552
+SP,Salto de Pirapora,42262
+SP,Salto Grande,9227
+SP,Sandovalina,3596
+SP,Santa Ad�lia,14065
+SP,Santa Albertina,5376
+SP,Santa B�rbara d'Oeste,188417
+SP,Santa Branca,15009
+SP,Santa Clara d'Oeste,1847
+SP,Santa Cruz da Concei��o,3970
+SP,Santa Cruz da Esperan�a,1874
+SP,Santa Cruz das Palmeiras,28318
+SP,Santa Cruz do Rio Pardo,44135
+SP,Santa Ernestina,5836
+SP,Santa F� do Sul,29026
+SP,Santa Gertrudes,19913
+SP,Santa Isabel,48001
+SP,Santa L�cia,9013
+SP,Santa Maria da Serra,4946
+SP,Santa Mercedes,2671
+SP,Santa Rita d'Oeste,2110
+SP,Santa Rita do Passa Quatro,27627
+SP,Santa Rosa de Viterbo,23091
+SP,Santa Salete,1375
+SP,Santana da Ponte Pensa,1546
+SP,Santana de Parna�ba,102224
+SP,Santo Anast�cio,21300
+SP,Santo Andr�,673234
+SP,Santo Ant�nio da Alegria,6214
+SP,Santo Ant�nio de Posse,20989
+SP,Santo Ant�nio do Aracangu�,6874
+SP,Santo Ant�nio do Jardim,6499
+SP,Santo Ant�nio do Pinhal,7047
+SP,Santo Expedito,2751
+SP,Sant�polis do Aguape�,3795
+SP,Santos,418375
+SP,S�o Bento do Sapuca�,11582
+SP,S�o Bernardo do Campo,803906
+SP,S�o Caetano do Sul,133241
+SP,S�o Carlos,218702
+SP,S�o Francisco,3100
+SP,S�o Jo�o da Boa Vista,83477
+SP,S�o Jo�o das Duas Pontes,2563
+SP,S�o Jo�o de Iracema,1725
+SP,S�o Jo�o do Pau d'Alho,1711
+SP,S�o Joaquim da Barra,45743
+SP,S�o Jos� da Bela Vista,8782
+SP,S�o Jos� do Barreiro,4298
+SP,S�o Jos� do Rio Pardo,54141
+SP,S�o Jos� do Rio Preto,415508
+SP,S�o Jos� dos Campos,610965
+SP,S�o Louren�o da Serra,15668
+SP,S�o Lu�s do Paraitinga,10804
+SP,S�o Manuel,39816
+SP,S�o Miguel Arcanjo,34801
+SP,S�o Paulo,11016703
+SP,S�o Pedro,33604
+SP,S�o Pedro do Turvo,7017
+SP,S�o Roque,73778
+SP,S�o Sebasti�o,75886
+SP,S�o Sebasti�o da Grama,12930
+SP,S�o Sim�o,14923
+SP,S�o Vicente,329370
+SP,Sarapu�,8787
+SP,Sarutai�,4268
+SP,Sebastian�polis do Sul,2568
+SP,Serra Azul,8388
+SP,Serra Negra,25438
+SP,Serrana,39539
+SP,Sert�ozinho,106407
+SP,Sete Barras,14591
+SP,Sever�nia,16063
+SP,Silveiras,5721
+SP,Socorro,34139
+SP,Sorocaba,578068
+SP,Sud Mennucci,7483
+SP,Sumar�,237900
+SP,Suzan�polis,2903
+SP,Suzano,280318
+SP,Tabapu�,10886
+SP,Tabatinga,14614
+SP,Tabo�o da Serra,225405
+SP,Taciba,5569
+SP,Tagua�,8237
+SP,Taia�u,6065
+SP,Tai�va,5719
+SP,Tamba�,24033
+SP,Tanabi,23381
+SP,Tapira�,10666
+SP,Tapiratiba,13787
+SP,Taquaral,2931
+SP,Taquaritinga,55866
+SP,Taquarituba,24528
+SP,Taquariva�,5504
+SP,Tarabai,6578
+SP,Tarum�,11606
+SP,Tatu�,107115
+SP,Taubat�,271660
+SP,Tejup�,5782
+SP,Teodoro Sampaio,20789
+SP,Terra Roxa,8578
+SP,Tiet�,36758
+SP,Timburi,2643
+SP,Torre de Pedra,2815
+SP,Torrinha,9823
+SP,Trabiju,1474
+SP,Trememb�,40182
+SP,Tr�s Fronteiras,5189
+SP,Tuiuti,5593
+SP,Tup�,66293
+SP,Tupi Paulista,12725
+SP,Turi�ba,1754
+SP,Turmalina,2082
+SP,Ubarana,5238
+SP,Ubatuba,81246
+SP,Ubirajara,4130
+SP,Uchoa,9552
+SP,Uni�o Paulista,1379
+SP,Ur�nia,8883
+SP,Uru,1445
+SP,Urup�s,12441
+SP,Valentim Gentil,10601
+SP,Valinhos,94124
+SP,Valpara�so,20070
+SP,Vargem,8430
+SP,Vargem Grande do Sul,40256
+SP,Vargem Grande Paulista,45110
+SP,V�rzea Paulista,110449
+SP,Vera Cruz,11117
+SP,Vinhedo,57269
+SP,Viradouro,18084
+SP,Vista Alegre do Alto,5597
+SP,Vit�ria Brasil,1845
+SP,Votorantim,107157
+SP,Votuporanga,83764
+SP,Zacarias,1937
+PR,Abati�,6796
+PR,Adrian�polis,5582
+PR,Agudos do Sul,8067
+PR,Almirante Tamandar�,113589
+PR,Altamira do Paran�,6675
+PR,Alto Para�so,3389
+PR,Alto Paran�,13212
+PR,Alto Piquiri,9403
+PR,Alt�nia,15269
+PR,Alvorada do Sul,8934
+PR,Amapor�,5178
+PR,Amp�re,17404
+PR,Anahy,2642
+PR,Andir�,23200
+PR,�ngulo,3166
+PR,Antonina,20729
+PR,Ant�nio Olinto,7166
+PR,Apucarana,117260
+PR,Arapongas,100855
+PR,Arapoti,26067
+PR,Arapu�,3519
+PR,Araruna,13594
+PR,Arauc�ria,118313
+PR,Ariranha do Iva�,2530
+PR,Assa�,16360
+PR,Assis Chateaubriand,28572
+PR,Astorga,24508
+PR,Atalaia,3931
+PR,Balsa Nova,11583
+PR,Bandeirantes,33305
+PR,Barbosa Ferraz,10947
+PR,Barra do Jacar�,2407
+PR,Barrac�o,8976
+PR,Bela Vista da Caroba,4094
+PR,Bela Vista do Para�so,14981
+PR,Bituruna,17862
+PR,Boa Esperan�a,3838
+PR,Boa Esperan�a do Igua�u,2561
+PR,Boa Ventura de S�o Roque,6767
+PR,Boa Vista da Aparecida,6984
+PR,Bocai�va do Sul,9983
+PR,Bom Jesus do Sul,3819
+PR,Bom Sucesso,5476
+PR,Bom Sucesso do Sul,3078
+PR,Borraz�polis,7954
+PR,Braganey,4803
+PR,Brasil�ndia do Sul,3341
+PR,Cafeara,2549
+PR,Cafel�ndia,13397
+PR,Cafezal do Sul,3793
+PR,Calif�rnia,7936
+PR,Cambar�,23773
+PR,Camb�,98788
+PR,Cambira,6936
+PR,Campina da Lagoa,14440
+PR,Campina do Sim�o,4259
+PR,Campina Grande do Sul,45817
+PR,Campo do Tenente,7144
+PR,Campo Bonito,5179
+PR,Campo Largo,107756
+PR,Campo Magro,26529
+PR,Campo Mour�o,82354
+PR,C�ndido de Abreu,16717
+PR,Cand�i,15315
+PR,Cantagalo,13128
+PR,Capanema,17405
+PR,Capit�o Le�nidas Marques,15492
+PR,Carambe�,17536
+PR,Carl�polis,14006
+PR,Cascavel,284083
+PR,Castro,69472
+PR,Catanduvas,10864
+PR,Centen�rio do Sul,10005
+PR,Cerro Azul,16559
+PR,C�u Azul,10341
+PR,Chopinzinho,20904
+PR,Cianorte,62985
+PR,Cidade Ga�cha,10314
+PR,Clevel�ndia,18546
+PR,Colombo,231787
+PR,Colorado,22424
+PR,Congonhinhas,7909
+PR,Conselheiro Mairinck,3441
+PR,Contenda,14719
+PR,Corb�lia,15445
+PR,Corn�lio Proc�pio,47021
+PR,Coronel Domingos Soares,7255
+PR,Coronel Vivida,21950
+PR,Corumbata� do Sul,3692
+PR,Cruz Machado,18479
+PR,Cruzeiro do Igua�u,3766
+PR,Cruzeiro do Oeste,17681
+PR,Cruzeiro do Sul,4576
+PR,Cruzmaltina,3643
+PR,Curitiba,1788559
+PR,Curi�va,14679
+PR,Diamante do Norte,4987
+PR,Diamante do Sul,3027
+PR,Diamante D'Oeste,1644
+PR,Dois Vizinhos,32583
+PR,Douradina,5851
+PR,Doutor Camargo,5655
+PR,Doutor Ulysses,6744
+PR,En�as Marques,5591
+PR,Engenheiro Beltr�o,13647
+PR,Entre Rios do Oeste,3626
+PR,Esperan�a Nova,1992
+PR,Espig�o Alto do Igua�u,4942
+PR,Farol,3653
+PR,Faxinal,14789
+PR,Fazenda Rio Grande,90875
+PR,F�nix,4173
+PR,Fernandes Pinheiro,6644
+PR,Figueira,8634
+PR,Flor da Serra do Sul,4936
+PR,Flora�,5126
+PR,Floresta,5562
+PR,Florest�polis,12332
+PR,Fl�rida,2684
+PR,Formosa do Oeste,6574
+PR,Foz do Igua�u,309113
+PR,Foz do Jord�o,6626
+PR,Francisco Alves,5294
+PR,Francisco Beltr�o,71463
+PR,General Carneiro,15830
+PR,Godoy Moreira,2758
+PR,Goioer�,26131
+PR,Goioxim,8592
+PR,Grandes Rios,7300
+PR,Gua�ra,27668
+PR,Guaira��,6151
+PR,Guamiranga,7884
+PR,Guapirama,4262
+PR,Guaporema,2210
+PR,Guaraci,4453
+PR,Guarania�u,14025
+PR,Guarapuava,169007
+PR,Guaraque�aba,8677
+PR,Guaratuba,34100
+PR,Hon�rio Serpa,6291
+PR,Ibaiti,26760
+PR,Ibema,5699
+PR,Ibipor�,47316
+PR,Icara�ma,8627
+PR,Iguara�u,3824
+PR,Iguatu,1693
+PR,Imba�,9955
+PR,Imbituva,29008
+PR,In�cio Martins,8884
+PR,Inaj�,3117
+PR,Indian�polis,4097
+PR,Ipiranga,13839
+PR,Ipor�,13650
+PR,Iracema do Oeste,2553
+PR,Irati,54855
+PR,Iretama,8025
+PR,Itaguaj�,4562
+PR,Itaipul�ndia,8800
+PR,Itambarac�,5148
+PR,Itamb�,5799
+PR,Itapejara d'Oeste,9248
+PR,Itaperu�u,25692
+PR,Ita�na do Sul,4367
+PR,Iva�,12228
+PR,Ivaipor�,28664
+PR,Ivat�,6836
+PR,Ivatuba,3009
+PR,Jaboti,4748
+PR,Jacarezinho,38714
+PR,Jaguapit�,11168
+PR,Jaguaria�va,35184
+PR,Jandaia do Sul,20491
+PR,Jani�polis,6214
+PR,Japira,4951
+PR,Japur�,7489
+PR,Jardim Alegre,13709
+PR,Jardim Olinda,1610
+PR,Jataizinho,11991
+PR,Jesu�tas,7608
+PR,Joaquim T�vora,9503
+PR,Jundia� do Sul,3242
+PR,Juranda,7645
+PR,Jussara,6486
+PR,Kalor�,3918
+PR,Lapa,45175
+PR,Laranjal,7364
+PR,Laranjeiras do Sul,30335
+PR,Le�polis,4203
+PR,Lidian�polis,3276
+PR,Lindoeste,5741
+PR,Loanda,20873
+PR,Lobato,4287
+PR,Londrina,495696
+PR,Luiziana,6141
+PR,Lunardelli,4292
+PR,Lupion�polis,4222
+PR,Mallet,13189
+PR,Mambor�,14509
+PR,Mandagua�u,18403
+PR,Mandaguari,33841
+PR,Mandirituba,20645
+PR,Manfrin�polis,2967
+PR,Mangueirinha,17664
+PR,Manoel Ribas,13742
+PR,Marechal C�ndido Rondon,45369
+PR,Maria Helena,4865
+PR,Marialva,33194
+PR,Maril�ndia do Sul,8948
+PR,Marilena,6779
+PR,Mariluz,9736
+PR,Maring�,324397
+PR,Mari�polis,5823
+PR,Marip�,5494
+PR,Marmeleiro,12785
+PR,Marquinho,5617
+PR,Marumbi,4320
+PR,Matel�ndia,14884
+PR,Matinhos,33688
+PR,Mato Rico,3276
+PR,Mau� da Serra,7908
+PR,Medianeira,40438
+PR,Mercedes,4905
+PR,Mirador,2620
+PR,Miraselva,1848
+PR,Missal,10478
+PR,Moreira Sales,10728
+PR,Morretes,16857
+PR,Munhoz de Melo,3233
+PR,Nossa Senhora das Gra�as,4094
+PR,Nova Alian�a do Iva�,1436
+PR,Nova Am�rica da Colina,3201
+PR,Nova Aurora,12271
+PR,Nova Cantu,8919
+PR,Nova Esperan�a,26867
+PR,Nova Esperan�a do Sudoeste,5156
+PR,Nova F�tima,8246
+PR,Nova Laranjeiras,10901
+PR,Nova Londrina,13402
+PR,Nova Ol�mpia,5194
+PR,Nova Prata do Igua�u,9497
+PR,Nova Santa B�rbara,3527
+PR,Nova Santa Rosa,7186
+PR,Nova Tebas,3481
+PR,Novo Itacolomi,2441
+PR,Ortigueira,23525
+PR,Ourizona,3134
+PR,Ouro Verde do Oeste,4838
+PR,Pai�andu,37096
+PR,Palmas,39417
+PR,Palmeira,32178
+PR,Palmital,16540
+PR,Palotina,26872
+PR,Para�so do Norte,10378
+PR,Paranacity,9538
+PR,Paranagu�,147934
+PR,Paranapoema,2347
+PR,Paranava�,79222
+PR,Pato Bragado,4428
+PR,Pato Branco,69903
+PR,Paula Freitas,5352
+PR,Paulo Frontin,6570
+PR,Peabiru,12989
+PR,Perobal,5169
+PR,P�rola,7043
+PR,P�rola d'Oeste,6438
+PR,Pi�n,11315
+PR,Pinhais,123288
+PR,Pinhal de S�o Bento,2348
+PR,Pinhal�o,6578
+PR,Pinh�o,27945
+PR,Pira� do Sul,23297
+PR,Piraquara,103574
+PR,Pitanga,34382
+PR,Pitangueiras,2508
+PR,Planaltina do Paran�,4137
+PR,Planalto,13405
+PR,Ponta Grossa,304973
+PR,Pontal do Paran�,18848
+PR,Porecatu,14979
+PR,Porto Amazonas,4722
+PR,Porto Barreiro,5261
+PR,Porto Rico,2061
+PR,Porto Vit�ria,4257
+PR,Prado Ferreira,3108
+PR,Pranchita,5559
+PR,Presidente Castelo Branco,4802
+PR,Primeiro de Maio,9854
+PR,Prudent�polis,45852
+PR,Quarto Centen�rio,4595
+PR,Quatigu�,7463
+PR,Quatro Barras,20709
+PR,Quatro Pontes,3637
+PR,Quedas do Igua�u,28729
+PR,Quer�ncia do Norte,12217
+PR,Quinta do Sol,5877
+PR,Quitandinha,15903
+PR,Ramil�ndia,3980
+PR,Rancho Alegre,3966
+PR,Rancho Alegre D'Oeste,2351
+PR,Realeza,15193
+PR,Rebou�as,14191
+PR,Renascen�a,6525
+PR,Reserva,23973
+PR,Reserva do Igua�u,7197
+PR,Ribeir�o do Pinhal,14711
+PR,Ribeir�o Claro,10547
+PR,Rio Azul,13479
+PR,Rio Bom,3065
+PR,Rio Bonito do Igua�u,20018
+PR,Rio Branco do Iva�,3383
+PR,Rio Branco do Sul,30671
+PR,Rio Negro,30480
+PR,Rol�ndia,55271
+PR,Roncador,10963
+PR,Rondon,8438
+PR,Ros�rio do Iva�,4680
+PR,Sab�udia,5502
+PR,Salgado Filho,4594
+PR,Salto do Itarar�,4950
+PR,Salto do Lontra,11953
+PR,Santa Am�lia,4244
+PR,Santa Cec�lia do Pav�o,3434
+PR,Santa Cruz de Monte Castelo,7373
+PR,Santa F�,8990
+PR,Santa Helena,21696
+PR,Santa In�s,2140
+PR,Santa Isabel do Iva�,8765
+PR,Santa Izabel do Oeste,11120
+PR,Santa L�cia,3498
+PR,Santa Maria do Oeste,13734
+PR,Santa Mariana,12553
+PR,Santa M�nica,3199
+PR,Santa Tereza do Oeste,14181
+PR,Santa Terezinha de Itaipu,21486
+PR,Santana do Itarar�,5348
+PR,Santo Ant�nio da Platina,40851
+PR,Santo Ant�nio do Caiu�,2706
+PR,Santo Ant�nio do Para�so,3013
+PR,Santo Ant�nio do Sudoeste,18186
+PR,Santo In�cio,4947
+PR,S�o Carlos do Iva�,6593
+PR,S�o Jer�nimo da Serra,10623
+PR,S�o Jo�o,9393
+PR,S�o Jo�o do Caiu�,6152
+PR,S�o Jo�o do Iva�,10634
+PR,S�o Jo�o do Triunfo,12490
+PR,S�o Jorge d'Oeste,8558
+PR,S�o Jorge do Iva�,5223
+PR,S�o Jorge do Patroc�nio,4732
+PR,S�o Jos� da Boa Vista,5848
+PR,S�o Jos� das Palmeiras,2998
+PR,S�o Jos� dos Pinhais,261125
+PR,S�o Manoel do Paran�,1849
+PR,S�o Mateus do Sul,39105
+PR,S�o Miguel do Igua�u,27307
+PR,S�o Pedro do Igua�u,6277
+PR,S�o Pedro do Iva�,9576
+PR,S�o Pedro do Paran�,2362
+PR,S�o Sebasti�o da Amoreira,8995
+PR,S�o Tom�,4993
+PR,Sapopema,6707
+PR,Sarandi,88747
+PR,Saudade do Igua�u,4663
+PR,Seng�s,19835
+PR,Serran�polis do Igua�u,5013
+PR,Sertaneja,6383
+PR,Sertan�polis,15780
+PR,Siqueira Campos,17311
+PR,Sulina,2954
+PR,Tamarana,10365
+PR,Tamboara,4016
+PR,Tapejara,13906
+PR,Tapira,4622
+PR,Teixeira Soares,8315
+PR,Tel�maco Borba,64192
+PR,Terra Boa,14929
+PR,Terra Rica,13714
+PR,Terra Roxa,13698
+PR,Tibagi,19925
+PR,Tijucas do Sul,13765
+PR,Toledo,107033
+PR,Tomazina,8467
+PR,Tr�s Barras do Paran�,9486
+PR,Tunas do Paran�,4159
+PR,Tuneiras do Oeste,7204
+PR,Tup�ssi,7419
+PR,Turvo,14814
+PR,Ubirat�,19463
+PR,Umuarama,96054
+PR,Uni�o da Vit�ria,51858
+PR,Uniflor,2140
+PR,Ura�,10824
+PR,Ventania,9267
+PR,Vera Cruz do Oeste,8380
+PR,Ver�,7619
+PR,Virmond,4226
+PR,Vitorino,6142
+PR,Wenceslau Braz,20067
+PR,Xambr�,4821
+SC,Abdon Batista,2428
+SC,Abelardo Luz,18909
+SC,Agrol�ndia,8275
+SC,Agron�mica,4615
+SC,�gua Doce,6882
+SC,�guas de Chapec�,5293
+SC,�guas Frias,2037
+SC,�guas Mornas,5140
+SC,Alfredo Wagner,8164
+SC,Alto Bela Vista,1831
+SC,Anchieta,5572
+SC,Angelina,5412
+SC,Anita Garibaldi,9991
+SC,Anit�polis,2990
+SC,Ant�nio Carlos,7041
+SC,Api�na,9103
+SC,Arabut�,4223
+SC,Araquari,21974
+SC,Ararangu�,62442
+SC,Armaz�m,7447
+SC,Arroio Trinta,3605
+SC,Arvoredo,2026
+SC,Ascurra,7505
+SC,Atalanta,3227
+SC,Aurora,5036
+SC,Balne�rio Arroio do Silva,7424
+SC,Balne�rio Barra do Sul,7934
+SC,Balne�rio Cambori�,97954
+SC,Balne�rio Gaivota,6671
+SC,Balne�rio Pi�arras,13111
+SC,Bandeirante,2779
+SC,Barra Bonita,1952
+SC,Barra Velha,19225
+SC,Bela Vista do Toldo,5718
+SC,Belmonte,2103
+SC,Benedito Novo,9578
+SC,Bigua�u,58435
+SC,Blumenau,298603
+SC,Bocaina do Sul,3160
+SC,Bom Jardim da Serra,4024
+SC,Bom Jesus,2079
+SC,Bom Jesus do Oeste,2071
+SC,Bom Retiro,8586
+SC,Bombinhas,11659
+SC,Botuver�,3536
+SC,Bra�o do Norte,30772
+SC,Bra�o do Trombudo,3682
+SC,Brun�polis,3259
+SC,Brusque,89254
+SC,Ca�ador,72606
+SC,Caibi,5560
+SC,Calmon,4069
+SC,Cambori�,53004
+SC,Campo Alegre,12787
+SC,Campo Belo do Sul,8076
+SC,Campo Er�,8349
+SC,Campos Novos,30418
+SC,Canelinha,9624
+SC,Canoinhas,53094
+SC,Cap�o Alto,3150
+SC,Capinzal,23180
+SC,Capivari de Baixo,20539
+SC,Catanduvas,9589
+SC,Caxambu do Sul,4743
+SC,Celso Ramos,2391
+SC,Cerro Negro,3313
+SC,Chapad�o do Lageado,2540
+SC,Chapec�,173262
+SC,Cocal do Sul,15074
+SC,Conc�rdia,66941
+SC,Cordilheira Alta,3241
+SC,Coronel Freitas,10624
+SC,Coronel Martins,1692
+SC,Correia Pinto,16977
+SC,Corup�,12925
+SC,Crici�ma,188233
+SC,Cunha Por�,9825
+SC,Cunhata�,1704
+SC,Curitibanos,38077
+SC,Descanso,8016
+SC,Dion�sio Cerqueira,14642
+SC,Dona Emma,3082
+SC,Doutor Pedrinho,3145
+SC,Entre Rios,2804
+SC,Ermo,2056
+SC,Erval Velho,4005
+SC,Faxinal dos Guedes,11876
+SC,Flor do Sert�o,1625
+SC,Florian�polis,406564
+SC,Formosa do Sul,2536
+SC,Forquilhinha,21518
+SC,Fraiburgo,37604
+SC,Frei Rog�rio,3262
+SC,Galv�o,3902
+SC,Garopaba,15563
+SC,Garuva,13305
+SC,Gaspar,54396
+SC,Governador Celso Ramos,13053
+SC,Gr�o Par�,6272
+SC,Gravatal,12667
+SC,Guabiruba,15246
+SC,Guaraciaba,10109
+SC,Guaramirim,30481
+SC,Guaruj� do Sul,4637
+SC,Guatamb�,4740
+SC,Herval d'Oeste,21679
+SC,Ibiam,1873
+SC,Ibicar�,3329
+SC,Ibirama,17417
+SC,I�ara,56423
+SC,Ilhota,11406
+SC,Imaru�,11906
+SC,Imbituba,39217
+SC,Imbuia,5185
+SC,Indaial,47612
+SC,Iomer�,2707
+SC,Ipira,5281
+SC,Ipor� do Oeste,7615
+SC,Ipua�u,6343
+SC,Ipumirim,6651
+SC,Iraceminha,3753
+SC,Irani,9544
+SC,Irati,1971
+SC,Irine�polis,9713
+SC,It�,6858
+SC,Itai�polis,20181
+SC,Itaja�,168088
+SC,Itapema,35990
+SC,Itapiranga,13182
+SC,Itapo�,12410
+SC,Ituporanga,20087
+SC,Jabor�,4037
+SC,Jacinto Machado,10486
+SC,Jaguaruna,16046
+SC,Jaragu� do Sul,131786
+SC,Jardin�polis,1811
+SC,Joa�aba,24991
+SC,Joinville,496051
+SC,Jos� Boiteux,4652
+SC,Jupi�,2099
+SC,Lacerd�polis,2242
+SC,Lages,168384
+SC,Laguna,49568
+SC,Lajeado Grande,1660
+SC,Laurentino,5606
+SC,Lauro Muller,13359
+SC,Lebon R�gis,12331
+SC,Leoberto Leal,3348
+SC,Lind�ia do Sul,4485
+SC,Lontras,8975
+SC,Luiz Alves,9108
+SC,Luzerna,5755
+SC,Macieira,1629
+SC,Mafra,52082
+SC,Major Gercino,2668
+SC,Major Vieira,6596
+SC,Maracaj�,6205
+SC,Maravilha,19037
+SC,Marema,2386
+SC,Massaranduba,13592
+SC,Matos Costa,3841
+SC,Meleiro,6893
+SC,Mirim Doce,2601
+SC,Modelo,3716
+SC,Monda�,8302
+SC,Monte Carlo,10874
+SC,Monte Castelo,8165
+SC,Morro da Fuma�a,16161
+SC,Morro Grande,2834
+SC,Navegantes,50888
+SC,Nova Erechim,3860
+SC,Nova Itaberaba,4317
+SC,Nova Trento,10392
+SC,Nova Veneza,12703
+SC,Novo Horizonte,2723
+SC,Orleans,20024
+SC,Otac�lio Costa,14954
+SC,Ouro,7876
+SC,Ouro Verde,2067
+SC,Paial,1978
+SC,Painel,2486
+SC,Palho�a,128102
+SC,Palma Sola,7725
+SC,Palmeira,2318
+SC,Palmitos,14766
+SC,Papanduva,17258
+SC,Para�so,3908
+SC,Passo de Torres,5629
+SC,Passos Maia,5900
+SC,Paulo Lopes,6215
+SC,Pedras Grandes,4817
+SC,Penha,21056
+SC,Peritiba,3260
+SC,Petrol�ndia,5917
+SC,Pinhalzinho,13600
+SC,Pinheiro Preto,2991
+SC,Piratuba,6479
+SC,Planalto Alegre,2368
+SC,Pomerode,24607
+SC,Ponte Alta,5475
+SC,Ponte Alta do Norte,3668
+SC,Ponte Serrada,11690
+SC,Porto Belo,13475
+SC,Porto Uni�o,33318
+SC,Pouso Redondo,12785
+SC,Praia Grande,7069
+SC,Presidente Castello Branco,2155
+SC,Presidente Get�lio,13043
+SC,Presidente Nereu,1958
+SC,Princesa,2408
+SC,Quilombo,9946
+SC,Rancho Queimado,2842
+SC,Rio das Antas,6407
+SC,Rio do Campo,6252
+SC,Rio do Oeste,6556
+SC,Rio do Sul,56063
+SC,Rio dos Cedros,9159
+SC,Rio Fortuna,4428
+SC,Rio Negrinho,44542
+SC,Rio Rufino,2748
+SC,Riqueza,4343
+SC,Rodeio,11126
+SC,Romel�ndia,4540
+SC,Salete,7125
+SC,Saltinho,3120
+SC,Salto Veloso,4206
+SC,Sang�o,9883
+SC,Santa Cec�lia,16421
+SC,Santa Helena,2307
+SC,Santa Rosa de Lima,2089
+SC,Santa Rosa do Sul,8241
+SC,Santa Terezinha,8991
+SC,Santa Terezinha do Progresso,2926
+SC,Santiago do Sul,1519
+SC,Santo Amaro da Imperatriz,18246
+SC,S�o Bento do Sul,76604
+SC,S�o Bernardino,2510
+SC,S�o Bonif�cio,3103
+SC,S�o Carlos,8682
+SC,S�o Cristov�o do Sul,5093
+SC,S�o Domingos,8635
+SC,S�o Francisco do Sul,38699
+SC,S�o Jo�o do Itaperi�,3502
+SC,S�o Jo�o do Oeste,5148
+SC,S�o Jo�o do Sul,7180
+SC,S�o Jo�o Batista,16410
+SC,S�o Joaquim,23236
+SC,S�o Jos�,201103
+SC,S�o Jos� do Cedro,12862
+SC,S�o Jos� do Cerrito,9505
+SC,S�o Louren�o do Oeste,20202
+SC,S�o Ludgero,10494
+SC,S�o Martinho,3197
+SC,S�o Miguel da Boa Vista,1571
+SC,S�o Miguel do Oeste,33194
+SC,S�o Pedro de Alc�ntara,3868
+SC,Saudades,7800
+SC,Schroeder,11779
+SC,Seara,17545
+SC,Serra Alta,2938
+SC,Sider�polis,13081
+SC,Sombrio,26293
+SC,Sul Brasil,2557
+SC,Tai�,16107
+SC,Tangar�,8005
+SC,Tigrinhos,1936
+SC,Tijucas,26344
+SC,Timb� do Sul,5136
+SC,Timb�,33462
+SC,Timb� Grande,7640
+SC,Tr�s Barras,18224
+SC,Treviso,3503
+SC,Treze de Maio,7097
+SC,Treze T�lias,5441
+SC,Trombudo Central,5738
+SC,Tubar�o,95339
+SC,Tun�polis,4257
+SC,Turvo,11220
+SC,Uni�o do Oeste,3312
+SC,Urubici,10622
+SC,Urupema,2566
+SC,Urussanga,19279
+SC,Varge�o,3397
+SC,Vargem,3194
+SC,Vargem Bonita,4692
+SC,Vidal Ramos,5841
+SC,Videira,47510
+SC,Vitor Meireles,5247
+SC,Witmarsum,3020
+SC,Xanxer�,40862
+SC,Xavantina,3992
+SC,Xaxim,25126
+SC,Zort�a,2879
+RS,Acegu�,4188
+RS,�gua Santa,4006
+RS,Agudo,18000
+RS,Ajuricaba,7419
+RS,Alecrim,7281
+RS,Alegrete,88513
+RS,Alegria,4717
+RS,Almirante Tamandar� do Sul,2408
+RS,Alpestre,7826
+RS,Alto Alegre,2136
+RS,Alto Feliz,2869
+RS,Alvorada,214953
+RS,Amaral Ferrador,5609
+RS,Ametista do Sul,8152
+RS,Andr� da Rocha,1162
+RS,Anta Gorda,6181
+RS,Ant�nio Prado,14344
+RS,Arambar�,4577
+RS,Araric�,4821
+RS,Aratiba,6505
+RS,Arroio do Meio,18587
+RS,Arroio do Padre,2771
+RS,Arroio do Sal,6930
+RS,Arroio do Tigre,12483
+RS,Arroio dos Ratos,14452
+RS,Arroio Grande,19893
+RS,Arvorezinha,10598
+RS,Augusto Pestana,7735
+RS,�urea,3723
+RS,Bag�,122461
+RS,Balne�rio Pinhal,10083
+RS,Bar�o,5306
+RS,Bar�o de Cotegipe,6422
+RS,Bar�o do Triunfo,7241
+RS,Barra do Guarita,2595
+RS,Barra do Quara�,4333
+RS,Barra do Ribeiro,12656
+RS,Barra do Rio Azul,2150
+RS,Barra Funda,2420
+RS,Barrac�o,5118
+RS,Barros Cassal,10637
+RS,Benjamin Constant do Sul,2459
+RS,Bento Gon�alves,104423
+RS,Boa Vista das Miss�es,2213
+RS,Boa Vista do Buric�,6674
+RS,Boa Vista do Cadeado,2531
+RS,Boa Vista do Incra,2346
+RS,Boa Vista do Sul,2908
+RS,Bom Jesus,11073
+RS,Bom Princ�pio,10989
+RS,Bom Progresso,2840
+RS,Bom Retiro do Sul,11996
+RS,Boqueir�o do Le�o,8169
+RS,Bossoroca,7626
+RS,Bozano,2464
+RS,Braga,3661
+RS,Brochier,4606
+RS,Buti�,21519
+RS,Ca�apava do Sul,34661
+RS,Cacequi,14924
+RS,Cachoeira do Sul,89669
+RS,Cachoeirinha,121880
+RS,Cacique Doble,4593
+RS,Caibat�,4907
+RS,Cai�ara,5120
+RS,Camaqu�,64338
+RS,Camargo,2477
+RS,Cambar� do Sul,6654
+RS,Campestre da Serra,3255
+RS,Campina das Miss�es,6449
+RS,Campinas do Sul,5557
+RS,Campo Bom,58558
+RS,Campo Novo,6354
+RS,Campos Borges,3724
+RS,Candel�ria,31014
+RS,C�ndido God�i,6522
+RS,Candiota,9877
+RS,Canela,40147
+RS,Cangu�u,52245
+RS,Canoas,333322
+RS,Canudos do Vale,2165
+RS,Cap�o da Canoa,38647
+RS,Cap�o do Cip�,2656
+RS,Cap�o do Le�o,27283
+RS,Cap�o Bonito do Sul,1983
+RS,Capela de Santana,11921
+RS,Capit�o,2833
+RS,Capivari do Sul,3550
+RS,Cara�,6713
+RS,Carazinho,61973
+RS,Carlos Barbosa,23609
+RS,Carlos Gomes,1578
+RS,Casca,8790
+RS,Caseiros,2885
+RS,Catu�pe,9661
+RS,Caxias do Sul,412053
+RS,Centen�rio,2992
+RS,Cerrito,6929
+RS,Cerro Branco,4313
+RS,Cerro Grande,2338
+RS,Cerro Grande do Sul,8854
+RS,Cerro Largo,12212
+RS,Chapada,9410
+RS,Charqueadas,33808
+RS,Charrua,3722
+RS,Chiapetta,4551
+RS,Chu�,6605
+RS,Chuvisca,4643
+RS,Cidreira,11767
+RS,Cir�aco,4806
+RS,Colinas,2375
+RS,Colorado,3833
+RS,Condor,6543
+RS,Constantina,9424
+RS,Coqueiro Baixo,1547
+RS,Coqueiros do Sul,2550
+RS,Coronel Barros,2472
+RS,Coronel Bicaco,7575
+RS,Coronel Pilar,2114
+RS,Cotipor�,4044
+RS,Coxilha,2933
+RS,Crissiumal,13341
+RS,Cristal,7044
+RS,Cristal do Sul,2765
+RS,Cruz Alta,69067
+RS,Cruzaltense,2482
+RS,Cruzeiro do Sul,12421
+RS,David Canabarro,4793
+RS,Derrubadas,3153
+RS,Dezesseis de Novembro,3049
+RS,Dilermando de Aguiar,3355
+RS,Dois Irm�os,28155
+RS,Dois Irm�os das Miss�es,2032
+RS,Dois Lajeados,3228
+RS,Dom Feliciano,14526
+RS,Dom Pedrito,42151
+RS,Dom Pedro de Alc�ntara,2918
+RS,Dona Francisca,4136
+RS,Doutor Maur�cio Cardoso,5679
+RS,Doutor Ricardo,2180
+RS,Eldorado do Sul,34338
+RS,Encantado,20012
+RS,Encruzilhada do Sul,25402
+RS,Engenho Velho,1674
+RS,Entre Rios do Sul,3084
+RS,Entre-Iju�s,9515
+RS,Erebango,2886
+RS,Erechim,100251
+RS,Ernestina,3129
+RS,Erval Grande,4446
+RS,Erval Seco,8417
+RS,Esmeralda,3012
+RS,Esperan�a do Sul,3238
+RS,Espumoso,14663
+RS,Esta��o,6743
+RS,Est�ncia Velha,40263
+RS,Esteio,87070
+RS,Estrela,29564
+RS,Estrela Velha,3665
+RS,Eug�nio de Castro,3144
+RS,Fagundes Varela,2410
+RS,Farroupilha,62966
+RS,Faxinal do Soturno,7002
+RS,Faxinalzinho,2803
+RS,Fazenda Vilanova,3214
+RS,Feliz,12974
+RS,Flores da Cunha,28195
+RS,Floriano Peixoto,2190
+RS,Fontoura Xavier,11015
+RS,Formigueiro,7526
+RS,Forquetinha,2959
+RS,Fortaleza dos Valos,5289
+RS,Frederico Westphalen,28107
+RS,Garibaldi,29709
+RS,Garruchos,4051
+RS,Gaurama,6311
+RS,General C�mara,8619
+RS,Gentil,1648
+RS,Get�lio Vargas,16095
+RS,Giru�,17869
+RS,Glorinha,6495
+RS,Gramado,33396
+RS,Gramado dos Loureiros,2460
+RS,Gramado Xavier,3735
+RS,Gravata�,270763
+RS,Guabiju,1758
+RS,Gua�ba,105808
+RS,Guapor�,22079
+RS,Guarani das Miss�es,8515
+RS,Harmonia,4091
+RS,Herval,7635
+RS,Herveiras,3015
+RS,Horizontina,18199
+RS,Hulha Negra,3876
+RS,Humait�,4668
+RS,Ibarama,3968
+RS,Ibia��,4383
+RS,Ibiraiaras,7003
+RS,Ibirapuit�,3866
+RS,Ibirub�,19237
+RS,Igrejinha,31389
+RS,Iju�,79575
+RS,Il�polis,4547
+RS,Imb�,15856
+RS,Imigrante,2925
+RS,Independ�ncia,7173
+RS,Inhacor�,2400
+RS,Ip�,5262
+RS,Ipiranga do Sul,1842
+RS,Ira�,8127
+RS,Itaara,5220
+RS,Itacurubi,3601
+RS,Itapuca,2589
+RS,Itaqui,42842
+RS,Itati,3032
+RS,Itatiba do Sul,4214
+RS,Ivor�,2445
+RS,Ivoti,18379
+RS,Jaboticaba,4145
+RS,Jacuizinho,2493
+RS,Jacutinga,3793
+RS,Jaguar�o,31821
+RS,Jaguari,12295
+RS,Jaquirana,5376
+RS,Jari,3653
+RS,J�ia,8858
+RS,J�lio de Castilhos,20938
+RS,Lagoa dos Tr�s Cantos,1520
+RS,Lagoa Bonita do Sul,2561
+RS,Lagoa Vermelha,28925
+RS,Lago�o,6143
+RS,Lajeado,67557
+RS,Lajeado do Bugre,2358
+RS,Lavras do Sul,7576
+RS,Liberato Salzano,5031
+RS,Lindolfo Collor,5366
+RS,Linha Nova,1642
+RS,Ma�ambara,5473
+RS,Machadinho,4538
+RS,Mampituba,3175
+RS,Manoel Viana,7904
+RS,Maquin�,7671
+RS,Marat�,2599
+RS,Marau,33006
+RS,Marcelino Ramos,5390
+RS,Mariana Pimentel,4229
+RS,Mariano Moro,2087
+RS,Marques de Souza,4497
+RS,Mata,5573
+RS,Mato Castelhano,2630
+RS,Mato Leit�o,3580
+RS,Mato Queimado,1902
+RS,Maximiliano de Almeida,4925
+RS,Minas do Le�o,7682
+RS,Miragua�,4321
+RS,Montauri,1609
+RS,Monte Alegre dos Campos,3298
+RS,Monte Belo do Sul,2850
+RS,Montenegro,60551
+RS,Morma�o,2452
+RS,Morrinhos do Sul,3539
+RS,Morro Redondo,5945
+RS,Morro Reuter,5548
+RS,Mostardas,13557
+RS,Mu�um,4630
+RS,Muitos Cap�es,3094
+RS,Muliterno,1675
+RS,N�o-Me-Toque,15255
+RS,Nicolau Vergueiro,1818
+RS,Nonoai,12962
+RS,Nova Alvorada,2834
+RS,Nova Ara��,3508
+RS,Nova Bassano,8630
+RS,Nova Boa Vista,2098
+RS,Nova Br�scia,3007
+RS,Nova Candel�ria,2699
+RS,Nova Esperan�a do Sul,4321
+RS,Nova Hartz,18965
+RS,Nova P�dua,2465
+RS,Nova Palma,6410
+RS,Nova Petr�polis,19513
+RS,Nova Prata,20759
+RS,Nova Ramada,2549
+RS,Nova Roma do Sul,3086
+RS,Nova Santa Rita,20093
+RS,Novo Barreiro,3752
+RS,Novo Cabrais,3739
+RS,Novo Hamburgo,258754
+RS,Novo Machado,4174
+RS,Novo Tiradentes,2435
+RS,Novo Xingu,1771
+RS,Os�rio,40626
+RS,Paim Filho,4414
+RS,Palmares do Sul,12346
+RS,Palmeira das Miss�es,35896
+RS,Palmitinho,7045
+RS,Panambi,34998
+RS,Pantano Grande,11690
+RS,Para�,6693
+RS,Para�so do Sul,7690
+RS,Pareci Novo,3583
+RS,Parob�,54223
+RS,Passa Sete,4555
+RS,Passo do Sobrado,5731
+RS,Passo Fundo,188302
+RS,Paulo Bento,2352
+RS,Paverama,8145
+RS,Pedras Altas,2784
+RS,Pedro Os�rio,8228
+RS,Peju�ara,4300
+RS,Pelotas,346452
+RS,Picada Caf�,5528
+RS,Pinhal,2328
+RS,Pinhal da Serra,2321
+RS,Pinhal Grande,5166
+RS,Pinheirinho do Vale,3681
+RS,Pinheiro Machado,14606
+RS,Pirap�,3002
+RS,Piratini,20714
+RS,Planalto,10553
+RS,Po�o das Antas,1828
+RS,Pont�o,3491
+RS,Ponte Preta,1965
+RS,Port�o,28477
+RS,Porto Alegre,1440939
+RS,Porto Lucena,5875
+RS,Porto Mau�,2690
+RS,Porto Vera Cruz,2179
+RS,Porto Xavier,11379
+RS,Pouso Novo,2180
+RS,Presidente Lucena,2173
+RS,Progresso,5928
+RS,Prot�sio Alves,1943
+RS,Putinga,4059
+RS,Quara�,25420
+RS,Quatro Irm�os,1959
+RS,Quevedos,2632
+RS,Quinze de Novembro,3694
+RS,Redentora,8602
+RS,Relvado,2084
+RS,Restinga Seca,17256
+RS,Rio dos �ndios,4007
+RS,Rio Grande,196982
+RS,Rio Pardo,38003
+RS,Riozinho,4575
+RS,Roca Sales,9365
+RS,Rodeio Bonito,5537
+RS,Rolador,2755
+RS,Rolante,21126
+RS,Ronda Alta,9455
+RS,Rondinha,5354
+RS,Roque Gonzales,7053
+RS,Ros�rio do Sul,41497
+RS,Sagrada Fam�lia,2509
+RS,Saldanha Marinho,3095
+RS,Salto do Jacu�,12898
+RS,Salvador das Miss�es,2587
+RS,Salvador do Sul,6098
+RS,Sananduva,14963
+RS,Santa B�rbara do Sul,10049
+RS,Santa Cec�lia do Sul,1789
+RS,Santa Clara do Sul,5327
+RS,Santa Cruz do Sul,119803
+RS,Santa Margarida do Sul,2263
+RS,Santa Maria,270073
+RS,Santa Maria do Herval,6476
+RS,Santa Rosa,69989
+RS,Santa Tereza,1531
+RS,Santa Vit�ria do Palmar,34830
+RS,Santana da Boa Vista,8778
+RS,Santana do Livramento,98681
+RS,Santiago,52007
+RS,Santo �ngelo,80117
+RS,Santo Ant�nio da Patrulha,38818
+RS,Santo Ant�nio das Miss�es,12496
+RS,Santo Ant�nio do Palma,2163
+RS,Santo Ant�nio do Planalto,1995
+RS,Santo Augusto,13846
+RS,Santo Cristo,14907
+RS,Santo Expedito do Sul,2449
+RS,S�o Borja,67788
+RS,S�o Domingos do Sul,3031
+RS,S�o Francisco de Assis,20573
+RS,S�o Francisco de Paula,20075
+RS,S�o Gabriel,62543
+RS,S�o Jer�nimo,20022
+RS,S�o Jo�o da Urtiga,4720
+RS,S�o Jo�o do Pol�sine,2955
+RS,S�o Jorge,2876
+RS,S�o Jos� das Miss�es,2829
+RS,S�o Jos� do Herval,2585
+RS,S�o Jos� do Hort�ncio,3958
+RS,S�o Jos� do Inhacor�,2296
+RS,S�o Jos� do Norte,25071
+RS,S�o Jos� do Ouro,7020
+RS,S�o Jos� do Sul,1895
+RS,S�o Jos� dos Ausentes,3253
+RS,S�o Leopoldo,212498
+RS,S�o Louren�o do Sul,45483
+RS,S�o Luiz Gonzaga,35233
+RS,S�o Marcos,21250
+RS,S�o Martinho,5585
+RS,S�o Martinho da Serra,3365
+RS,S�o Miguel das Miss�es,7514
+RS,S�o Nicolau,6060
+RS,S�o Paulo das Miss�es,6200
+RS,S�o Pedro da Serra,3389
+RS,S�o Pedro das Miss�es,1769
+RS,S�o Pedro do Buti�,2869
+RS,S�o Pedro do Sul,16876
+RS,S�o Sebasti�o do Ca�,22193
+RS,S�o Sep�,24721
+RS,S�o Valentim,3732
+RS,S�o Valentim do Sul,1951
+RS,S�o Val�rio do Sul,2602
+RS,S�o Vendelino,1848
+RS,S�o Vicente do Sul,8898
+RS,Sapiranga,78996
+RS,Sapucaia do Sul,135956
+RS,Sarandi,19762
+RS,Seberi,10268
+RS,Sede Nova,2819
+RS,Segredo,6882
+RS,Selbach,5069
+RS,Senador Salgado Filho,2808
+RS,Sentinela do Sul,5100
+RS,Serafina Corr�a,12694
+RS,S�rio,2461
+RS,Sert�o,6856
+RS,Sert�o Santana,5577
+RS,Sete de Setembro,2149
+RS,Severiano de Almeida,3948
+RS,Silveira Martins,2712
+RS,Sinimbu,9597
+RS,Sobradinho,14471
+RS,Soledade,30901
+RS,Taba�,4089
+RS,Tapejara,15543
+RS,Tapera,11124
+RS,Tapes,17958
+RS,Taquara,60481
+RS,Taquari,28633
+RS,Taquaru�u do Sul,2818
+RS,Tavares,5539
+RS,Tenente Portela,13355
+RS,Terra de Areia,9194
+RS,Teut�nia,24772
+RS,Tio Hugo,2387
+RS,Tiradentes do Sul,6353
+RS,Toropi,3164
+RS,Torres,34913
+RS,Tramanda�,39104
+RS,Travesseiro,2195
+RS,Tr�s de Maio,24244
+RS,Tr�s Arroios,3038
+RS,Tr�s Cachoeiras,10649
+RS,Tr�s Coroas,22640
+RS,Tr�s Forquilhas,3225
+RS,Tr�s Palmeiras,4317
+RS,Tr�s Passos,23159
+RS,Trindade do Sul,5179
+RS,Triunfo,25302
+RS,Tucunduva,5998
+RS,Tunas,4252
+RS,Tupanci do Sul,1479
+RS,Tupanciret�,22123
+RS,Tupandi,3426
+RS,Tuparendi,9284
+RS,Turu�u,3968
+RS,Ubiretama,2514
+RS,Uni�o da Serra,1480
+RS,Unistalda,2723
+RS,Uruguaiana,136364
+RS,Vacaria,62261
+RS,Vale do Sol,10643
+RS,Vale Real,5015
+RS,Vale Verde,3287
+RS,Vanini,1932
+RS,Ven�ncio Aires,67373
+RS,Vera Cruz,23804
+RS,Veran�polis,21351
+RS,Vespasiano Correa,2167
+RS,Viadutos,5763
+RS,Viam�o,261971
+RS,Vicente Dutra,5761
+RS,Victor Graeff,3324
+RS,Vila Flores,3408
+RS,Vila L�ngaro,2287
+RS,Vila Maria,4257
+RS,Vila Nova do Sul,4576
+RS,Vista Alegre,2884
+RS,Vista Alegre do Prata,1496
+RS,Vista Ga�cha,2707
+RS,Vit�ria das Miss�es,3661
+RS,Westfalia,2896
+RS,Xangri-l�,10352
+MS,�gua Clara,14323
+MS,Alcin�polis,1873
+MS,Amamba�,32095
+MS,Anast�cio,24352
+MS,Anauril�ndia,8461
+MS,Ang�lica,6264
+MS,Ant�nio Jo�o,7979
+MS,Aparecida do Taboado,20789
+MS,Aquidauana,46469
+MS,Aral Moreira,8048
+MS,Bandeirantes,6614
+MS,Bataguassu,19706
+MS,Bataypor�,12587
+MS,Bela Vista,23707
+MS,Bodoquena,8550
+MS,Bonito,18000
+MS,Brasil�ndia,13144
+MS,Caarap�,19386
+MS,Camapu�,14319
+MS,Campo Grande,765247
+MS,Caracol,5081
+MS,Cassil�ndia,21497
+MS,Chapad�o do Sul,16102
+MS,Corguinho,3528
+MS,Coronel Sapucaia,13698
+MS,Corumb�,101089
+MS,Costa Rica,16488
+MS,Coxim,33408
+MS,Deod�polis,9603
+MS,Dois Irm�os do Buriti,9768
+MS,Douradina,4725
+MS,Dourados,186357
+MS,Eldorado,11084
+MS,F�tima do Sul,16861
+MS,Figueir�o,2945
+MS,Gl�ria de Dourados,8665
+MS,Guia Lopes da Laguna,12555
+MS,Iguatemi,15477
+MS,Inoc�ncia,8834
+MS,Itapor�,17865
+MS,Itaquira�,17751
+MS,Ivinhema,20024
+MS,Japor�,7340
+MS,Jaraguari,6049
+MS,Jardim,24920
+MS,Jate�,3365
+MS,Juti,4765
+MS,Lad�rio,17776
+MS,Laguna Carap�,6190
+MS,Maracaju,28599
+MS,Miranda,25099
+MS,Mundo Novo,14020
+MS,Navira�,41091
+MS,Nioaque,18064
+MS,Nova Alvorada do Sul,11949
+MS,Nova Andradina,39470
+MS,Novo Horizonte do Sul,4805
+MS,Parana�ba,39607
+MS,Paranhos,10758
+MS,Pedro Gomes,8695
+MS,Ponta Por�,68317
+MS,Porto Murtinho,13691
+MS,Ribas do Rio Pardo,19159
+MS,Rio Brilhante,27567
+MS,Rio Negro,5305
+MS,Rio Verde de Mato Grosso,20402
+MS,Rochedo,4976
+MS,Santa Rita do Pardo,7457
+MS,S�o Gabriel do Oeste,20359
+MS,Selv�ria,6172
+MS,Sete Quedas,7937
+MS,Sidrol�ndia,29298
+MS,Sonora,12251
+MS,Tacuru,9814
+MS,Taquarussu,2724
+MS,Terenos,12892
+MS,Tr�s Lagoas,87113
+MS,Vicentina,4667
+MT,Acorizal,6193
+MT,�gua Boa,14866
+MT,Alta Floresta,47281
+MT,Alto Araguaia,11883
+MT,Alto Boa Vista,4564
+MT,Alto Gar�as,8356
+MT,Alto Paraguai,5702
+MT,Alto Taquari,5557
+MT,Apiac�s,6328
+MT,Araguaiana,3456
+MT,Araguainha,1305
+MT,Araputanga,14499
+MT,Aren�polis,10169
+MT,Aripuan�,19372
+MT,Bar�o de Melga�o,6074
+MT,Barra do Bugres,32744
+MT,Barra do Gar�as,56853
+MT,Bom Jesus do Araguaia,4703
+MT,Brasnorte,12464
+MT,C�ceres,90391
+MT,Campin�polis,12863
+MT,Campo Novo do Parecis,26562
+MT,Campo Verde,25533
+MT,Campos de J�lio,4264
+MT,Canabrava do Norte,6530
+MT,Canarana,19329
+MT,Carlinda,9065
+MT,Castanheira,6920
+MT,Chapada dos Guimar�es,17940
+MT,Cl�udia,12073
+MT,Cocalinho,5396
+MT,Col�der,26738
+MT,Colniza,14149
+MT,Comodoro,19543
+MT,Confresa,28594
+MT,Conquista D'Oeste,2947
+MT,Cotrigua�u,13390
+MT,Cuiab�,542861
+MT,Curvel�ndia,4967
+MT,Denise,9489
+MT,Diamantino,20486
+MT,Dom Aquino,8165
+MT,Feliz Natal,9557
+MT,Figueir�polis D'Oeste,3503
+MT,Ga�cha do Norte,5619
+MT,General Carneiro,4380
+MT,Gl�ria D'Oeste,2541
+MT,Guarant� do Norte,33791
+MT,Guiratinga,11085
+MT,Indiava�,2080
+MT,Ipiranga do Norte,2236
+MT,Itanhang�,4337
+MT,Ita�ba,6491
+MT,Itiquira,10083
+MT,Jaciara,27494
+MT,Jangada,8543
+MT,Jauru,12747
+MT,Juara,36168
+MT,Ju�na,39526
+MT,Juruena,6420
+MT,Juscimeira,12887
+MT,Lambari D'Oeste,3535
+MT,Lucas do Rio Verde,28646
+MT,Luci�ra,2053
+MT,Marcel�ndia,18634
+MT,Matup�,12078
+MT,Mirassol d'Oeste,22623
+MT,Nobres,15630
+MT,Nortel�ndia,5160
+MT,Nossa Senhora do Livramento,13361
+MT,Nova Bandeirantes,9800
+MT,Nova Brasil�ndia,4606
+MT,Nova Cana� do Norte,11015
+MT,Nova Guarita,5491
+MT,Nova Lacerda,4789
+MT,Nova Maril�ndia,2891
+MT,Nova Maring�,4188
+MT,Nova Monte Verde,8883
+MT,Nova Mutum,19178
+MT,Nova Nazar�,2001
+MT,Nova Ol�mpia,19562
+MT,Nova Santa Helena,3671
+MT,Nova Ubirat�,7749
+MT,Nova Xavantina,17332
+MT,Novo Horizonte do Norte,2952
+MT,Novo Mundo,6508
+MT,Novo Santo Ant�nio,1165
+MT,Novo S�o Joaquim,8944
+MT,Parana�ta,8812
+MT,Paranatinga,15830
+MT,Pedra Preta,15375
+MT,Peixoto de Azevedo,17978
+MT,Planalto da Serra,2965
+MT,Pocon�,31451
+MT,Pontal do Araguaia,4537
+MT,Ponte Branca,1933
+MT,Pontes e Lacerda,42429
+MT,Porto dos Ga�chos,6559
+MT,Porto Alegre do Norte,9465
+MT,Porto Esperidi�o,11038
+MT,Porto Estrela,4096
+MT,Poxor�o,17186
+MT,Primavera do Leste,60060
+MT,Quer�ncia,10428
+MT,Reserva do Caba�al,1679
+MT,Ribeir�o Cascalheira,7691
+MT,Ribeir�ozinho,2388
+MT,Rio Branco,4617
+MT,Rondol�ndia,4347
+MT,Rondon�polis,169814
+MT,Ros�rio Oeste,17679
+MT,Salto do C�u,2775
+MT,Santa Carmem,4414
+MT,Santa Cruz do Xingu,1483
+MT,Santa Rita do Trivelato,1763
+MT,Santa Terezinha,6759
+MT,Santo Afonso,2162
+MT,Santo Ant�nio do Leste,2216
+MT,Santo Ant�nio do Leverger,15469
+MT,S�o F�lix do Araguaia,9226
+MT,S�o Jos� do Povo,3139
+MT,S�o Jos� do Rio Claro,14434
+MT,S�o Jos� do Xingu,6997
+MT,S�o Jos� dos Quatro Marcos,17980
+MT,S�o Pedro da Cipa,3641
+MT,Sapezal,12656
+MT,Serra Nova Dourada,1345
+MT,Sinop,103868
+MT,Sorriso,50613
+MT,Tabapor�,16991
+MT,Tangar� da Serra,72311
+MT,Tapurah,7741
+MT,Terra Nova do Norte,11514
+MT,Tesouro,2082
+MT,Torixor�u,4190
+MT,Uni�o do Sul,5834
+MT,Vale de S�o Domingos,3337
+MT,V�rzea Grande,254736
+MT,Vera,11499
+MT,Vila Bela da Sant�ssima Trindade,14862
+MT,Vila Rica,20108
+GO,Abadia de Goi�s,6531
+GO,Abadi�nia,12967
+GO,Acre�na,21436
+GO,Adel�ndia,2549
+GO,�gua Fria de Goi�s,4833
+GO,�gua Limpa,2394
+GO,�guas Lindas de Goi�s,168919
+GO,Alex�nia,22689
+GO,Alo�ndia,2229
+GO,Alto Horizonte,2872
+GO,Alto Para�so de Goi�s,7652
+GO,Alvorada do Norte,7685
+GO,Amaralina,3123
+GO,Americano do Brasil,4986
+GO,Amorin�polis,3936
+GO,An�polis,318808
+GO,Anhanguera,914
+GO,Anicuns,19159
+GO,Aparecida de Goi�nia,453104
+GO,Aparecida do Rio Doce,2786
+GO,Apor�,3513
+GO,Ara�u,4449
+GO,Aragar�as,18698
+GO,Aragoi�nia,7715
+GO,Araguapaz,7264
+GO,Aren�polis,3890
+GO,Aruan�,5232
+GO,Auril�ndia,4213
+GO,Avelin�polis,2633
+GO,Baliza,897
+GO,Barro Alto,5513
+GO,Bela Vista de Goi�s,22043
+GO,Bom Jardim de Goi�s,8129
+GO,Bom Jesus de Goi�s,18035
+GO,Bonfin�polis,6853
+GO,Bon�polis,2572
+GO,Brazabrantes,3096
+GO,Brit�nia,5717
+GO,Buriti de Goi�s,3106
+GO,Buriti Alegre,8700
+GO,Buritin�polis,3627
+GO,Cabeceiras,6975
+GO,Cachoeira de Goi�s,1545
+GO,Cachoeira Alta,8676
+GO,Cachoeira Dourada,8542
+GO,Ca�u,10092
+GO,Caiap�nia,15233
+GO,Caldas Novas,68508
+GO,Caldazinha,3539
+GO,Campestre de Goi�s,3796
+GO,Campina�u,3133
+GO,Campinorte,10664
+GO,Campo Alegre de Goi�s,4522
+GO,Campo Limpo de Goi�s,5277
+GO,Campos Belos,18748
+GO,Campos Verdes,1707
+GO,Carmo do Rio Verde,7426
+GO,Castel�ndia,4451
+GO,Catal�o,71680
+GO,Catura�,4475
+GO,Cavalcante,9885
+GO,Ceres,18960
+GO,Cezarina,7083
+GO,Chapad�o do C�u,5338
+GO,Cidade Ocidental,48778
+GO,Cocalzinho de Goi�s,17779
+GO,Colinas do Sul,3882
+GO,C�rrego do Ouro,2739
+GO,Corumb� de Goi�s,9957
+GO,Corumba�ba,7487
+GO,Cristalina,40900
+GO,Cristian�polis,3324
+GO,Crix�s,11305
+GO,Crom�nia,3852
+GO,Cumari,3269
+GO,Damian�polis,3028
+GO,Damol�ndia,2558
+GO,Davin�polis,2029
+GO,Diorama,2395
+GO,Divin�polis de Goi�s,5281
+GO,Doverl�ndia,7335
+GO,Edealina,3629
+GO,Ed�ia,11128
+GO,Estrela do Norte,3406
+GO,Faina,6987
+GO,Fazenda Nova,7040
+GO,Firmin�polis,10021
+GO,Flores de Goi�s,9320
+GO,Formosa,92331
+GO,Formoso,5168
+GO,Gameleira de Goi�s,2816
+GO,Goian�polis,13212
+GO,Goiandira,4671
+GO,Goian�sia,53317
+GO,Goi�nia,1220412
+GO,Goianira,24492
+GO,Goi�s,26631
+GO,Goiatuba,32066
+GO,Gouvel�ndia,3915
+GO,Guap�,15439
+GO,Guara�ta,2842
+GO,Guarani de Goi�s,3988
+GO,Guarinos,2203
+GO,Heitora�,3758
+GO,Hidrol�ndia,15179
+GO,Hidrolina,4229
+GO,Iaciara,11841
+GO,Inaciol�ndia,5447
+GO,Indiara,13274
+GO,Inhumas,47984
+GO,Ipameri,23984
+GO,Ipiranga de Goi�s,2757
+GO,Ipor�,32491
+GO,Israel�ndia,2744
+GO,Itabera�,30116
+GO,Itaguari,4607
+GO,Itaguaru,5139
+GO,Itaj�,5926
+GO,Itapaci,14876
+GO,Itapirapu�,12189
+GO,Itapuranga,25450
+GO,Itarum�,5141
+GO,Itau�u,7981
+GO,Itumbiara,86496
+GO,Ivol�ndia,2976
+GO,Jandaia,6244
+GO,Jaragu�,37053
+GO,Jata�,84922
+GO,Jaupaci,3154
+GO,Jes�polis,2144
+GO,Jovi�nia,7260
+GO,Jussara,19381
+GO,Lagoa Santa,965
+GO,Leopoldo de Bulh�es,8054
+GO,Luzi�nia,187262
+GO,Mairipotaba,2209
+GO,Mamba�,5497
+GO,Mara Rosa,11311
+GO,Marzag�o,2301
+GO,Matrinch�,5001
+GO,Mauril�ndia,10187
+GO,Mimoso de Goi�s,2100
+GO,Mina�u,34584
+GO,Mineiros,44848
+GO,Moipor�,1852
+GO,Monte Alegre de Goi�s,6098
+GO,Montes Claros de Goi�s,7652
+GO,Montividiu,9318
+GO,Montividiu do Norte,4769
+GO,Morrinhos,40241
+GO,Morro Agudo de Goi�s,2462
+GO,Moss�medes,4908
+GO,Mozarl�ndia,12005
+GO,Mundo Novo,10055
+GO,Mutun�polis,3880
+GO,Naz�rio,6917
+GO,Ner�polis,22710
+GO,Niquel�ndia,36963
+GO,Nova Am�rica,2305
+GO,Nova Aurora,1988
+GO,Nova Crix�s,11031
+GO,Nova Gl�ria,9268
+GO,Nova Igua�u de Goi�s,2302
+GO,Nova Roma,2979
+GO,Nova Veneza,7457
+GO,Novo Brasil,3725
+GO,Novo Gama,96442
+GO,Novo Planalto,2721
+GO,Orizona,13508
+GO,Ouro Verde de Goi�s,4431
+GO,Ouvidor,4691
+GO,Padre Bernardo,25220
+GO,Palestina de Goi�s,3405
+GO,Palmeiras de Goi�s,18699
+GO,Palmelo,2446
+GO,Palmin�polis,3511
+GO,Panam�,2979
+GO,Paranaiguara,8719
+GO,Para�na,11575
+GO,Perol�ndia,3792
+GO,Petrolina de Goi�s,10115
+GO,Pilar de Goi�s,2226
+GO,Piracanjuba,24377
+GO,Piranhas,11900
+GO,Piren�polis,21240
+GO,Pires do Rio,29258
+GO,Planaltina,98491
+GO,Pontalina,17383
+GO,Porangatu,40436
+GO,Porteir�o,2983
+GO,Portel�ndia,4195
+GO,Posse,27932
+GO,Professor Jamil,3830
+GO,Quirin�polis,38165
+GO,Rialma,11169
+GO,Rian�polis,4419
+GO,Rio Quente,3028
+GO,Rio Verde,136229
+GO,Rubiataba,19122
+GO,Sanclerl�ndia,7661
+GO,Santa B�rbara de Goi�s,5737
+GO,Santa Cruz de Goi�s,3624
+GO,Santa F� de Goi�s,4497
+GO,Santa Helena de Goi�s,35582
+GO,Santa Isabel,3374
+GO,Santa Rita do Araguaia,5496
+GO,Santa Rita do Novo Destino,3150
+GO,Santa Rosa de Goi�s,3227
+GO,Santa Tereza de Goi�s,4398
+GO,Santa Terezinha de Goi�s,8684
+GO,Santo Ant�nio da Barra,4632
+GO,Santo Ant�nio de Goi�s,3932
+GO,Santo Ant�nio do Descoberto,78995
+GO,S�o Domingos,9123
+GO,S�o Francisco de Goi�s,6046
+GO,S�o Jo�o d'Alian�a,7933
+GO,S�o Jo�o da Para�na,2132
+GO,S�o Lu�s de Montes Belos,27376
+GO,S�o Lu�z do Norte,4173
+GO,S�o Miguel do Araguaia,25472
+GO,S�o Miguel do Passa Quatro,3970
+GO,S�o Patr�cio,1969
+GO,S�o Sim�o,15367
+GO,Senador Canedo,74687
+GO,Serran�polis,5406
+GO,Silv�nia,19252
+GO,Simol�ndia,6693
+GO,S�tio d'Abadia,2631
+GO,Taquaral de Goi�s,3231
+GO,Teresina de Goi�s,3481
+GO,Terez�polis de Goi�s,6266
+GO,Tr�s Ranchos,3253
+GO,Trindade,102430
+GO,Trombas,2993
+GO,Turv�nia,4948
+GO,Turvel�ndia,4327
+GO,Uirapuru,3087
+GO,Urua�u,33235
+GO,Uruana,14072
+GO,Uruta�,3304
+GO,Valpara�so de Goi�s,123921
+GO,Varj�o,3589
+GO,Vian�polis,12950
+GO,Vicentin�polis,6591
+GO,Vila Boa,3617
+GO,Vila Prop�cio,5001
+DF,Bras�lia,2383784
